@@ -1,0 +1,415 @@
+{
+ "lastRun": "2026-10-13T18:38:44+00:00",
+ "boardsTotal": 66,
+ "boardsOk": 63,
+ "boardsFailed": [
+  "Fuse Energy",
+  "Google DeepMind",
+  "Ki Insurance"
+ ],
+ "jobsActive": 382,
+ "newThisRun": 382,
+ "notes": [
+  "jobs.ac.uk: 286 results scanned",
+  "cam.ac.uk: 57 vacancies scanned",
+  "Amazon: 51 scanned, 11 kept"
+ ],
+ "boards": [
+  {
+   "company": "Adarga",
+   "ats": "recruitee",
+   "slug": "adarga",
+   "status": "ok: 2 jobs, 0 kept"
+  },
+  {
+   "company": "algo1",
+   "ats": "ashby",
+   "slug": "algo1",
+   "status": "ok: 4 jobs, 0 kept"
+  },
+  {
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "slug": "anthropic",
+   "status": "ok: 647 jobs, 51 kept"
+  },
+  {
+   "company": "Apollo Research",
+   "ats": "lever",
+   "slug": "apolloresearch",
+   "status": "ok: 12 jobs, 6 kept"
+  },
+  {
+   "company": "Applied AGI",
+   "ats": "ashby",
+   "slug": "applied",
+   "status": "ok: 327 jobs, 4 kept"
+  },
+  {
+   "company": "Atlas",
+   "ats": "ashby",
+   "slug": "atlas",
+   "status": "ok: 6 jobs, 0 kept"
+  },
+  {
+   "company": "Augur",
+   "ats": "ashby",
+   "slug": "augur",
+   "status": "ok: 2 jobs, 1 kept"
+  },
+  {
+   "company": "Basecamp Research",
+   "ats": "ashby",
+   "slug": "basecamp-research",
+   "status": "ok: 11 jobs, 2 kept"
+  },
+  {
+   "company": "Callosum",
+   "ats": "ashby",
+   "slug": "callosum",
+   "status": "ok: 13 jobs, 11 kept"
+  },
+  {
+   "company": "Cleo",
+   "ats": "greenhouse",
+   "slug": "cleo",
+   "status": "ok: 5 jobs, 0 kept"
+  },
+  {
+   "company": "Cohere",
+   "ats": "ashby",
+   "slug": "cohere",
+   "status": "ok: 118 jobs, 24 kept"
+  },
+  {
+   "company": "Condukt",
+   "ats": "ashby",
+   "slug": "condukt",
+   "status": "ok: 4 jobs, 1 kept"
+  },
+  {
+   "company": "Coral",
+   "ats": "ashby",
+   "slug": "coralai",
+   "status": "ok: 8 jobs, 1 kept"
+  },
+  {
+   "company": "CuspAI",
+   "ats": "ashby",
+   "slug": "cuspai",
+   "status": "ok: 15 jobs, 1 kept"
+  },
+  {
+   "company": "Dexory",
+   "ats": "greenhouse",
+   "slug": "dexory",
+   "status": "ok: 29 jobs, 0 kept"
+  },
+  {
+   "company": "Dwelly",
+   "ats": "greenhouse",
+   "slug": "dwelly",
+   "status": "ok: 27 jobs, 0 kept"
+  },
+  {
+   "company": "ElevenLabs",
+   "ats": "ashby",
+   "slug": "elevenlabs",
+   "status": "ok: 144 jobs, 5 kept"
+  },
+  {
+   "company": "Encord",
+   "ats": "ashby",
+   "slug": "encord",
+   "status": "ok: 39 jobs, 3 kept"
+  },
+  {
+   "company": "Faculty",
+   "ats": "ashby",
+   "slug": "faculty",
+   "status": "ok: 81 jobs, 29 kept"
+  },
+  {
+   "company": "FluidStack",
+   "ats": "ashby",
+   "slug": "fluidstack",
+   "status": "ok: 248 jobs, 4 kept"
+  },
+  {
+   "company": "Fractile",
+   "ats": "greenhouse",
+   "slug": "fractile",
+   "status": "ok: 41 jobs, 2 kept"
+  },
+  {
+   "company": "Fuse Energy",
+   "ats": "workable",
+   "slug": "fuseenergy",
+   "status": "board not reachable"
+  },
+  {
+   "company": "Google DeepMind",
+   "ats": "greenhouse",
+   "slug": "deepmind",
+   "status": "board not reachable"
+  },
+  {
+   "company": "Granola",
+   "ats": "ashby",
+   "slug": "granola",
+   "status": "ok: 21 jobs, 1 kept"
+  },
+  {
+   "company": "Healx",
+   "ats": "lever",
+   "slug": "healx",
+   "status": "ok: 1 jobs, 1 kept"
+  },
+  {
+   "company": "Helsing",
+   "ats": "greenhouse",
+   "slug": "helsing",
+   "status": "ok: 156 jobs, 7 kept"
+  },
+  {
+   "company": "Hiverge",
+   "ats": "ashby",
+   "slug": "hiverge",
+   "status": "ok: 4 jobs, 2 kept"
+  },
+  {
+   "company": "Humanoid",
+   "ats": "ashby",
+   "slug": "humanoid",
+   "status": "ok: 107 jobs, 16 kept"
+  },
+  {
+   "company": "Improbable",
+   "ats": "ashby",
+   "slug": "improbable",
+   "status": "ok: 4 jobs, 0 kept"
+  },
+  {
+   "company": "Ineffable Intelligence",
+   "ats": "ashby",
+   "slug": "ineffable",
+   "status": "ok: 3 jobs, 1 kept"
+  },
+  {
+   "company": "Inherent",
+   "ats": "ashby",
+   "slug": "inherent",
+   "status": "ok: 5 jobs, 5 kept"
+  },
+  {
+   "company": "Isomorphic Labs",
+   "ats": "greenhouse",
+   "slug": "isomorphiclabs",
+   "status": "ok: 31 jobs, 5 kept"
+  },
+  {
+   "company": "Ki Insurance",
+   "ats": "workable",
+   "slug": "ki-insurance",
+   "status": "board not reachable"
+  },
+  {
+   "company": "Latent Labs",
+   "ats": "ashby",
+   "slug": "latentlabs",
+   "status": "ok: 9 jobs, 4 kept"
+  },
+  {
+   "company": "Lawhive",
+   "ats": "ashby",
+   "slug": "lawhive",
+   "status": "ok: 4 jobs, 0 kept"
+  },
+  {
+   "company": "Lighthouse",
+   "ats": "greenhouse",
+   "slug": "lighthouse",
+   "status": "ok: 36 jobs, 0 kept"
+  },
+  {
+   "company": "Luma AI",
+   "ats": "ashby",
+   "slug": "lumaai",
+   "status": "ok: 35 jobs, 8 kept"
+  },
+  {
+   "company": "Lumai",
+   "ats": "ashby",
+   "slug": "lumai",
+   "status": "ok: 8 jobs, 1 kept"
+  },
+  {
+   "company": "Metaview",
+   "ats": "ashby",
+   "slug": "metaview",
+   "status": "ok: 39 jobs, 0 kept"
+  },
+  {
+   "company": "Mimica",
+   "ats": "ashby",
+   "slug": "mimica",
+   "status": "ok: 13 jobs, 0 kept"
+  },
+  {
+   "company": "Mind Foundry",
+   "ats": "greenhouse",
+   "slug": "mindfoundry",
+   "status": "ok: 9 jobs, 6 kept"
+  },
+  {
+   "company": "Mistral AI",
+   "ats": "ashby",
+   "slug": "mistral.ai",
+   "status": "ok: 214 jobs, 26 kept"
+  },
+  {
+   "company": "Multiverse",
+   "ats": "ashby",
+   "slug": "multiverse",
+   "status": "ok: 26 jobs, 1 kept"
+  },
+  {
+   "company": "Nevis",
+   "ats": "ashby",
+   "slug": "nevis",
+   "status": "ok: 23 jobs, 4 kept"
+  },
+  {
+   "company": "Occam Industries",
+   "ats": "greenhouse",
+   "slug": "occamindustries",
+   "status": "ok: 6 jobs, 0 kept"
+  },
+  {
+   "company": "Odyssey",
+   "ats": "ashby",
+   "slug": "odyssey",
+   "status": "ok: 6 jobs, 0 kept"
+  },
+  {
+   "company": "OpenAI",
+   "ats": "ashby",
+   "slug": "openai",
+   "status": "ok: 803 jobs, 20 kept"
+  },
+  {
+   "company": "PhysicsX",
+   "ats": "greenhouse",
+   "slug": "physicsx",
+   "status": "ok: 40 jobs, 7 kept"
+  },
+  {
+   "company": "Plumerai",
+   "ats": "ashby",
+   "slug": "plumerai",
+   "status": "ok: 5 jobs, 2 kept"
+  },
+  {
+   "company": "PolyAI",
+   "ats": "greenhouse",
+   "slug": "polyai",
+   "status": "ok: 2 jobs, 0 kept"
+  },
+  {
+   "company": "Prolific",
+   "ats": "greenhouse",
+   "slug": "prolific",
+   "status": "ok: 28 jobs, 2 kept"
+  },
+  {
+   "company": "Quantexa",
+   "ats": "ashby",
+   "slug": "quantexa",
+   "status": "ok: 32 jobs, 0 kept"
+  },
+  {
+   "company": "Recraft",
+   "ats": "ashby",
+   "slug": "recraft",
+   "status": "ok: 6 jobs, 0 kept"
+  },
+  {
+   "company": "Riverlane",
+   "ats": "greenhouse",
+   "slug": "riverlane",
+   "status": "ok: 35 jobs, 3 kept"
+  },
+  {
+   "company": "SalesAPE.ai",
+   "ats": "ashby",
+   "slug": "salesape-ai",
+   "status": "ok: 5 jobs, 1 kept"
+  },
+  {
+   "company": "Scarlet",
+   "ats": "ashby",
+   "slug": "scarlet",
+   "status": "ok: 14 jobs, 1 kept"
+  },
+  {
+   "company": "Searchable",
+   "ats": "ashby",
+   "slug": "searchable",
+   "status": "ok: 24 jobs, 0 kept"
+  },
+  {
+   "company": "Signal AI",
+   "ats": "ashby",
+   "slug": "signal-ai",
+   "status": "ok: 2 jobs, 0 kept"
+  },
+  {
+   "company": "Skin Analytics",
+   "ats": "ashby",
+   "slug": "skin-analytics",
+   "status": "ok: 4 jobs, 1 kept"
+  },
+  {
+   "company": "Skyral",
+   "ats": "lever",
+   "slug": "skyralio",
+   "status": "ok: 10 jobs, 0 kept"
+  },
+  {
+   "company": "Speechmatics",
+   "ats": "greenhouse",
+   "slug": "speechmatics",
+   "status": "ok: 15 jobs, 6 kept"
+  },
+  {
+   "company": "Stability AI",
+   "ats": "greenhouse",
+   "slug": "stabilityai",
+   "status": "ok: 6 jobs, 0 kept"
+  },
+  {
+   "company": "Synthesia",
+   "ats": "ashby",
+   "slug": "synthesia",
+   "status": "ok: 47 jobs, 5 kept"
+  },
+  {
+   "company": "Thought Machine",
+   "ats": "ashby",
+   "slug": "thought-machine",
+   "status": "ok: 40 jobs, 0 kept"
+  },
+  {
+   "company": "Tractable",
+   "ats": "ashby",
+   "slug": "tractable",
+   "status": "ok: 5 jobs, 0 kept"
+  },
+  {
+   "company": "Wayve",
+   "ats": "ashby",
+   "slug": "wayve",
+   "status": "ok: 157 jobs, 13 kept"
+  }
+ ]
+}
