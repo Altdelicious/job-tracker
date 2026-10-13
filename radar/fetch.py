@@ -161,13 +161,39 @@ def adzuna(covered):
     return out, f"Adzuna: {len(raw)} ads scanned, {len(out)} kept"
 
 
+def hackernews():
+    from . import hn
+    try:
+        raw = hn.posts()
+    except Exception as e:  # noqa: BLE001
+        return [], f"Hacker News failed: {e.__class__.__name__}"
+    if raw is None:
+        return [], "Hacker News failed: thread not found"
+    companies = {_key(c["name"]): c for c in load_json(CONFIG / "companies.json", {"companies": []})["companies"]}
+    out = []
+    for j in raw:
+        c = companies.get(_key(j["company"]), {})
+        ctype, fit = c.get("type", "startup"), c.get("fit", "M")
+        s, why = score(j["title"], ctype, fit)
+        out.append(dict(id=f'hn-{j["id"]}', company=c.get("name", j["company"]), companyType=ctype, title=j["title"],
+                        location=j["location"], cities=city_tags(j["location"]), url=j["url"], posted=j["posted"],
+                        closes=None, salary=None, score=s, why=why + f' Posted in HN "{j["thread"]}".',
+                        level=level(j["title"]), tags=tags(j["title"]), source="hackernews"))
+    return out, f"Hacker News: {len(out)} UK roles kept"
+
+
 def main():
     cfg = load_json(CONFIG / "boards.json", {"boards": []})["boards"]
     enabled = [b for b in cfg if b.get("enabled", True)]
     prev = {j["id"]: j for j in load_json(DATA / "jobs.json", {"jobs": []})["jobs"]}
 
+    feeds = [b for b in enabled if b["ats"] != "page"]
+    pages = [b for b in enabled if b["ats"] == "page"]
     with ThreadPoolExecutor(max_workers=10) as ex:
-        results = list(ex.map(from_board, enabled))
+        results = list(ex.map(from_board, feeds))
+    results += [from_board(b) for b in pages]  # one at a time: the browser isn't thread-safe
+    from . import render as R
+    R.close()
 
     found, board_status, failed = [], [], []
     ok_boards = set()
@@ -189,6 +215,9 @@ def main():
     adz, adz_note = adzuna(ok_boards)
     found += adz
     notes.append(adz_note)
+    hnj, hn_note = hackernews()
+    found += hnj
+    notes.append(hn_note)
     amz, amz_note = amazon()
     found += amz
     notes.append(amz_note)
@@ -210,7 +239,7 @@ def main():
         if jid in current:
             continue
         adz_ok = adz_note.startswith("Adzuna: ") and "skipped" not in adz_note
-        src_failed = (old.get("source") == "adzuna" and not adz_ok) or (old.get("source") != "adzuna" and old.get("companyType") != "academic" and old.get("company") in failed) or (old.get("companyType") == "academic" and not academic_src_ok)
+        src_failed = (old.get("source") == "adzuna" and not adz_ok) or (old.get("source") == "hackernews" and "failed" in hn_note) or (old.get("source") == "hackernews" and old.get("posted", "") >= (TODAY - timedelta(days=45)).isoformat()) or (old.get("source") != "adzuna" and old.get("companyType") != "academic" and old.get("company") in failed) or (old.get("companyType") == "academic" and not academic_src_ok)
         if src_failed:
             current[jid] = old
             continue

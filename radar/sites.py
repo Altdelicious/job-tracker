@@ -20,13 +20,18 @@ from urllib.parse import urljoin, urlparse
 from .boards import READERS
 from .common import CONFIG, DATA, PROBE, get, is_uk, load_json, save_json
 from .discover import norm
+from . import render as R
 
 PATTERNS = [
+    ("greenhouse", r"boards-api(?:\.eu)?\.greenhouse\.io/v1/boards/([A-Za-z0-9_-]+)"),
+    ("ashby", r"api\.ashbyhq\.com/posting-api/job-board/([A-Za-z0-9_.%-]+)"),
     ("greenhouse", r"(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board(?:/js)?\?for=)?([A-Za-z0-9_-]+)"),
     ("greenhouse", r"greenhouse\.io/embed/job_board/js\?for=([A-Za-z0-9_-]+)"),
+    ("lever", r"api\.(?:eu\.)?lever\.co/v0/postings/([A-Za-z0-9_.-]+)"),
     ("lever", r"jobs\.(?:eu\.)?lever\.co/([A-Za-z0-9_.-]+)"),
     ("ashby", r"jobs\.ashbyhq\.com/([A-Za-z0-9_.%-]+)"),
     ("ashby", r"ashbyhq\.com/[^\"']*?embed\?[^\"']*?(?:organizationHostedJobsPageName|board)=([A-Za-z0-9_.-]+)"),
+    ("workable", r"workable\.com/api/v\d/(?:widget/)?accounts/([A-Za-z0-9_-]+)"),
     ("workable", r"apply\.workable\.com/([A-Za-z0-9_-]+)"),
     ("smartrecruiters", r"(?:careers|jobs)\.smartrecruiters\.com/([A-Za-z0-9_-]+)"),
     ("recruitee", r"([A-Za-z0-9-]+)\.recruitee\.com"),
@@ -132,6 +137,38 @@ def explore(company):
     return dict(company=name, website=site, guessed=guessed, result="no careers page found")
 
 
+def explore_rendered(company, site):
+    """Second pass with a real browser, for sites whose careers content is built with JavaScript."""
+    name = company["name"]
+    home_url, home, reqs = R.render(site)
+    if not home:
+        return None
+    blob = home + "\n" + "\n".join(reqs)
+    links = []
+    for href, text in re.findall(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', home, re.S | re.I):
+        if CAREER_LINK.search(href) or CAREER_LINK.search(re.sub(r"<[^>]+>", " ", text)):
+            links.append(urljoin(home_url, href))
+    links = list(dict.fromkeys(links))[:3] + [urljoin(home_url, "/careers")]
+    careers_page = None
+    for link in dict.fromkeys(links):
+        ats, slug = detect(link)
+        if ats and slug:
+            return dict(company=name, website=site, result="platform", ats=ats, slug=slug, via=link, rendered=True)
+        u, t, rq = R.render(link)
+        if t:
+            blob += "\n" + t + "\n" + "\n".join(rq)
+            if careers_page is None and CAREER_LINK.search(urlparse(u).path):
+                careers_page = u
+    ats, slug = detect(blob)
+    if ats == "teamtailor-custom":
+        ats, slug = None, None
+    if ats:
+        return dict(company=name, website=site, result="platform", ats=ats, slug=slug, via=careers_page or home_url, rendered=True)
+    if careers_page:
+        return dict(company=name, website=site, result="page", ats="page", slug=careers_page, via=careers_page, rendered=True)
+    return None
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", default="")
@@ -148,6 +185,20 @@ def main():
         results = list(ex.map(explore, todo))
 
     by_name = {c["name"]: c for c in companies}
+    if R.enabled():
+        redo = [i for i, r in enumerate(results) if r["result"] in ("no careers page found", "website not reachable")
+                or (r["result"] == "page")]
+        print(f"Rendering {len(redo)} sites with a browser")
+        for i in redo:
+            r = results[i]
+            site = r.get("website") or by_name[r["company"]].get("website")
+            if not site:
+                continue
+            better = explore_rendered(by_name[r["company"]], site)
+            if better and (better["result"] == "platform" or r["result"] != "page"):
+                better["guessed"] = r.get("guessed", False)
+                results[i] = better
+        R.close()
     added = 0
     for res in results:
         c = by_name[res["company"]]

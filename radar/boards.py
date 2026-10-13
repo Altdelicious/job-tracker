@@ -366,12 +366,19 @@ ROLE_NOUN = re.compile(r"engineer|scientist|researcher|research (assistant|assoc
 
 
 def page(url):
-    """Plain careers page: pull job-like link texts. Location is unknown (caller falls back to company city)."""
-    r = get(url)
-    if r is None or r.status_code != 200:
-        return None
+    """Careers page: pull job-like link texts. Uses a real browser when rendering is enabled
+    (for pages built with JavaScript). Location is unknown (caller falls back to company city)."""
+    from . import render as R
+    text_html = None
+    if R.enabled():
+        _, text_html, _ = R.render(url)
+    if text_html is None:
+        r = get(url)
+        if r is None or r.status_code != 200:
+            return None
+        text_html = r.text
     out, seen = [], set()
-    for href, text in re.findall(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', r.text, re.S | re.I):
+    for href, text in re.findall(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', text_html, re.S | re.I):
         t = html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text))).strip()
         if not (8 <= len(t) <= 120) or not ROLE_NOUN.search(t):
             continue
