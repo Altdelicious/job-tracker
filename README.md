@@ -15,6 +15,7 @@ Daily scan of UK job boards for research, ML engineering and data science roles 
 - **Add a company:** add an entry to `config/companies.json` (name, city, focus, type `lab`/`startup`, fit `H`/`M`/`L`). The board finder runs automatically on push.
 - **Add a board by hand:** add an entry to `config/boards.json` with `"source": "manual"`, e.g. `{"company": "Wayve", "ats": "greenhouse", "slug": "wayve", "type": "startup", "fit": "H", "enabled": true, "source": "manual"}`.
 - **Review uncertain boards:** `data/discovery_report.json` lists boards found with low confidence (disabled). Set `"enabled": true` in `config/boards.json` after checking.
+- **Adzuna catch-all:** add repository secrets `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` (free at developer.adzuna.com). Daily searches keep only roles from listed companies that have no working feed.
 - **Change what counts as relevant:** title include/exclude patterns and scoring live in `radar/common.py`.
 
 ## Run locally

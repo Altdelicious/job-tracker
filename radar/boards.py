@@ -388,3 +388,28 @@ READERS.update({
     "teamtailor": teamtailor, "personio": personio, "pinpoint": pinpoint,
     "bamboohr": bamboohr, "breezy": breezy, "workday": workday, "page": page,
 })
+
+
+def adzuna(app_id, app_key, queries, wheres, pages=2):
+    """Adzuna UK job search. Returns raw ads with company names."""
+    out = {}
+    for what in queries:
+        for where in wheres:
+            for p in range(1, pages + 1):
+                r = get(f"https://api.adzuna.com/v1/api/jobs/gb/search/{p}",
+                        params={"app_id": app_id, "app_key": app_key, "what_phrase": what, "where": where,
+                                "distance": 15, "results_per_page": 50, "max_days_old": 30, "content-type": "application/json"})
+                if r is None or r.status_code != 200:
+                    break
+                try:
+                    res = r.json().get("results", [])
+                except ValueError:
+                    break
+                for j in res:
+                    out[str(j.get("id"))] = dict(id=str(j.get("id")), title=html.unescape(re.sub(r"<[^>]+>", "", j.get("title", ""))),
+                                                 company=(j.get("company") or {}).get("display_name", ""),
+                                                 location=(j.get("location") or {}).get("display_name", ""),
+                                                 url=j.get("redirect_url"), posted=_iso(j.get("created")))
+                if len(res) < 50:
+                    break
+    return list(out.values())

@@ -3,6 +3,7 @@ score them, and write data/jobs.json and data/status.json.
 Run: python -m radar.fetch
 """
 import json
+import os
 import re
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
@@ -126,6 +127,40 @@ def amazon():
     return out, f"Amazon: {len(raw)} scanned, {len(out)} kept"
 
 
+ADZUNA_QUERIES = ["machine learning", "research engineer", "research scientist", "applied scientist",
+                  "computer vision", "data scientist", "ai engineer", "deep learning"]
+
+
+def _key(name):
+    n = re.sub(r"\(.*?\)", "", name.lower())
+    n = re.sub(r"\b(ltd|limited|plc|inc|uk|group|holdings|technologies|technology|the)\b", "", n)
+    return re.sub(r"[^a-z0-9]+", "", n)
+
+
+def adzuna(covered):
+    """Roles from listed companies that have no working feed, found through Adzuna's UK search."""
+    app_id, app_key = os.environ.get("ADZUNA_APP_ID"), os.environ.get("ADZUNA_APP_KEY")
+    if not app_id or not app_key:
+        return [], "Adzuna: skipped (no API key set)"
+    companies = load_json(CONFIG / "companies.json", {"companies": []})["companies"]
+    wanted = {_key(c["name"]): c for c in companies if c["name"] not in covered and len(_key(c["name"])) >= 4}
+    try:
+        raw = B.adzuna(app_id, app_key, ADZUNA_QUERIES, ["London", "Cambridge", "Oxford"])
+    except Exception as e:  # noqa: BLE001
+        return [], f"Adzuna failed: {e.__class__.__name__}"
+    out = []
+    for j in raw:
+        c = wanted.get(_key(j["company"]))
+        if not c or not is_uk(j["location"] or "UK") or not wanted_title(j["title"]):
+            continue
+        s, why = score(j["title"], c.get("type", "startup"), c.get("fit", "M"))
+        out.append(dict(id=f'adz-{j["id"]}', company=c["name"], companyType=c.get("type", "startup"), title=j["title"],
+                        location=j["location"], cities=city_tags(j["location"]), url=j["url"], posted=j["posted"],
+                        closes=None, salary=None, score=s, why=why + " Found via Adzuna job search.",
+                        level=level(j["title"]), tags=tags(j["title"]), source="adzuna"))
+    return out, f"Adzuna: {len(raw)} ads scanned, {len(out)} kept"
+
+
 def main():
     cfg = load_json(CONFIG / "boards.json", {"boards": []})["boards"]
     enabled = [b for b in cfg if b.get("enabled", True)]
@@ -151,6 +186,9 @@ def main():
         if key not in seen_titles:
             seen_titles[key] = j
     found += list(seen_titles.values())
+    adz, adz_note = adzuna(ok_boards)
+    found += adz
+    notes.append(adz_note)
     amz, amz_note = amazon()
     found += amz
     notes.append(amz_note)
@@ -171,7 +209,8 @@ def main():
     for jid, old in prev.items():
         if jid in current:
             continue
-        src_failed = (old.get("companyType") != "academic" and old.get("company") in failed) or (old.get("companyType") == "academic" and not academic_src_ok)
+        adz_ok = adz_note.startswith("Adzuna: ") and "skipped" not in adz_note
+        src_failed = (old.get("source") == "adzuna" and not adz_ok) or (old.get("source") != "adzuna" and old.get("companyType") != "academic" and old.get("company") in failed) or (old.get("companyType") == "academic" and not academic_src_ok)
         if src_failed:
             current[jid] = old
             continue
