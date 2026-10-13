@@ -90,7 +90,7 @@ def explore(company):
     name = company["name"]
     site = company.get("website")
     guessed = False
-    if not site:
+    if not site and not company.get("noGuess"):
         site = guess_site(name)
         guessed = bool(site)
     if not site:
@@ -153,10 +153,15 @@ def main():
         c = by_name[res["company"]]
         if res["result"] not in ("platform", "page"):
             continue
-        try:
-            jobs = READERS[res["ats"]](res["slug"])
-        except Exception:  # noqa: BLE001
-            jobs = None
+        jobs = None
+        for slug in dict.fromkeys([res["slug"], res["slug"].lower(), res["slug"].replace("%20", " ")]):
+            try:
+                jobs = READERS[res["ats"]](slug)
+            except Exception:  # noqa: BLE001
+                jobs = None
+            if jobs is not None:
+                res["slug"] = slug
+                break
         res["jobs"] = None if jobs is None else len(jobs)
         if jobs is None:
             res["result"] += " (feed did not answer)"

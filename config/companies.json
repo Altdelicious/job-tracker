@@ -665,7 +665,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "noGuess": true
   },
   {
    "name": "Hiverge",
@@ -798,7 +799,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "noGuess": true
   },
   {
    "name": "Opteran Technologies",
@@ -830,7 +832,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "noGuess": true
   },
   {
    "name": "Augur",
@@ -860,7 +863,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "noGuess": true
   },
   {
    "name": "Malted AI",
@@ -964,7 +968,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "noGuess": true
   },
   {
    "name": "Giraffe360",
@@ -1092,7 +1097,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "noGuess": true
   },
   {
    "name": "Arthos",

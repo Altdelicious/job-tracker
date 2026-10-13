@@ -451,18 +451,6 @@
    "ukJobsAtDiscovery": 32
   },
   {
-   "company": "Ethos",
-   "ats": "greenhouse",
-   "slug": "ethoslife",
-   "type": "startup",
-   "fit": "M",
-   "city": "London",
-   "confidence": "medium",
-   "enabled": true,
-   "source": "site",
-   "via": "https://www.ethos.com/careers/"
-  },
-  {
    "company": "Evident Insights",
    "ats": "page",
    "slug": "https://evidentinsights.com/careers",
@@ -521,18 +509,6 @@
    "source": "discovered",
    "jobsAtDiscovery": 99,
    "ukJobsAtDiscovery": 62
-  },
-  {
-   "company": "Generative Engineering",
-   "ats": "page",
-   "slug": "https://generative.vision/careers",
-   "type": "startup",
-   "fit": "M",
-   "city": "London",
-   "confidence": "medium",
-   "enabled": true,
-   "source": "site",
-   "via": "https://generative.vision/careers"
   },
   {
    "company": "Google DeepMind",
@@ -794,18 +770,6 @@
    "ukJobsAtDiscovery": 2
   },
   {
-   "company": "Lucida",
-   "ats": "page",
-   "slug": "https://www.lucida.com/careers/",
-   "type": "startup",
-   "fit": "M",
-   "city": "London",
-   "confidence": "medium",
-   "enabled": true,
-   "source": "site",
-   "via": "https://www.lucida.com/careers/"
-  },
-  {
    "company": "Luma AI",
    "ats": "ashby",
    "slug": "lumaai",
@@ -852,18 +816,6 @@
    "enabled": true,
    "source": "site",
    "via": "https://malted.ai/careers"
-  },
-  {
-   "company": "Marker",
-   "ats": "workable",
-   "slug": "marker-io",
-   "type": "startup",
-   "fit": "M",
-   "city": "London",
-   "confidence": "medium",
-   "enabled": true,
-   "source": "site",
-   "via": "https://marker.io/jobs"
   },
   {
    "company": "Maze",
@@ -1066,18 +1018,6 @@
    "via": "https://opteran.com/careers"
   },
   {
-   "company": "Outerlimit",
-   "ats": "bamboohr",
-   "slug": "outerlimitgroupltd",
-   "type": "startup",
-   "fit": "M",
-   "city": "North West England",
-   "confidence": "medium",
-   "enabled": true,
-   "source": "site",
-   "via": "https://www.outerlimit.com/company/careers"
-  },
-  {
    "company": "Oxa",
    "ats": "ashby",
    "slug": "oxa",
@@ -1100,18 +1040,6 @@
    "source": "discovered",
    "jobsAtDiscovery": 2,
    "ukJobsAtDiscovery": 0
-  },
-  {
-   "company": "Partly",
-   "ats": "page",
-   "slug": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs",
-   "type": "startup",
-   "fit": "M",
-   "city": "London",
-   "confidence": "medium",
-   "enabled": true,
-   "source": "site",
-   "via": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs"
   },
   {
    "company": "Patchs Health",

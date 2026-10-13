@@ -110,6 +110,9 @@ def wanted_title(title):
         return False
     if EXCLUDE.search(title):
         return False
+    # "Research Assistant/Associate" is only relevant when the topic is ML/AI/data.
+    if re.search(r"research (assistant|associate)", title, re.I) and not ACADEMIC_TOPIC.search(title):
+        return False
     return bool(INCLUDE.search(title))
 
 
@@ -194,7 +197,7 @@ def score(title, company_type, fit="M"):
     tg = tags(t)
     s = 2
     reasons = []
-    if re.search(r"research (engineer|scientist)|applied scientist|member of technical staff|\bmts\b|machine learning engineer|ml engineer|research software engineer|ai engineer|fellows? program|fellowship|residency", t, re.I):
+    if re.search(r"research (engineer|scientist)|applied scientist|member of technical staff|\bmts\b|machine learning engineer|ml engineer|(machine learning|\bml|\bai) (research )?scientist|research software engineer|ai engineer|fellows? program|fellowship|residency", t, re.I):
         s += 1
         reasons.append("core research or ML engineering role")
     if "vision" in tg or "health" in tg or "autonomy" in tg:
