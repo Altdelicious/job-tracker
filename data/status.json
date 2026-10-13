@@ -1,22 +1,18 @@
 {
- "lastRun": "2026-10-13T19:29:47+00:00",
+ "lastRun": "2026-10-13T22:54:59+00:00",
  "boardsTotal": 116,
  "boardsOk": 116,
  "boardsFailed": [],
- "jobsActive": 263,
- "newThisRun": 0,
+ "jobsActive": 289,
+ "newThisRun": 26,
  "notes": [
   "jobs.ac.uk: 286 results scanned",
   "cam.ac.uk: 57 vacancies scanned",
+  "Adzuna: skipped (no API key set)",
+  "Hacker News: 25 UK roles kept",
   "Amazon: 51 scanned, 5 kept"
  ],
  "boards": [
-  {
-   "company": "44pixels",
-   "ats": "page",
-   "slug": "https://44pixels.ai/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
   {
    "company": "9fin",
    "ats": "ashby",
@@ -45,7 +41,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 646 jobs, 14 kept"
+   "status": "ok: 645 jobs, 14 kept"
   },
   {
    "company": "Apollo Research",
@@ -58,18 +54,6 @@
    "ats": "ashby",
    "slug": "applied",
    "status": "ok: 327 jobs, 4 kept"
-  },
-  {
-   "company": "Archestra",
-   "ats": "page",
-   "slug": "https://archestra.ai/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "Arthos",
-   "ats": "page",
-   "slug": "https://arthos.ai/careers",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Atlas",
@@ -88,12 +72,6 @@
    "ats": "ashby",
    "slug": "basecamp-research",
    "status": "ok: 11 jobs, 2 kept"
-  },
-  {
-   "company": "BIOS",
-   "ats": "page",
-   "slug": "https://www.bios.health/careers",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Brainomix",
@@ -117,25 +95,7 @@
    "company": "Caristo Diagnostics",
    "ats": "bamboohr",
    "slug": "caristo",
-   "status": "ok: 4 jobs, 0 kept"
-  },
-  {
-   "company": "Cattle Eye",
-   "ats": "page",
-   "slug": "https://cattleeye.com/en-gb/who-we-are/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "Cera",
-   "ats": "page",
-   "slug": "https://ceracare.co.uk/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "Chemify",
-   "ats": "page",
-   "slug": "https://www.chemify.io/careers",
-   "status": "ok: 16 jobs, 0 kept"
+   "status": "ok: 6 jobs, 1 kept"
   },
   {
    "company": "Cleo",
@@ -144,16 +104,10 @@
    "status": "ok: 5 jobs, 0 kept"
   },
   {
-   "company": "CMR Surgical",
-   "ats": "page",
-   "slug": "https://us.cmrsurgical.com/careers",
-   "status": "ok: 2 jobs, 0 kept"
-  },
-  {
    "company": "Cohere",
    "ats": "ashby",
    "slug": "cohere",
-   "status": "ok: 118 jobs, 18 kept"
+   "status": "ok: 116 jobs, 18 kept"
   },
   {
    "company": "Condukt",
@@ -180,12 +134,6 @@
    "status": "ok: 0 jobs, 0 kept"
   },
   {
-   "company": "DeepAlert",
-   "ats": "page",
-   "slug": "https://www.deepalert.ai/careers/",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "Dex",
    "ats": "ashby",
    "slug": "dex",
@@ -196,12 +144,6 @@
    "ats": "greenhouse",
    "slug": "dexory",
    "status": "ok: 29 jobs, 0 kept"
-  },
-  {
-   "company": "Doubleword",
-   "ats": "page",
-   "slug": "https://doubleword.ai/careers",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Dwelly",
@@ -216,12 +158,6 @@
    "status": "ok: 1 jobs, 0 kept"
   },
   {
-   "company": "Element Human",
-   "ats": "page",
-   "slug": "https://elementhuman.com/vacancies",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
@@ -232,12 +168,6 @@
    "ats": "ashby",
    "slug": "encord",
    "status": "ok: 39 jobs, 3 kept"
-  },
-  {
-   "company": "Evident Insights",
-   "ats": "page",
-   "slug": "https://evidentinsights.com/careers",
-   "status": "ok: 1 jobs, 0 kept"
   },
   {
    "company": "Faculty",
@@ -288,16 +218,10 @@
    "status": "ok: 4 jobs, 2 kept"
   },
   {
-   "company": "Huma",
-   "ats": "page",
-   "slug": "https://www.huma.com/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "Humanoid",
    "ats": "ashby",
    "slug": "humanoid",
-   "status": "ok: 107 jobs, 16 kept"
+   "status": "ok: 108 jobs, 16 kept"
   },
   {
    "company": "Improbable",
@@ -318,28 +242,10 @@
    "status": "ok: 5 jobs, 5 kept"
   },
   {
-   "company": "Intellegens",
-   "ats": "page",
-   "slug": "https://intellegens.com/about/careers/",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "iProov",
-   "ats": "page",
-   "slug": "https://www.iproov.com/careers",
-   "status": "ok: 9 jobs, 3 kept"
-  },
-  {
    "company": "Isomorphic Labs",
    "ats": "greenhouse",
    "slug": "isomorphiclabs",
    "status": "ok: 31 jobs, 5 kept"
-  },
-  {
-   "company": "Kheiron Medical",
-   "ats": "page",
-   "slug": "https://deephealth.com/careers/",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Ki Insurance",
@@ -381,7 +287,7 @@
    "company": "Luma AI",
    "ats": "ashby",
    "slug": "lumaai",
-   "status": "ok: 35 jobs, 6 kept"
+   "status": "ok: 34 jobs, 6 kept"
   },
   {
    "company": "Lumai",
@@ -394,12 +300,6 @@
    "ats": "workable",
    "slug": "luminance-1",
    "status": "ok: 54 jobs, 3 kept"
-  },
-  {
-   "company": "Malted AI",
-   "ats": "page",
-   "slug": "https://malted.ai/careers",
-   "status": "ok: 1 jobs, 0 kept"
   },
   {
    "company": "Maze",
@@ -429,7 +329,7 @@
    "company": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "status": "ok: 214 jobs, 15 kept"
+   "status": "ok: 213 jobs, 15 kept"
   },
   {
    "company": "Multiverse",
@@ -456,12 +356,6 @@
    "status": "ok: 8 jobs, 0 kept"
   },
   {
-   "company": "Nscale",
-   "ats": "page",
-   "slug": "https://www.nscale.com/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "Occam Industries",
    "ats": "greenhouse",
    "slug": "occamindustries",
@@ -477,43 +371,19 @@
    "company": "Olix",
    "ats": "ashby",
    "slug": "olix",
-   "status": "ok: 18 jobs, 0 kept"
+   "status": "ok: 19 jobs, 0 kept"
   },
   {
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 802 jobs, 11 kept"
-  },
-  {
-   "company": "Optellum",
-   "ats": "page",
-   "slug": "https://optellum.com/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "Opteran Technologies",
-   "ats": "page",
-   "slug": "https://opteran.com/careers",
-   "status": "ok: 0 jobs, 0 kept"
+   "status": "ok: 806 jobs, 11 kept"
   },
   {
    "company": "Oxa",
    "ats": "ashby",
    "slug": "oxa",
    "status": "ok: 1 jobs, 0 kept"
-  },
-  {
-   "company": "Patchs Health",
-   "ats": "page",
-   "slug": "https://hub.patchs.ai/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "PharmEnable",
-   "ats": "page",
-   "slug": "https://pharmenabletx.com/careers/",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "PhysicsX",
@@ -624,12 +494,6 @@
    "status": "ok: 6 jobs, 0 kept"
   },
   {
-   "company": "Stateful Robotics",
-   "ats": "page",
-   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "Swap",
    "ats": "ashby",
    "slug": "swap",
@@ -660,16 +524,172 @@
    "status": "ok: 40 jobs, 0 kept"
   },
   {
-   "company": "TidalSense",
-   "ats": "page",
-   "slug": "https://tidalsense.com/careers/",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "Tractable",
    "ats": "ashby",
    "slug": "tractable",
    "status": "ok: 5 jobs, 0 kept"
+  },
+  {
+   "company": "Unitary",
+   "ats": "workable",
+   "slug": "unitary",
+   "status": "ok: 6 jobs, 1 kept"
+  },
+  {
+   "company": "V7",
+   "ats": "ashby",
+   "slug": "v7labs.com",
+   "status": "ok: 6 jobs, 0 kept"
+  },
+  {
+   "company": "Wayve",
+   "ats": "ashby",
+   "slug": "wayve",
+   "status": "ok: 158 jobs, 13 kept"
+  },
+  {
+   "company": "44pixels",
+   "ats": "page",
+   "slug": "https://44pixels.ai/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Archestra",
+   "ats": "page",
+   "slug": "https://archestra.ai/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Arthos",
+   "ats": "page",
+   "slug": "https://arthos.ai/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "BIOS",
+   "ats": "page",
+   "slug": "https://www.bios.health/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Cattle Eye",
+   "ats": "page",
+   "slug": "https://cattleeye.com/en-gb/who-we-are/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Cera",
+   "ats": "page",
+   "slug": "https://ceracare.co.uk/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Chemify",
+   "ats": "page",
+   "slug": "https://www.chemify.io/careers",
+   "status": "ok: 16 jobs, 0 kept"
+  },
+  {
+   "company": "CMR Surgical",
+   "ats": "page",
+   "slug": "https://us.cmrsurgical.com/careers",
+   "status": "ok: 2 jobs, 0 kept"
+  },
+  {
+   "company": "DeepAlert",
+   "ats": "page",
+   "slug": "https://www.deepalert.ai/careers/",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Doubleword",
+   "ats": "page",
+   "slug": "https://doubleword.ai/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Element Human",
+   "ats": "page",
+   "slug": "https://elementhuman.com/vacancies",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Evident Insights",
+   "ats": "page",
+   "slug": "https://evidentinsights.com/careers",
+   "status": "ok: 1 jobs, 0 kept"
+  },
+  {
+   "company": "Huma",
+   "ats": "page",
+   "slug": "https://www.huma.com/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Intellegens",
+   "ats": "page",
+   "slug": "https://intellegens.com/about/careers/",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "iProov",
+   "ats": "page",
+   "slug": "https://www.iproov.com/careers",
+   "status": "ok: 9 jobs, 3 kept"
+  },
+  {
+   "company": "Kheiron Medical",
+   "ats": "page",
+   "slug": "https://deephealth.com/careers/",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Malted AI",
+   "ats": "page",
+   "slug": "https://malted.ai/careers",
+   "status": "ok: 1 jobs, 0 kept"
+  },
+  {
+   "company": "Nscale",
+   "ats": "page",
+   "slug": "https://www.nscale.com/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Optellum",
+   "ats": "page",
+   "slug": "https://optellum.com/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Opteran Technologies",
+   "ats": "page",
+   "slug": "https://opteran.com/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Patchs Health",
+   "ats": "page",
+   "slug": "https://hub.patchs.ai/careers",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "PharmEnable",
+   "ats": "page",
+   "slug": "https://pharmenabletx.com/careers/",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "Stateful Robotics",
+   "ats": "page",
+   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
+   "status": "ok: 0 jobs, 0 kept"
+  },
+  {
+   "company": "TidalSense",
+   "ats": "page",
+   "slug": "https://tidalsense.com/careers/",
+   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Trismik",
@@ -682,24 +702,6 @@
    "ats": "page",
    "slug": "https://www.ultromics.com/about/careers",
    "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "Unitary",
-   "ats": "workable",
-   "slug": "unitary",
-   "status": "ok: 6 jobs, 1 kept"
-  },
-  {
-   "company": "V7",
-   "ats": "page",
-   "slug": "https://www.v7labs.com/careers",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
-   "company": "Wayve",
-   "ats": "ashby",
-   "slug": "wayve",
-   "status": "ok: 158 jobs, 13 kept"
   },
   {
    "company": "Zenithon",

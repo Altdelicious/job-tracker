@@ -1,7 +1,7 @@
 {
- "ranAt": "2026-10-13T19:27:38+00:00",
- "probed": 1,
- "found": 1,
+ "ranAt": "2026-10-13T22:32:45+00:00",
+ "probed": 0,
+ "found": 0,
  "notFound": [
   "44pixels",
   "AI Pathfinder",
@@ -92,7 +92,5 @@
   "geoSurge",
   "iProov"
  ],
- "lowConfidence": [
-  "Partly → smartrecruiters:partly (1 jobs, 0 UK)"
- ]
+ "lowConfidence": []
 }

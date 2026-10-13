@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-13T19:29:47+00:00",
+ "ranAt": "2026-10-13T22:54:59+00:00",
  "results": [
   {
    "company": "Google DeepMind",
@@ -397,13 +397,7 @@
   {
    "company": "PharmEnable",
    "website": "https://pharmenable.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://pharmenabletx.com/careers/",
-   "via": "https://pharmenabletx.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "website not reachable"
   },
   {
    "company": "Trismik",
@@ -470,14 +464,7 @@
   },
   {
    "company": "Stateful Robotics",
-   "website": "https://statefulrobotics.com/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "via": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Optellum",
@@ -559,13 +546,14 @@
   {
    "company": "V7",
    "website": "https://v7labs.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.v7labs.com/careers",
+   "result": "platform",
+   "ats": "ashby",
+   "slug": "v7labs.com",
    "via": "https://www.v7labs.com/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "rendered": true,
+   "guessed": false,
+   "jobs": 6,
+   "ukJobs": 5
   },
   {
    "company": "Seldon",
