@@ -1,6 +1,18 @@
 {
  "boards": [
   {
+   "company": "44pixels",
+   "ats": "page",
+   "slug": "https://44pixels.ai/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "South East England",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://44pixels.ai/careers"
+  },
+  {
    "company": "9fin",
    "ats": "ashby",
    "slug": "9fin",
@@ -37,6 +49,18 @@
    "ukJobsAtDiscovery": 4
   },
   {
+   "company": "Antare",
+   "ats": "teamtailor",
+   "slug": "antaretechnology-1748341798",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://antare.ai/"
+  },
+  {
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
@@ -71,6 +95,18 @@
    "ukJobsAtDiscovery": 15
   },
   {
+   "company": "Archestra",
+   "ats": "page",
+   "slug": "https://archestra.ai/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://archestra.ai/careers"
+  },
+  {
    "company": "Arrakis",
    "ats": "ashby",
    "slug": "arrakis",
@@ -81,6 +117,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 3,
    "ukJobsAtDiscovery": 0
+  },
+  {
+   "company": "Arthos",
+   "ats": "page",
+   "slug": "https://arthos.ai/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://arthos.ai/careers"
   },
   {
    "company": "Atlas",
@@ -119,6 +167,30 @@
    "ukJobsAtDiscovery": 6
   },
   {
+   "company": "BIOS",
+   "ats": "page",
+   "slug": "https://www.bios.health/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.bios.health/careers"
+  },
+  {
+   "company": "Brainomix",
+   "ats": "workable",
+   "slug": "brainomix-2",
+   "type": "startup",
+   "fit": "H",
+   "city": "Oxford",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://apply.workable.com/brainomix-2/"
+  },
+  {
    "company": "Callosum",
    "ats": "ashby",
    "slug": "callosum",
@@ -143,6 +215,54 @@
    "ukJobsAtDiscovery": 8
   },
   {
+   "company": "Caristo Diagnostics",
+   "ats": "bamboohr",
+   "slug": "caristo",
+   "type": "startup",
+   "fit": "H",
+   "city": "Oxford",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://caristo.bamboohr.com/jobs/"
+  },
+  {
+   "company": "Cattle Eye",
+   "ats": "page",
+   "slug": "https://cattleeye.com/en-gb/who-we-are/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Belfast",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://cattleeye.com/en-gb/who-we-are/careers"
+  },
+  {
+   "company": "Cera",
+   "ats": "page",
+   "slug": "https://ceracare.co.uk/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://ceracare.co.uk/careers"
+  },
+  {
+   "company": "Chemify",
+   "ats": "page",
+   "slug": "https://www.chemify.io/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "Glasgow",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.chemify.io/careers"
+  },
+  {
    "company": "Cleo",
    "ats": "greenhouse",
    "slug": "cleo",
@@ -153,6 +273,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 5,
    "ukJobsAtDiscovery": 0
+  },
+  {
+   "company": "CMR Surgical",
+   "ats": "page",
+   "slug": "https://us.cmrsurgical.com/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://us.cmrsurgical.com/careers"
   },
   {
    "company": "Cohere",
@@ -201,6 +333,30 @@
    "ukJobsAtDiscovery": 9
   },
   {
+   "company": "Cyted Health",
+   "ats": "personio",
+   "slug": "cyted",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.cytedhealth.com/careers"
+  },
+  {
+   "company": "DeepAlert",
+   "ats": "page",
+   "slug": "https://www.deepalert.ai/careers/",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.deepalert.ai/careers/"
+  },
+  {
    "company": "Dex",
    "ats": "ashby",
    "slug": "dex",
@@ -225,6 +381,18 @@
    "ukJobsAtDiscovery": 9
   },
   {
+   "company": "Doubleword",
+   "ats": "page",
+   "slug": "https://doubleword.ai/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://doubleword.ai/careers"
+  },
+  {
    "company": "Dwelly",
    "ats": "greenhouse",
    "slug": "dwelly",
@@ -235,6 +403,30 @@
    "source": "discovered",
    "jobsAtDiscovery": 27,
    "ukJobsAtDiscovery": 22
+  },
+  {
+   "company": "DYAD",
+   "ats": "workable",
+   "slug": "dyad-ai",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://apply.workable.com/dyad-ai/"
+  },
+  {
+   "company": "Element Human",
+   "ats": "page",
+   "slug": "https://elementhuman.com/vacancies",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://elementhuman.com/vacancies"
   },
   {
    "company": "ElevenLabs",
@@ -259,16 +451,28 @@
    "ukJobsAtDiscovery": 32
   },
   {
+   "company": "Ethos",
+   "ats": "greenhouse",
+   "slug": "ethoslife",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.ethos.com/careers/"
+  },
+  {
    "company": "Evident Insights",
-   "ats": "smartrecruiters",
-   "slug": "evident",
+   "ats": "page",
+   "slug": "https://evidentinsights.com/careers",
    "type": "startup",
    "fit": "L",
-   "confidence": "low",
-   "enabled": false,
-   "source": "discovered",
-   "jobsAtDiscovery": 1,
-   "ukJobsAtDiscovery": 0
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://evidentinsights.com/careers"
   },
   {
    "company": "Faculty",
@@ -317,6 +521,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 99,
    "ukJobsAtDiscovery": 62
+  },
+  {
+   "company": "Generative Engineering",
+   "ats": "page",
+   "slug": "https://generative.vision/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://generative.vision/careers"
   },
   {
    "company": "Google DeepMind",
@@ -374,6 +590,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 4,
    "ukJobsAtDiscovery": 4
+  },
+  {
+   "company": "Huma",
+   "ats": "page",
+   "slug": "https://www.huma.com/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.huma.com/careers"
   },
   {
    "company": "Human Native AI",
@@ -436,6 +664,30 @@
    "ukJobsAtDiscovery": 5
   },
   {
+   "company": "Intellegens",
+   "ats": "page",
+   "slug": "https://intellegens.com/about/careers/",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://intellegens.com/about/careers/"
+  },
+  {
+   "company": "iProov",
+   "ats": "page",
+   "slug": "https://www.iproov.com/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.iproov.com/careers"
+  },
+  {
    "company": "Isomorphic Labs",
    "ats": "greenhouse",
    "slug": "isomorphiclabs",
@@ -458,6 +710,18 @@
    "ukJobsAtDiscovery": 1
   },
   {
+   "company": "Kheiron Medical",
+   "ats": "page",
+   "slug": "https://deephealth.com/careers/",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://deephealth.com/careers/"
+  },
+  {
    "company": "Ki Insurance",
    "ats": "workable",
    "slug": "ki-insurance",
@@ -468,6 +732,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 21,
    "ukJobsAtDiscovery": 21
+  },
+  {
+   "company": "Kraken",
+   "ats": "ashby",
+   "slug": "krakentech",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.kraken.tech/working-at-kraken"
   },
   {
    "company": "Latent Labs",
@@ -518,6 +794,18 @@
    "ukJobsAtDiscovery": 2
   },
   {
+   "company": "Lucida",
+   "ats": "page",
+   "slug": "https://www.lucida.com/careers/",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.lucida.com/careers/"
+  },
+  {
    "company": "Luma AI",
    "ats": "ashby",
    "slug": "lumaai",
@@ -540,6 +828,42 @@
    "source": "discovered",
    "jobsAtDiscovery": 8,
    "ukJobsAtDiscovery": 6
+  },
+  {
+   "company": "Luminance",
+   "ats": "workable",
+   "slug": "luminance-1",
+   "type": "startup",
+   "fit": "M",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://apply.workable.com/luminance-1/"
+  },
+  {
+   "company": "Malted AI",
+   "ats": "page",
+   "slug": "https://malted.ai/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://malted.ai/careers"
+  },
+  {
+   "company": "Marker",
+   "ats": "workable",
+   "slug": "marker-io",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://marker.io/jobs"
   },
   {
    "company": "Maze",
@@ -624,6 +948,18 @@
    "ukJobsAtDiscovery": 26
   },
   {
+   "company": "Neurolabs",
+   "ats": "workable",
+   "slug": "neurolabs",
+   "type": "startup",
+   "fit": "H",
+   "city": "North West England",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://apply.workable.com/neurolabs/"
+  },
+  {
    "company": "Nevis",
    "ats": "ashby",
    "slug": "nevis",
@@ -646,6 +982,18 @@
    "source": "manual",
    "jobsAtDiscovery": 8,
    "ukJobsAtDiscovery": 8
+  },
+  {
+   "company": "Nscale",
+   "ats": "page",
+   "slug": "https://www.nscale.com/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.nscale.com/careers"
   },
   {
    "company": "Occam Industries",
@@ -694,6 +1042,42 @@
    "source": "manual"
   },
   {
+   "company": "Optellum",
+   "ats": "page",
+   "slug": "https://optellum.com/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Oxford",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://optellum.com/careers"
+  },
+  {
+   "company": "Opteran Technologies",
+   "ats": "page",
+   "slug": "https://opteran.com/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Sheffield",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://opteran.com/careers"
+  },
+  {
+   "company": "Outerlimit",
+   "ats": "bamboohr",
+   "slug": "outerlimitgroupltd",
+   "type": "startup",
+   "fit": "M",
+   "city": "North West England",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.outerlimit.com/company/careers"
+  },
+  {
    "company": "Oxa",
    "ats": "ashby",
    "slug": "oxa",
@@ -719,15 +1103,39 @@
   },
   {
    "company": "Partly",
-   "ats": "smartrecruiters",
-   "slug": "partly",
+   "ats": "page",
+   "slug": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs",
    "type": "startup",
    "fit": "M",
-   "confidence": "low",
-   "enabled": false,
-   "source": "discovered",
-   "jobsAtDiscovery": 1,
-   "ukJobsAtDiscovery": 0
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs"
+  },
+  {
+   "company": "Patchs Health",
+   "ats": "page",
+   "slug": "https://hub.patchs.ai/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "West Midlands",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://hub.patchs.ai/careers"
+  },
+  {
+   "company": "PharmEnable",
+   "ats": "page",
+   "slug": "https://pharmenabletx.com/careers/",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://pharmenabletx.com/careers/"
   },
   {
    "company": "PhysicsX",
@@ -765,15 +1173,15 @@
   },
   {
    "company": "Prima Mente",
-   "ats": "lever",
-   "slug": "prima",
+   "ats": "ashby",
+   "slug": "Prima%20Mente",
    "type": "startup",
    "fit": "H",
-   "confidence": "low",
-   "enabled": false,
-   "source": "discovered",
-   "jobsAtDiscovery": 87,
-   "ukJobsAtDiscovery": 28
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.primamente.com/join-us/"
   },
   {
    "company": "Prolific",
@@ -810,6 +1218,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 6,
    "ukJobsAtDiscovery": 2
+  },
+  {
+   "company": "Relation Therapeutics",
+   "ats": "ashby",
+   "slug": "relationrx",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.relationrx.com/careers"
   },
   {
    "company": "Riverlane",
@@ -930,6 +1350,18 @@
    "source": "manual"
   },
   {
+   "company": "Stateful Robotics",
+   "ats": "page",
+   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
+   "type": "startup",
+   "fit": "H",
+   "city": "Oxford",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://statefulrobotics.com/careers-research-engineer-oct26/"
+  },
+  {
    "company": "Swap",
    "ats": "ashby",
    "slug": "swap",
@@ -964,6 +1396,18 @@
    "ukJobsAtDiscovery": 19
   },
   {
+   "company": "Theia Insights",
+   "ats": "workable",
+   "slug": "theia-insights",
+   "type": "startup",
+   "fit": "M",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://apply.workable.com/theia-insights/"
+  },
+  {
    "company": "Thought Machine",
    "ats": "ashby",
    "slug": "thought-machine",
@@ -974,6 +1418,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 40,
    "ukJobsAtDiscovery": 19
+  },
+  {
+   "company": "TidalSense",
+   "ats": "page",
+   "slug": "https://tidalsense.com/careers/",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://tidalsense.com/careers/"
   },
   {
    "company": "Tractable",
@@ -988,6 +1444,54 @@
    "ukJobsAtDiscovery": 1
   },
   {
+   "company": "Trismik",
+   "ats": "page",
+   "slug": "https://trismik.com/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://trismik.com/careers"
+  },
+  {
+   "company": "Ultromics",
+   "ats": "page",
+   "slug": "https://www.ultromics.com/about/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Oxford",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.ultromics.com/about/careers"
+  },
+  {
+   "company": "Unitary",
+   "ats": "workable",
+   "slug": "unitary",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://apply.workable.com/unitary/"
+  },
+  {
+   "company": "V7",
+   "ats": "page",
+   "slug": "https://www.v7labs.com/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.v7labs.com/careers"
+  },
+  {
    "company": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
@@ -998,6 +1502,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 157,
    "ukJobsAtDiscovery": 55
+  },
+  {
+   "company": "Zenithon",
+   "ats": "page",
+   "slug": "https://zenithon.ai/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://zenithon.ai/careers"
   }
  ]
 }
