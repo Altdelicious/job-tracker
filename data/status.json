@@ -1,10 +1,10 @@
 {
- "lastRun": "2026-10-13T19:25:40+00:00",
- "boardsTotal": 122,
- "boardsOk": 122,
+ "lastRun": "2026-10-13T19:29:47+00:00",
+ "boardsTotal": 116,
+ "boardsOk": 116,
  "boardsFailed": [],
- "jobsActive": 264,
- "newThisRun": 18,
+ "jobsActive": 263,
+ "newThisRun": 0,
  "notes": [
   "jobs.ac.uk: 286 results scanned",
   "cam.ac.uk: 57 vacancies scanned",
@@ -234,12 +234,6 @@
    "status": "ok: 39 jobs, 3 kept"
   },
   {
-   "company": "Ethos",
-   "ats": "greenhouse",
-   "slug": "ethoslife",
-   "status": "ok: 73 jobs, 0 kept"
-  },
-  {
    "company": "Evident Insights",
    "ats": "page",
    "slug": "https://evidentinsights.com/careers",
@@ -268,12 +262,6 @@
    "ats": "workable",
    "slug": "fuseenergy",
    "status": "ok: 99 jobs, 7 kept"
-  },
-  {
-   "company": "Generative Engineering",
-   "ats": "page",
-   "slug": "https://generative.vision/careers",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Granola",
@@ -390,12 +378,6 @@
    "status": "ok: 4 jobs, 0 kept"
   },
   {
-   "company": "Lucida",
-   "ats": "page",
-   "slug": "https://www.lucida.com/careers/",
-   "status": "ok: 0 jobs, 0 kept"
-  },
-  {
    "company": "Luma AI",
    "ats": "ashby",
    "slug": "lumaai",
@@ -418,12 +400,6 @@
    "ats": "page",
    "slug": "https://malted.ai/careers",
    "status": "ok: 1 jobs, 0 kept"
-  },
-  {
-   "company": "Marker",
-   "ats": "workable",
-   "slug": "marker-io",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Maze",
@@ -507,7 +483,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 801 jobs, 11 kept"
+   "status": "ok: 802 jobs, 11 kept"
   },
   {
    "company": "Optellum",
@@ -522,22 +498,10 @@
    "status": "ok: 0 jobs, 0 kept"
   },
   {
-   "company": "Outerlimit",
-   "ats": "bamboohr",
-   "slug": "outerlimitgroupltd",
-   "status": "ok: 5 jobs, 0 kept"
-  },
-  {
    "company": "Oxa",
    "ats": "ashby",
    "slug": "oxa",
    "status": "ok: 1 jobs, 0 kept"
-  },
-  {
-   "company": "Partly",
-   "ats": "page",
-   "slug": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs",
-   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Patchs Health",
@@ -597,7 +561,7 @@
    "company": "Relation Therapeutics",
    "ats": "ashby",
    "slug": "relationrx",
-   "status": "ok: 15 jobs, 9 kept"
+   "status": "ok: 15 jobs, 8 kept"
   },
   {
    "company": "Riverlane",

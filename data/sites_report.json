@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-13T19:25:39+00:00",
+ "ranAt": "2026-10-13T19:29:47+00:00",
  "results": [
   {
    "company": "Google DeepMind",
@@ -15,17 +15,6 @@
    "via": "https://www.nscale.com/careers",
    "jobs": 0,
    "ukJobs": 0
-  },
-  {
-   "company": "Kraken",
-   "website": "https://kraken.tech",
-   "guessed": false,
-   "result": "platform",
-   "ats": "ashby",
-   "slug": "krakentech",
-   "via": "https://www.kraken.tech/working-at-kraken",
-   "jobs": 61,
-   "ukJobs": 19
   },
   {
    "company": "Isembard",
@@ -109,14 +98,7 @@
   },
   {
    "company": "Ethos",
-   "website": "https://www.ethos.com/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "greenhouse",
-   "slug": "ethoslife",
-   "via": "https://www.ethos.com/careers/",
-   "jobs": 73,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Scope",
@@ -148,14 +130,7 @@
   },
   {
    "company": "Marker",
-   "website": "https://marker.io/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "marker-io",
-   "via": "https://marker.io/jobs",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Opteran Technologies",
@@ -176,14 +151,7 @@
   },
   {
    "company": "Outerlimit",
-   "website": "https://www.outerlimit.com/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "bamboohr",
-   "slug": "outerlimitgroupltd",
-   "via": "https://www.outerlimit.com/company/careers",
-   "jobs": 5,
-   "ukJobs": 4
+   "result": "no website found"
   },
   {
    "company": "Perceptic",
@@ -197,14 +165,7 @@
   },
   {
    "company": "Generative Engineering",
-   "website": "https://generative.vision",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://generative.vision/careers",
-   "via": "https://generative.vision/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Malted AI",
@@ -253,14 +214,7 @@
   },
   {
    "company": "Partly",
-   "website": "https://partly.ai/us",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs",
-   "via": "https://partly.ai/us/research/measuring-the-performance-of-interpreter-on-real-world-repair-jobs",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Giraffe360",
@@ -292,17 +246,6 @@
    "ukJobs": 0
   },
   {
-   "company": "Neurolabs",
-   "website": "https://neurolabs.ai",
-   "guessed": false,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "neurolabs",
-   "via": "https://apply.workable.com/neurolabs/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
    "company": "Human Native AI",
    "result": "no website found"
   },
@@ -320,14 +263,7 @@
   },
   {
    "company": "Lucida",
-   "website": "https://www.lucida.com/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.lucida.com/careers/",
-   "via": "https://www.lucida.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Arthos",
@@ -380,17 +316,6 @@
    "result": "no careers page found"
   },
   {
-   "company": "Antare",
-   "website": "https://antare.ai/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "teamtailor",
-   "slug": "antaretechnology-1748341798",
-   "via": "https://antare.ai/",
-   "jobs": 5,
-   "ukJobs": 5
-  },
-  {
    "company": "Hearable",
    "website": "https://hearable.ai/",
    "guessed": true,
@@ -426,28 +351,6 @@
    "ats": "page",
    "slug": "https://www.deepalert.ai/careers/",
    "via": "https://www.deepalert.ai/careers/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Luminance",
-   "website": "https://luminance.com",
-   "guessed": false,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "luminance-1",
-   "via": "https://apply.workable.com/luminance-1/",
-   "jobs": 54,
-   "ukJobs": 23
-  },
-  {
-   "company": "Cyted Health",
-   "website": "https://cyted.ai",
-   "guessed": false,
-   "result": "platform",
-   "ats": "personio",
-   "slug": "cyted",
-   "via": "https://www.cytedhealth.com/careers",
    "jobs": 0,
    "ukJobs": 0
   },
@@ -490,17 +393,6 @@
    "website": "https://conundrum.ai",
    "guessed": false,
    "result": "no careers page found"
-  },
-  {
-   "company": "Theia Insights",
-   "website": "https://theiainsights.com",
-   "guessed": false,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "theia-insights",
-   "via": "https://apply.workable.com/theia-insights/",
-   "jobs": 1,
-   "ukJobs": 0
   },
   {
    "company": "PharmEnable",
@@ -563,28 +455,6 @@
    "website": "https://automata.tech",
    "guessed": false,
    "result": "no careers page found"
-  },
-  {
-   "company": "Brainomix",
-   "website": "https://brainomix.com",
-   "guessed": false,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "brainomix-2",
-   "via": "https://apply.workable.com/brainomix-2/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Caristo Diagnostics",
-   "website": "https://caristo.com",
-   "guessed": false,
-   "result": "platform",
-   "ats": "bamboohr",
-   "slug": "caristo",
-   "via": "https://caristo.bamboohr.com/jobs/",
-   "jobs": 4,
-   "ukJobs": 4
   },
   {
    "company": "NavLive",
@@ -665,17 +535,6 @@
    "ukJobs": 0
   },
   {
-   "company": "DYAD",
-   "website": "https://dyad.ai/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "dyad-ai",
-   "via": "https://apply.workable.com/dyad-ai/",
-   "jobs": 1,
-   "ukJobs": 1
-  },
-  {
    "company": "Kheiron Medical",
    "website": "https://kheironmed.com",
    "guessed": false,
@@ -709,17 +568,6 @@
    "ukJobs": 0
   },
   {
-   "company": "Unitary",
-   "website": "https://unitary.ai",
-   "guessed": false,
-   "result": "platform",
-   "ats": "workable",
-   "slug": "unitary",
-   "via": "https://apply.workable.com/unitary/",
-   "jobs": 6,
-   "ukJobs": 6
-  },
-  {
    "company": "Seldon",
    "website": "https://seldon.io",
    "guessed": false,
@@ -736,31 +584,9 @@
    "jobs": null
   },
   {
-   "company": "Relation Therapeutics",
-   "website": "https://relationrx.com",
-   "guessed": false,
-   "result": "platform",
-   "ats": "ashby",
-   "slug": "relationrx",
-   "via": "https://www.relationrx.com/careers",
-   "jobs": 15,
-   "ukJobs": 15
-  },
-  {
    "company": "LabGenius",
    "website": "https://labgenius.com",
    "result": "website not reachable"
-  },
-  {
-   "company": "Prima Mente",
-   "website": "https://www.primamente.com/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "ashby",
-   "slug": "Prima%20Mente",
-   "via": "https://www.primamente.com/join-us/",
-   "jobs": 1,
-   "ukJobs": 1
   },
   {
    "company": "Robin AI",

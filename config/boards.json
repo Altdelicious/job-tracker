@@ -1042,6 +1042,18 @@
    "ukJobsAtDiscovery": 0
   },
   {
+   "company": "Partly",
+   "ats": "smartrecruiters",
+   "slug": "partly",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "low",
+   "enabled": false,
+   "source": "discovered",
+   "jobsAtDiscovery": 1,
+   "ukJobsAtDiscovery": 0
+  },
+  {
    "company": "Patchs Health",
    "ats": "page",
    "slug": "https://hub.patchs.ai/careers",
