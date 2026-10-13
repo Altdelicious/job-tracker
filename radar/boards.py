@@ -95,6 +95,8 @@ def ashby(slug):
 def workable(slug):
     r = get(f"https://apply.workable.com/api/v1/widget/accounts/{slug}")
     if r is None or r.status_code != 200:
+        r = get(f"https://www.workable.com/api/accounts/{slug}", params={"details": "false"})
+    if r is None or r.status_code != 200:
         return None
     try:
         data = r.json()

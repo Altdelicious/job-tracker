@@ -74,7 +74,7 @@ def probe(company):
             full = norm(re.sub(r"\(.*?\)", "", name)).replace(" ", "")
             if conf == "low" and slug.replace("-", "") in (full, full + "ai", full + "labs") and len(full) >= 5 and uk > 0:
                 conf = "high"
-            if conf == "low" and uk > 0 and len(slug) >= 7:
+            if conf == "low" and uk > 0 and (len(slug) >= 7 or slug.replace("-", "") in (full, full + "hq", full + "ai")):
                 conf = "medium"
             cand = dict(company=name, ats=ats, slug=slug, jobs=len(jobs), ukJobs=uk, confidence=conf)
             if best is None or ({"high": 2, "medium": 1, "low": 0}[conf], uk) > ({"high": 2, "medium": 1, "low": 0}[best["confidence"]], best["ukJobs"]):

@@ -15,6 +15,7 @@ SESSION.headers["User-Agent"] = "ml-job-radar/1.0 (personal job search; contact 
 
 
 PROBE = {"on": False}  # discovery mode: fail fast, no retries
+HTTP_LOG = {}  # url -> last status code or exception name, for diagnosing failed boards
 
 
 def get(url, *, params=None, timeout=25, retries=2):
@@ -24,11 +25,13 @@ def get(url, *, params=None, timeout=25, retries=2):
     for attempt in range(retries + 1):
         try:
             r = SESSION.get(url, params=params, timeout=timeout)
-            if r.status_code == 429 and attempt < retries:
-                time.sleep(3 * (attempt + 1))
+            HTTP_LOG[url] = r.status_code
+            if r.status_code in (429, 503) and attempt < retries:
+                time.sleep(int(r.headers.get("Retry-After", 0) or 0) or 5 * (attempt + 1))
                 continue
             return r
-        except requests.RequestException:
+        except requests.RequestException as e:
+            HTTP_LOG[url] = e.__class__.__name__
             if attempt == retries:
                 return None
             time.sleep(2)
@@ -54,7 +57,12 @@ UK_PLACES = (
     r"liverpool|southampton|harwell|stevenage|hatfield|united kingdom|\buk\b|u\.k\.|england|scotland|wales|great britain|\bgb\b|\bgbr\b"
 )
 UK_RE = re.compile(UK_PLACES, re.I)
-NOT_UK_RE = re.compile(r"cambridge,?\s*(ma|massachusetts|us|usa)|london,?\s*(on|ontario|canada|ky|kentucky)|new england|oxford,?\s*(ms|oh|mississippi|ohio)", re.I)
+NOT_UK_RE = re.compile(
+    r"new york|new england|new south wales|"
+    r"cambridge,?\s*(ma|massachusetts|us|usa)\b|london,?\s*(on|ontario|canada|ky|kentucky)\b|oxford,?\s*(ms|oh|mississippi|ohio)\b|"
+    r"manchester,?\s*(nh|new hampshire)\b|birmingham,?\s*(al|alabama|mi|michigan)\b|reading,?\s*(pa|pennsylvania)\b|"
+    r"bath,?\s*(me|maine|ny)\b|york,?\s*(pa|pennsylvania)\b|bristol,?\s*(ct|tn|connecticut|tennessee)\b",
+    re.I)
 REMOTE_EU_RE = re.compile(r"remote.*(emea|europe)|(emea|europe).*remote", re.I)
 
 
@@ -89,6 +97,7 @@ EXCLUDE = re.compile(
     r"marketing|communications|finance|accountant|payroll|procurement|office|executive assistant|"
     r"customer success|support specialist|solutions architect|sales engineer|partnerships|"
     r"lecturer|professor|reader in|teaching|technician|nurse|clinical fellow|phd studentship|studentship|"
+    r"data associate|annotat|linguist|language specialist|transcri|strategist|evangelist|advocate|"
     r"policy|government affairs|public affairs|security officer|facilities|workplace|events)",
     re.I,
 )
@@ -116,8 +125,8 @@ TAGS = {
     "research": r"research|scientist|fellow|postdoc|post-doc|residen",
     "engineering": r"engineer|technical staff|developer|software|\bmts\b",
     "data science": r"data scien|analytics|statistic|quantitative",
-    "vision": r"vision|imag|perception|video|3d|visual|camera|lidar",
-    "health": r"medical|health|clinical|biomed|bio|drug|patholog|radiolog|genom|protein|molecul",
+    "vision": r"vision|imag|perception|(?<!prime )video|\b3d\b|visual|camera|lidar|avatar",
+    "health": r"medical|health|clinical|biomed|bioinformat|biolog|drug|patholog|radiolog|genom|protein|molecul",
     "autonomy": r"autonom|robot|driving|self-driving|embodied|navigation|slam",
     "llm": r"\bllm|language model|nlp|natural language|generative|foundation model|agent",
     "speech": r"speech|audio|voice",
@@ -135,11 +144,14 @@ FIT_BONUS = {"H": 1, "M": 0, "L": -1}
 
 
 def score(title, company_type, fit="M"):
+    """1-5. Roughly: 5 = core research/ML role in your domains at a strong-fit
+    employer; 4 = core role at a strong-fit employer, or core role in your
+    domains elsewhere; 3 = relevant but adjacent; 2 = needs a PhD or weak fit."""
     t = title or ""
     tg = tags(t)
-    s = 3
+    s = 2
     reasons = []
-    if re.search(r"research (engineer|scientist)|applied scientist|member of technical staff|\bmts\b|machine learning engineer|ml engineer|research software engineer|ai engineer", t, re.I):
+    if re.search(r"research (engineer|scientist)|applied scientist|member of technical staff|\bmts\b|machine learning engineer|ml engineer|research software engineer|ai engineer|fellows? program|fellowship|residency", t, re.I):
         s += 1
         reasons.append("core research or ML engineering role")
     if "vision" in tg or "health" in tg or "autonomy" in tg:
@@ -163,7 +175,14 @@ def score(title, company_type, fit="M"):
         reasons.append("more infrastructure than modelling")
     if re.search(r"data scientist|data science", t, re.I):
         reasons.append("data science role")
-    s += FIT_BONUS.get(fit, 0)
+    if company_type == "academic":
+        s += 1  # academic posts are scored on grade and topic, not employer fit
+    else:
+        s += max(0, FIT_BONUS.get(fit, 0))
+        if fit == "H":
+            reasons.append("employer close to your interests")
+        elif fit == "L":
+            s -= 1
     s = max(1, min(5, s))
     why = "; ".join(reasons) if reasons else "relevant ML or data role"
     return s, why[0].upper() + why[1:] + "."

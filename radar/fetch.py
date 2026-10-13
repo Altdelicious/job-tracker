@@ -2,12 +2,13 @@
 score them, and write data/jobs.json and data/status.json.
 Run: python -m radar.fetch
 """
+import json
 import re
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 
 from . import boards as B
-from .common import (CONFIG, DATA, city_tags, is_uk, level, load_json, save_json,
+from .common import (CONFIG, DATA, HTTP_LOG, city_tags, is_uk, level, load_json, save_json,
                      score, tags, wanted_title)
 
 NOW = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -42,7 +43,8 @@ def from_board(b):
     except Exception as e:  # noqa: BLE001
         return b, None, f"error: {e.__class__.__name__}"
     if raw is None:
-        return b, None, "board not reachable"
+        codes = {u: c for u, c in HTTP_LOG.items() if b["slug"] in u}
+        return b, None, "board not reachable " + json.dumps(codes)
     out = []
     for j in raw:
         if not is_uk(j.get("location", "")) or not wanted_title(j.get("title")):
