@@ -325,8 +325,9 @@
    "type": "lab",
    "fit": "H",
    "confidence": "high",
-   "enabled": true,
-   "source": "manual"
+   "enabled": false,
+   "source": "manual",
+   "note": "Moved to Google Careers (google.com/about/careers, company=DeepMind); needs its own reader"
   },
   {
    "company": "Granola",
