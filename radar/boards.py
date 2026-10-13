@@ -230,3 +230,161 @@ def cam_research():
                             closes_text=cells[5] if len(cells) > 5 else None, location="Cambridge",
                             url="https://www.cam.ac.uk" + link.group(1), posted=None))
     return list({j["id"]: j for j in out}.values())
+
+
+# ---------- More hiring platforms (found via careers-page detection) ----------
+import xml.etree.ElementTree as ET  # noqa: E402
+from urllib.parse import urljoin, urlparse  # noqa: E402
+
+
+def _xml_text(el, *names):
+    for n in names:
+        for child in el.iter():
+            if child.tag.split("}")[-1] == n and (child.text or "").strip():
+                return child.text.strip()
+    return ""
+
+
+def teamtailor(slug):
+    """slug is a Teamtailor subdomain or a full careers-site base URL."""
+    base = slug if "://" in slug else f"https://{slug}.teamtailor.com"
+    r = get(base.rstrip("/") + "/jobs.rss")
+    if r is None or r.status_code != 200 or "<rss" not in r.text[:500]:
+        return None
+    try:
+        root = ET.fromstring(r.content)
+    except ET.ParseError:
+        return None
+    out = []
+    for it in root.iter("item"):
+        locs = [_xml_text(l, "city", "name") for l in it.iter() if l.tag.split("}")[-1] == "location"]
+        link = _xml_text(it, "link")
+        out.append(dict(id=link.rstrip("/").rsplit("/", 1)[-1][:12] or _xml_text(it, "guid")[-12:], title=_xml_text(it, "title"),
+                        location="; ".join(dict.fromkeys(l for l in locs if l)), url=link, posted=_iso(None)))
+    return out
+
+
+def personio(slug):
+    for tld in ("de", "com"):
+        r = get(f"https://{slug}.jobs.personio.{tld}/xml")
+        if r is None or r.status_code != 200 or "<workzag-jobs" not in r.text[:300]:
+            continue
+        try:
+            root = ET.fromstring(r.content)
+        except ET.ParseError:
+            return None
+        out = []
+        for p in root.iter("position"):
+            pid = _xml_text(p, "id")
+            offices = [_xml_text(p, "office")] + [o.text or "" for o in p.iter("office")]
+            out.append(dict(id=pid, title=_xml_text(p, "name"), location="; ".join(dict.fromkeys(o for o in offices if o)),
+                            url=f"https://{slug}.jobs.personio.{tld}/job/{pid}", posted=_iso(_xml_text(p, "createdAt"))))
+        return out
+    return None
+
+
+def pinpoint(slug):
+    r = get(f"https://{slug}.pinpointhq.com/postings.json")
+    if r is None or r.status_code != 200:
+        return None
+    try:
+        data = r.json().get("data", [])
+    except ValueError:
+        return None
+    out = []
+    for j in data:
+        loc = j.get("location") or {}
+        out.append(dict(id=str(j.get("id")), title=j.get("title", ""),
+                        location=", ".join(x for x in (loc.get("city"), loc.get("province"), loc.get("name")) if x) if isinstance(loc, dict) else str(loc),
+                        url=j.get("url"), posted=None))
+    return out
+
+
+def bamboohr(slug):
+    r = get(f"https://{slug}.bamboohr.com/careers/list")
+    if r is None or r.status_code != 200:
+        return None
+    try:
+        data = r.json().get("result", [])
+    except ValueError:
+        return None
+    out = []
+    for j in data:
+        loc = j.get("location") or {}
+        out.append(dict(id=str(j.get("id")), title=j.get("jobOpeningName", ""),
+                        location=", ".join(x for x in (loc.get("city"), loc.get("state"), loc.get("country")) if x) if isinstance(loc, dict) else "",
+                        url=f"https://{slug}.bamboohr.com/careers/{j.get('id')}", posted=None))
+    return out
+
+
+def breezy(slug):
+    r = get(f"https://{slug}.breezy.hr/json")
+    if r is None or r.status_code != 200:
+        return None
+    try:
+        data = r.json()
+    except ValueError:
+        return None
+    out = []
+    for j in data if isinstance(data, list) else []:
+        loc = j.get("location") or {}
+        out.append(dict(id=str(j.get("id")), title=j.get("name", ""),
+                        location=", ".join(x for x in (loc.get("city"), (loc.get("country") or {}).get("name") if isinstance(loc.get("country"), dict) else loc.get("country")) if x) if isinstance(loc, dict) else "",
+                        url=j.get("url"), posted=_iso(j.get("published_date"))))
+    return out
+
+
+def workday(slug):
+    """slug: 'tenant|wdN|site'. Uses Workday's public careers-site search endpoint."""
+    try:
+        tenant, wd, site = slug.split("|")
+    except ValueError:
+        return None
+    from .common import SESSION
+    out, offset = [], 0
+    while offset < 400:
+        try:
+            r = SESSION.post(f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs",
+                             json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": ""}, timeout=25)
+        except Exception:  # noqa: BLE001
+            return out or None
+        if r.status_code != 200:
+            return out or None
+        posts = r.json().get("jobPostings", [])
+        for j in posts:
+            path = j.get("externalPath", "")
+            out.append(dict(id=path.rsplit("_", 1)[-1] or path[-12:], title=j.get("title", ""), location=j.get("locationsText", ""),
+                            url=f"https://{tenant}.{wd}.myworkdayjobs.com/{site}{path}", posted=None))
+        if len(posts) < 20:
+            break
+        offset += 20
+    return out
+
+
+ROLE_NOUN = re.compile(r"engineer|scientist|researcher|research (assistant|associate)|developer|analyst|intern\b|internship|"
+                       r"fellow|resident|specialist|architect|technical staff", re.I)
+
+
+def page(url):
+    """Plain careers page: pull job-like link texts. Location is unknown (caller falls back to company city)."""
+    r = get(url)
+    if r is None or r.status_code != 200:
+        return None
+    out, seen = [], set()
+    for href, text in re.findall(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', r.text, re.S | re.I):
+        t = html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text))).strip()
+        if not (8 <= len(t) <= 120) or not ROLE_NOUN.search(t):
+            continue
+        link = urljoin(url, href)
+        if link in seen or urlparse(link).scheme not in ("http", "https"):
+            continue
+        seen.add(link)
+        out.append(dict(id=re.sub(r"[^A-Za-z0-9]+", "", link.rsplit("/", 1)[-1] or link)[-24:] or str(abs(hash(link)))[:12],
+                        title=t, location="", url=link, posted=None))
+    return out
+
+
+READERS.update({
+    "teamtailor": teamtailor, "personio": personio, "pinpoint": pinpoint,
+    "bamboohr": bamboohr, "breezy": breezy, "workday": workday, "page": page,
+})

@@ -36,6 +36,12 @@ def parse_close(text):
     return dt.isoformat()
 
 
+PREFIX = {"greenhouse": "gh", "lever": "lv", "ashby": "ashby", "workable": "wk", "smartrecruiters": "sr", "recruitee": "rc",
+          "teamtailor": "tt", "personio": "ps", "pinpoint": "pp", "bamboohr": "bh", "breezy": "bz", "workday": "wd", "page": "pg"}
+LEGACY_IDS = {"greenhouse", "lever", "ashby", "workable", "smartrecruiters", "recruitee"}  # keep IDs stable for existing jobs
+COMPANY_CITY = {c["name"]: c.get("city", "") for c in load_json(CONFIG / "companies.json", {"companies": []})["companies"]}
+
+
 def from_board(b):
     reader = B.READERS[b["ats"]]
     try:
@@ -46,15 +52,24 @@ def from_board(b):
         codes = {u: c for u, c in HTTP_LOG.items() if b["slug"] in u}
         return b, None, "board not reachable " + json.dumps(codes)
     out = []
+    fallback_city = b.get("city") or COMPANY_CITY.get(b["company"], "")
     for j in raw:
-        if not is_uk(j.get("location", "")) or not wanted_title(j.get("title")):
+        loc = (j.get("location") or "").strip()
+        # Feeds without a location (watched pages, some platforms): assume the company's UK base.
+        eff_loc = loc or fallback_city
+        if not is_uk(eff_loc) or not wanted_title(j.get("title")):
+            continue
+        if b["ats"] == "page" and not B.ROLE_NOUN.search(j.get("title", "")):
             continue
         s, why = score(j["title"], b["type"], b.get("fit", "M"))
+        slug_key = re.sub(r"[^A-Za-z0-9]+", "", b["slug"].split("://")[-1])[:24]
         out.append(dict(
-            id=f'{ {"greenhouse": "gh", "lever": "lv", "ashby": "ashby", "workable": "wk", "smartrecruiters": "sr", "recruitee": "rc"}[b["ats"]] }-{b["slug"]}-{str(j["id"])[:12]}'.replace(" ", ""),
-            company=b["company"], companyType=b["type"], title=j["title"].strip(), location=j.get("location", ""),
-            cities=city_tags(j.get("location", "")), url=j.get("url"), posted=j.get("posted"), closes=None, salary=None,
-            score=s, why=why, level=level(j["title"]), tags=tags(j["title"]), source=b["ats"]))
+            id=(f'{PREFIX[b["ats"]]}-{b["slug"]}-{str(j["id"])[:12]}'.replace(" ", "") if b["ats"] in LEGACY_IDS
+                else f'{PREFIX.get(b["ats"], b["ats"][:4])}-{slug_key}-{re.sub(r"[^A-Za-z0-9_-]+", "", str(j["id"]))[:24]}'),
+            company=b["company"], companyType=b["type"], title=j["title"].strip(), location=loc or (fallback_city + " (assumed)" if fallback_city else ""),
+            cities=city_tags(eff_loc), url=j.get("url"), posted=j.get("posted"), closes=None, salary=None,
+            score=s, why=why + (" Found on the company's careers page." if b["ats"] == "page" else ""),
+            level=level(j["title"]), tags=tags(j["title"]), source=b["ats"]))
     return b, out, f"ok: {len(raw)} jobs, {len(out)} kept"
 
 

@@ -51,9 +51,15 @@ def main():
     for n in st.get("notes", []):
         if "failed" in n.lower():
             notes.append(n)
-    nf = rep.get("notFound", [])
+    sites = {r["company"]: r for r in load_json(DATA / "sites_report.json", {"results": []})["results"]}
+    nf = [n for n in rep.get("notFound", []) if n not in {b["company"] for b in enabled}]
     if nf:
-        notes.append(f"{len(nf)} companies have no job board found yet (custom careers sites): " + ", ".join(nf[:40]) + ("…" if len(nf) > 40 else ""))
+        why = lambda n: {"no website found": "no website", "website not reachable": "site unreachable",
+                         "no careers page found": "no careers page"}.get(sites.get(n, {}).get("result", ""), "")
+        notes.append(f"{len(nf)} companies aren't covered yet: " + ", ".join(n + (f" ({why(n)})" if why(n) else "") for n in nf[:45]) + ("…" if len(nf) > 45 else ""))
+    pages = sorted(b["company"] for b in enabled if b.get("ats") == "page")
+    if pages:
+        notes.append(f"{len(pages)} companies are read from their own careers page, so their listings may be less complete: " + ", ".join(pages) + ".")
     enabled_names = {b["company"] for b in enabled}
     low = [x for x in rep.get("lowConfidence", []) if x.split(" → ")[0] not in enabled_names]
     if low:

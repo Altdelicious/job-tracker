@@ -177,7 +177,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Intelligent CIO: UK AI funding H1 2026",
-   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/"
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/",
+   "website": "https://nscale.com"
   },
   {
    "name": "Wayve",
@@ -301,16 +302,6 @@
    "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
   },
   {
-   "name": "Shop Circle",
-   "city": "London",
-   "focus": "Commerce software (AI)",
-   "funding": "Series B",
-   "type": "startup",
-   "fit": "L",
-   "source": "Seedtable: best AI startups in London",
-   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
-  },
-  {
    "name": "Kraken",
    "city": "London",
    "focus": "Energy platform software with ML",
@@ -318,7 +309,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Seedtable: best AI startups in London",
-   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london",
+   "website": "https://kraken.tech"
   },
   {
    "name": "Fractile",
@@ -381,16 +373,6 @@
    "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
   },
   {
-   "name": "Inforcer",
-   "city": "London",
-   "focus": "IT security automation",
-   "funding": "Series C",
-   "type": "startup",
-   "fit": "L",
-   "source": "Seedtable: best AI startups in London",
-   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
-  },
-  {
    "name": "Tem",
    "city": "London",
    "focus": "Energy transaction infrastructure",
@@ -421,16 +403,6 @@
    "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
   },
   {
-   "name": "MillTech",
-   "city": "London",
-   "focus": "FX and treasury tech",
-   "funding": "Growth",
-   "type": "startup",
-   "fit": "L",
-   "source": "Seedtable: best AI startups in London",
-   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
-  },
-  {
    "name": "Isembard",
    "city": "London",
    "focus": "AI-driven precision manufacturing",
@@ -438,7 +410,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://isembard.com"
   },
   {
    "name": "Quantexa",
@@ -478,7 +451,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: London's top AI companies",
-   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/",
+   "website": "https://ceracare.co.uk"
   },
   {
    "name": "Improbable",
@@ -530,7 +504,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://charmtx.com"
   },
   {
    "name": "Scarlet",
@@ -723,16 +698,6 @@
    "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
   },
   {
-   "name": "HireBOB.ai",
-   "city": "South West England",
-   "focus": "AI recruiting",
-   "funding": "£16m",
-   "type": "startup",
-   "fit": "L",
-   "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
-  },
-  {
    "name": "Nous",
    "city": "London",
    "focus": "",
@@ -780,7 +745,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://move.ai"
   },
   {
    "name": "Anam",
@@ -790,7 +756,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://anam.ai"
   },
   {
    "name": "Etcembly",
@@ -800,7 +767,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://etcembly.com"
   },
   {
    "name": "Searchable",
@@ -840,7 +808,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://opteran.com"
   },
   {
    "name": "coding.bio",
@@ -850,7 +819,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://coding.bio"
   },
   {
    "name": "Outerlimit",
@@ -893,16 +863,6 @@
    "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
   },
   {
-   "name": "geoSurge",
-   "city": "London",
-   "focus": "",
-   "funding": "£10m",
-   "type": "startup",
-   "fit": "L",
-   "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
-  },
-  {
    "name": "Malted AI",
    "city": "London",
    "focus": "Small specialised language models",
@@ -910,7 +870,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://malted.ai"
   },
   {
    "name": "Condukt",
@@ -940,7 +901,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/",
+   "website": "https://cellvoyant.com"
   },
   {
    "name": "ElevenLabs",
@@ -991,7 +953,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://iproov.com"
   },
   {
    "name": "Partly",
@@ -1011,7 +974,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://giraffe360.com"
   },
   {
    "name": "Realeyes",
@@ -1021,7 +985,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://realeyesit.com"
   },
   {
    "name": "Plumerai",
@@ -1041,7 +1006,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://pimloc.com"
   },
   {
    "name": "Doubleword",
@@ -1051,7 +1017,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://doubleword.ai"
   },
   {
    "name": "Neurolabs",
@@ -1061,7 +1028,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://neurolabs.ai"
   },
   {
    "name": "Human Native AI",
@@ -1081,7 +1049,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://blueskeye.com"
   },
   {
    "name": "Five (FiveAI)",
@@ -1112,7 +1081,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://palabra.ai"
   },
   {
    "name": "Lucida",
@@ -1152,7 +1122,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://emteqlabs.com"
   },
   {
    "name": "NVISIQ",
@@ -1182,7 +1153,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://patchs.ai"
   },
   {
    "name": "Artclear",
@@ -1202,7 +1174,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://fyma.ai"
   },
   {
    "name": "Applied AGI",
@@ -1252,7 +1225,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://cattleeye.com"
   },
   {
    "name": "Element Human",
@@ -1262,7 +1236,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://elementhuman.com"
   },
   {
    "name": "DeepAlert",
@@ -1272,7 +1247,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
-   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "website": "https://deepalert.ai"
   },
   {
    "name": "Darktrace",
@@ -1303,7 +1279,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://luminance.com"
   },
   {
    "name": "Cyted Health",
@@ -1313,7 +1290,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://cyted.ai"
   },
   {
    "name": "Tenyks",
@@ -1323,7 +1301,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://tenyks.ai"
   },
   {
    "name": "BIOS",
@@ -1333,7 +1312,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://bios.health"
   },
   {
    "name": "CardiaTec",
@@ -1343,7 +1323,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://cardiatec.ai"
   },
   {
    "name": "Intellegens",
@@ -1353,7 +1334,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://intellegens.com"
   },
   {
    "name": "Conundrum",
@@ -1363,7 +1345,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://conundrum.ai"
   },
   {
    "name": "Theia Insights",
@@ -1373,7 +1356,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://theiainsights.com"
   },
   {
    "name": "PharmEnable",
@@ -1383,7 +1367,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://pharmenable.com"
   },
   {
    "name": "Trismik",
@@ -1393,7 +1378,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://trismik.com"
   },
   {
    "name": "Psyomics",
@@ -1403,7 +1389,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://psyomics.com"
   },
   {
    "name": "TidalSense",
@@ -1413,17 +1400,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
-  },
-  {
-   "name": "KisanHub",
-   "city": "Cambridge",
-   "focus": "Crop intelligence",
-   "funding": "US$9.8m",
-   "type": "startup",
-   "fit": "L",
-   "source": "Seedtable: AI startups in Cambridge",
-   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "website": "https://tidalsense.com"
   },
   {
    "name": "Decorte Future Industries",
@@ -1453,7 +1431,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Intelligent CIO: UK robotics funding 2026",
-   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/"
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/",
+   "website": "https://cmrsurgical.com"
   },
   {
    "name": "Automata",
@@ -1463,7 +1442,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Intelligent CIO: UK robotics funding 2026",
-   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/"
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/",
+   "website": "https://automata.tech"
   },
   {
    "name": "Riverlane",
@@ -1483,7 +1463,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Ellty: Oxford AI startups and investors",
-   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors",
+   "website": "https://brainomix.com"
   },
   {
    "name": "Lumai",
@@ -1503,7 +1484,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Ellty: Oxford AI startups and investors",
-   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors",
+   "website": "https://caristo.com"
   },
   {
    "name": "NavLive",
@@ -1513,7 +1495,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Ellty: Oxford AI startups and investors",
-   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors",
+   "website": "https://navlive.ai"
   },
   {
    "name": "Astut",
@@ -1553,7 +1536,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://optellum.com"
   },
   {
    "name": "Ultromics",
@@ -1563,7 +1547,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://ultromics.com"
   },
   {
    "name": "Adarga",
@@ -1616,16 +1601,6 @@
    "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
   },
   {
-   "name": "FintechOS",
-   "city": "London",
-   "focus": "AI for financial products",
-   "funding": "",
-   "type": "startup",
-   "fit": "L",
-   "source": "Tech Nation Future Fifty 2026",
-   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
-  },
-  {
    "name": "Chemify",
    "city": "Glasgow",
    "focus": "Digitised chemistry and discovery",
@@ -1633,7 +1608,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Tech Nation Future Fifty 2026",
-   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/",
+   "website": "https://chemify.io"
   },
   {
    "name": "Evident Insights",
@@ -1733,7 +1709,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://kheironmed.com"
   },
   {
    "name": "Skin Analytics",
@@ -1763,7 +1740,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://huma.com"
   },
   {
    "name": "V7",
@@ -1773,7 +1751,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://v7labs.com"
   },
   {
    "name": "Unitary",
@@ -1783,7 +1762,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://unitary.ai"
   },
   {
    "name": "Seldon",
@@ -1793,7 +1773,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://seldon.io"
   },
   {
    "name": "Apollo Research",
@@ -1813,7 +1794,8 @@
    "type": "lab",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://conjecture.dev"
   },
   {
    "name": "Basecamp Research",
@@ -1833,7 +1815,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://relationrx.com"
   },
   {
    "name": "LabGenius",
@@ -1843,7 +1826,8 @@
    "type": "startup",
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://labgenius.com"
   },
   {
    "name": "Prima Mente",
@@ -1917,7 +1901,8 @@
    "type": "startup",
    "fit": "M",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
-   "sourceUrl": null
+   "sourceUrl": null,
+   "website": "https://robinai.com"
   },
   {
    "name": "Bloomberg AI (London)",
