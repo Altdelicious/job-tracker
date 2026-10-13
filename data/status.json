@@ -1,12 +1,10 @@
 {
- "lastRun": "2026-10-13T18:41:35+00:00",
- "boardsTotal": 77,
+ "lastRun": "2026-10-13T18:49:18+00:00",
+ "boardsTotal": 76,
  "boardsOk": 76,
- "boardsFailed": [
-  "Google DeepMind"
- ],
- "jobsActive": 315,
- "newThisRun": 13,
+ "boardsFailed": [],
+ "jobsActive": 246,
+ "newThisRun": 1,
  "notes": [
   "jobs.ac.uk: 286 results scanned",
   "cam.ac.uk: 57 vacancies scanned",
@@ -162,12 +160,6 @@
    "ats": "workable",
    "slug": "fuseenergy",
    "status": "ok: 99 jobs, 7 kept"
-  },
-  {
-   "company": "Google DeepMind",
-   "ats": "greenhouse",
-   "slug": "deepmind",
-   "status": "board not reachable {\"https://boards-api.greenhouse.io/v1/boards/deepmind/jobs\": 404, \"https://boards-api.eu.greenhouse.io/v1/boards/deepmind/jobs\": \"ConnectionError\"}"
   },
   {
    "company": "Granola",
@@ -401,7 +393,7 @@
    "company": "Searchable",
    "ats": "ashby",
    "slug": "searchable",
-   "status": "ok: 24 jobs, 0 kept"
+   "status": "ok: 25 jobs, 0 kept"
   },
   {
    "company": "Signal AI",
