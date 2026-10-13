@@ -54,7 +54,8 @@ def main():
     nf = rep.get("notFound", [])
     if nf:
         notes.append(f"{len(nf)} companies have no job board found yet (custom careers sites): " + ", ".join(nf[:40]) + ("…" if len(nf) > 40 else ""))
-    low = rep.get("lowConfidence", [])
+    enabled_names = {b["company"] for b in enabled}
+    low = [x for x in rep.get("lowConfidence", []) if x.split(" → ")[0] not in enabled_names]
     if low:
         notes.append(f"{len(low)} possible boards need a check before they're used: " + "; ".join(low[:15]) + ("…" if len(low) > 15 else ""))
     status = {
