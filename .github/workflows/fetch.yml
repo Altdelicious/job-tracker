@@ -2,7 +2,7 @@ name: Fetch jobs
 
 on:
   schedule:
-    - cron: "23 * * * *"   # hourly
+    - cron: "23 5 * * *"   # daily, 05:23 UTC (06:23 London in summer, 05:23 in winter)
   workflow_dispatch:
 
 permissions:
