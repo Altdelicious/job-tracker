@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 
 from . import boards as B
-from .common import (CONFIG, DATA, HTTP_LOG, city_tags, is_uk, level, load_json, save_json,
+from .common import (CONFIG, DATA, HTTP_LOG, academic_ok, city_tags, is_uk, level, load_json, save_json,
                      score, tags, wanted_title)
 
 NOW = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -69,8 +69,10 @@ def academic():
             notes.append(f"jobs.ac.uk '{kw}' failed: {e.__class__.__name__}")
     for j in ac.values():
         loc = " ".join(x for x in (j.get("location"), j.get("employer")) if x)
-        if not re.search(r"london|cambridge|oxford", loc, re.I) or not wanted_title(j["title"]):
+        if not re.search(r"london|cambridge|oxford", loc, re.I) or not academic_ok(j["title"]):
             continue
+        if not j.get("location"):
+            j["location"] = next((c.title() for c in ("london", "cambridge", "oxford") if c in loc.lower()), "")
         s, why = score(j["title"], "academic", "M")
         jobs.append(dict(id=f'jacuk-{j["id"]}', company=j.get("employer") or "University", companyType="academic",
                          title=j["title"], location=j.get("location") or "", cities=city_tags(loc), url=j["url"],
@@ -80,7 +82,7 @@ def academic():
     try:
         cam = B.cam_research()
         for j in cam:
-            if not wanted_title(j["title"]):
+            if not academic_ok(j["title"], j.get("department", "")):
                 continue
             s, why = score(j["title"], "academic", "M")
             jobs.append(dict(id=f'cam-{j["id"]}', company="University of Cambridge", companyType="academic",
@@ -128,7 +130,12 @@ def main():
             found += jobs
 
     ac_jobs, notes = academic()
-    found += ac_jobs
+    seen_titles = {}
+    for j in sorted(ac_jobs, key=lambda j: j["source"] != "cam.ac.uk"):
+        key = (re.sub(r"\W+", " ", j["title"].lower()).strip(), "cambridge" if "cambridge" in j["company"].lower() else j["company"].lower())
+        if key not in seen_titles:
+            seen_titles[key] = j
+    found += list(seen_titles.values())
     amz, amz_note = amazon()
     found += amz
     notes.append(amz_note)
@@ -145,11 +152,11 @@ def main():
 
     # Jobs missing this run: keep them only if their source failed (so a flaky
     # fetch doesn't drop them), else mark closed and keep for a few days.
-    academic_ok = any(n.startswith("jobs.ac.uk:") for n in notes)
+    academic_src_ok = any(n.startswith("jobs.ac.uk:") for n in notes)
     for jid, old in prev.items():
         if jid in current:
             continue
-        src_failed = (old.get("companyType") != "academic" and old.get("company") in failed) or (old.get("companyType") == "academic" and not academic_ok)
+        src_failed = (old.get("companyType") != "academic" and old.get("company") in failed) or (old.get("companyType") == "academic" and not academic_src_ok)
         if src_failed:
             current[jid] = old
             continue

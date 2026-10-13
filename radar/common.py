@@ -113,6 +113,49 @@ def wanted_title(title):
     return bool(INCLUDE.search(title))
 
 
+# ---------- Academic posts ----------
+# Topic must be clearly AI/ML/CV/data; generic "Research Assistant" titles only
+# pass when the department is computing-related.
+ACADEMIC_TOPIC = re.compile(
+    r"machine learning|\bml\b|\bai\b|artificial intelligence|deep learning|neural network|computer vision|"
+    r"\bvision\b|image (analysis|processing|understanding)|medical imag|imaging ai|biomedical image|"
+    r"robot (learning|perception)|robot learning|\brobotics\b|autonomous|perception|"
+    r"data[- ]driven|data scien|data scientist|statistical learning|probabilistic|bayesian|"
+    r"language model|\bllm|\bnlp\b|natural language|speech recognition|reinforcement learning|"
+    r"foundation model|generative|signal processing|computational imaging",
+    re.I)
+COMPUTING_DEPT = re.compile(r"computer science|computer laboratory|computing|informatics|machine learning|engineering \(information", re.I)
+# Grades a Master's graduate can be appointed at.
+MASTERS_GRADE = re.compile(
+    r"research assistant|research engineer|research software engineer|software engineer|ktp associate|"
+    r"machine learning (scientist|engineer)|data scientist|research technician|\bresearcher\b(?! in residence)",
+    re.I)
+# Titles that signal a PhD is required.
+NEEDS_PHD = re.compile(
+    r"post[- ]?doc|postdoctoral|post doctoral|research fellow|fellowship|senior research|senior researcher|"
+    r"lecturer|professor|principal investigator|group leader|clinical research",
+    re.I)
+
+
+def academic_ok(title, department=""):
+    """True for an academic post that is about AI/ML and open to a Master's graduate."""
+    t = title or ""
+    if NEEDS_PHD.search(t):
+        return False
+    if re.search(r"theolog|archaeolog|histor|\bart\b|music|philosoph|\blaw\b|legal|politic|literat|classics|religio|ethic", t, re.I):
+        return False
+    # A plain "Research Associate" (without "Assistant") is the post-PhD grade.
+    if re.search(r"research associate", t, re.I) and not re.search(r"assistant", t, re.I) and not re.search(r"ktp", t, re.I):
+        return False
+    if not MASTERS_GRADE.search(t) and not re.search(r"ktp|scientist|engineer", t, re.I):
+        return False
+    if ACADEMIC_TOPIC.search(t):
+        return True
+    # Generic title ("Research Assistant (Fixed Term)"): accept only in a computing department.
+    generic = not re.search(r"\bin\b|[-–:]", re.sub(r"\(.*?\)", "", t))
+    return generic and bool(COMPUTING_DEPT.search(department or ""))
+
+
 def level(title):
     if SENIOR.search(title or ""):
         return "senior"
