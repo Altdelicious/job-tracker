@@ -1,0 +1,114 @@
+{
+ "boards": [
+  {
+   "company": "Google DeepMind",
+   "ats": "greenhouse",
+   "slug": "deepmind",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "slug": "anthropic",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Isomorphic Labs",
+   "ats": "greenhouse",
+   "slug": "isomorphiclabs",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Helsing",
+   "ats": "greenhouse",
+   "slug": "helsing",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "PhysicsX",
+   "ats": "greenhouse",
+   "slug": "physicsx",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Stability AI",
+   "ats": "greenhouse",
+   "slug": "stabilityai",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "OpenAI",
+   "ats": "ashby",
+   "slug": "openai",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Cohere",
+   "ats": "ashby",
+   "slug": "cohere",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "ElevenLabs",
+   "ats": "ashby",
+   "slug": "elevenlabs",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Synthesia",
+   "ats": "ashby",
+   "slug": "synthesia",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  },
+  {
+   "company": "Mistral AI",
+   "ats": "ashby",
+   "slug": "mistral.ai",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "manual"
+  }
+ ]
+}

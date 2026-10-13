@@ -1,0 +1,1955 @@
+{
+ "updated": "2026-10-13",
+ "companies": [
+  {
+   "name": "Google DeepMind",
+   "city": "London",
+   "focus": "Frontier AI research lab",
+   "funding": "Part of Google",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Anthropic",
+   "city": "London",
+   "focus": "Frontier AI lab (London office)",
+   "funding": "Private; large rounds",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "OpenAI",
+   "city": "London",
+   "focus": "Frontier AI lab (London office)",
+   "funding": "Private; large rounds",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Mistral AI",
+   "city": "London",
+   "focus": "Frontier open-weight LLMs (London office)",
+   "funding": "Private; large rounds",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Cohere",
+   "city": "London",
+   "focus": "Enterprise LLMs (London office)",
+   "funding": "Private; large rounds",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Microsoft Research Cambridge",
+   "city": "Cambridge",
+   "focus": "Industrial ML research lab",
+   "funding": "Part of Microsoft",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Microsoft AI (London)",
+   "city": "London",
+   "focus": "Consumer AI and model research hub",
+   "funding": "Part of Microsoft",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Meta AI / FAIR London",
+   "city": "London",
+   "focus": "AI research",
+   "funding": "Part of Meta",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Amazon (Cambridge & London)",
+   "city": "Cambridge",
+   "focus": "Applied science: Alexa, AGI, retail ML",
+   "funding": "Part of Amazon",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Apple (Cambridge & London)",
+   "city": "Cambridge",
+   "focus": "Speech and on-device ML teams",
+   "funding": "Part of Apple",
+   "type": "lab",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "NVIDIA (UK)",
+   "city": "Bristol",
+   "focus": "AI research and GPU software",
+   "funding": "Part of NVIDIA",
+   "type": "lab",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Samsung AI Center Cambridge",
+   "city": "Cambridge",
+   "focus": "On-device AI research",
+   "funding": "Part of Samsung",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Isomorphic Labs",
+   "city": "London",
+   "focus": "AI drug discovery (DeepMind spinout)",
+   "funding": "US$2.1bn Series B (H1 2026, per Intelligent CIO); £464m total (Beauhurst)",
+   "type": "lab",
+   "fit": "H",
+   "source": "Intelligent CIO: UK AI funding H1 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/"
+  },
+  {
+   "name": "Ineffable Intelligence",
+   "city": "London",
+   "focus": "Reinforcement-learning research lab",
+   "funding": "£814m (Beauhurst); US$1.1bn seed (Intelligent CIO)",
+   "type": "lab",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "UK AI Security Institute",
+   "city": "London",
+   "focus": "Government AI safety research",
+   "funding": "Government funded",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Luma AI",
+   "city": "London",
+   "focus": "Video and 3D generative models (new London office)",
+   "funding": "US-based; London office opened 2026",
+   "type": "lab",
+   "fit": "H",
+   "source": "Luma AI: new London office",
+   "sourceUrl": "https://lumalabs.ai/news/luma-ai-opens-for-international-business-with-former-wpp-executive-jason-day-leading-new-london-office"
+  },
+  {
+   "name": "Nscale",
+   "city": "London",
+   "focus": "AI cloud and data centres",
+   "funding": "US$2bn Series C (H1 2026); £2.54bn loan note (Oct 2026)",
+   "type": "startup",
+   "fit": "M",
+   "source": "Intelligent CIO: UK AI funding H1 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/"
+  },
+  {
+   "name": "Wayve",
+   "city": "London",
+   "focus": "End-to-end deep learning for self-driving",
+   "funding": "US$1.2bn Series D (H1 2026); £1.01bn total (Beauhurst)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Intelligent CIO: UK AI funding H1 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/"
+  },
+  {
+   "name": "Odyssey",
+   "city": "London",
+   "focus": "Generative world models",
+   "funding": "US$310m Series B (H1 2026)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Intelligent CIO: UK AI funding H1 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/"
+  },
+  {
+   "name": "FluidStack",
+   "city": "London",
+   "focus": "GPU cloud for AI training",
+   "funding": "US$842m Series A (H1 2026)",
+   "type": "startup",
+   "fit": "M",
+   "source": "Intelligent CIO: UK AI funding H1 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/10/uk-ai-funding-surges-to-us9-6-billion-as-five-companies-capture-84-of-investment/"
+  },
+  {
+   "name": "PhysicsX",
+   "city": "London",
+   "focus": "AI for physics simulation and engineering",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "CuspAI",
+   "city": "Cambridge",
+   "focus": "Generative AI for materials discovery",
+   "funding": "US$130m over 2 rounds",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Synthesia",
+   "city": "London",
+   "focus": "AI video avatars",
+   "funding": "£418m total",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+  },
+  {
+   "name": "Olix",
+   "city": "London",
+   "focus": "AI startup (Series B)",
+   "funding": "Series B",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "9fin",
+   "city": "London",
+   "focus": "AI for debt-market intelligence",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Graphcore",
+   "city": "Bristol",
+   "focus": "AI chips (acquired by SoftBank)",
+   "funding": "Acquired",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in the UK",
+   "sourceUrl": "https://www.seedtable.com/best-ai-startups-in-uk",
+   "noBoard": true
+  },
+  {
+   "name": "Humanoid",
+   "city": "London",
+   "focus": "Humanoid robots for industry",
+   "funding": "US$152m Series A (2026); £113m (Beauhurst)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Intelligent CIO: UK robotics funding 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/"
+  },
+  {
+   "name": "Multiverse",
+   "city": "London",
+   "focus": "AI-driven workforce upskilling",
+   "funding": "Series D",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Dwelly",
+   "city": "London",
+   "focus": "AI-enabled lettings roll-up",
+   "funding": "Series B",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Shop Circle",
+   "city": "London",
+   "focus": "Commerce software (AI)",
+   "funding": "Series B",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Kraken",
+   "city": "London",
+   "focus": "Energy platform software with ML",
+   "funding": "Growth",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Fractile",
+   "city": "London",
+   "focus": "AI inference chips",
+   "funding": "Series B",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Signal AI",
+   "city": "London",
+   "focus": "AI media and risk intelligence",
+   "funding": "Growth",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Swap",
+   "city": "London",
+   "focus": "Commerce software",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Granola",
+   "city": "London",
+   "focus": "AI meeting notes",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Stability AI",
+   "city": "London",
+   "focus": "Open generative image models",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Lawhive",
+   "city": "London",
+   "focus": "AI for legal services",
+   "funding": "Series B",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Inforcer",
+   "city": "London",
+   "focus": "IT security automation",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Tem",
+   "city": "London",
+   "focus": "Energy transaction infrastructure",
+   "funding": "Series B",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Encord",
+   "city": "London",
+   "focus": "Data platform for computer vision and physical AI",
+   "funding": "Series C",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Callosum",
+   "city": "London",
+   "focus": "AI startup (seed)",
+   "funding": "Seed",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "MillTech",
+   "city": "London",
+   "focus": "FX and treasury tech",
+   "funding": "Growth",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: best AI startups in London",
+   "sourceUrl": "https://seedtable.com/best-ai-startups-in-london"
+  },
+  {
+   "name": "Isembard",
+   "city": "London",
+   "focus": "AI-driven precision manufacturing",
+   "funding": "£44m (Beauhurst); Series A",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Quantexa",
+   "city": "London",
+   "focus": "Decision intelligence for fraud and risk",
+   "funding": "£374m total",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+  },
+  {
+   "name": "Lighthouse",
+   "city": "London",
+   "focus": "AI pricing analytics for hotels",
+   "funding": "£379m total",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+  },
+  {
+   "name": "Ki Insurance",
+   "city": "London",
+   "focus": "Algorithmic underwriting",
+   "funding": "£385m total",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+  },
+  {
+   "name": "Cera",
+   "city": "London",
+   "focus": "Home healthcare with ML risk prediction",
+   "funding": "£480m total",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+  },
+  {
+   "name": "Improbable",
+   "city": "London",
+   "focus": "Simulation; incubates AI ventures",
+   "funding": "£664m total",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/"
+  },
+  {
+   "name": "OneTrust",
+   "city": "London",
+   "focus": "Privacy and AI governance software",
+   "funding": "£699m total",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/",
+   "noBoard": true
+  },
+  {
+   "name": "FNZ",
+   "city": "London",
+   "focus": "Wealth platform with embedded AI",
+   "funding": "£1.96bn total",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: London's top AI companies",
+   "sourceUrl": "https://beauhurst.com/blog/top-ai-companies-london/",
+   "noBoard": true
+  },
+  {
+   "name": "Fuse Energy",
+   "city": "London",
+   "focus": "Energy supplier with in-house ML and software",
+   "funding": "US$70m at US$5bn valuation (Dec 2025)",
+   "type": "startup",
+   "fit": "M",
+   "source": "UKTN: Fuse Energy raises $70m",
+   "sourceUrl": "https://www.uktech.news/news/fuse-energy-raises-70m-at-5bn-valuation-20251218"
+  },
+  {
+   "name": "Charm Therapeutics",
+   "city": "London",
+   "focus": "AI drug discovery (3D protein-ligand)",
+   "funding": "£100m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Scarlet",
+   "city": "London",
+   "focus": "Certification for AI medical devices",
+   "funding": "£58m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "RHAELM",
+   "city": "London",
+   "focus": "",
+   "funding": "£56m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Latent Labs",
+   "city": "London",
+   "focus": "Generative protein design",
+   "funding": "£48m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Jack & Jill",
+   "city": "London",
+   "focus": "AI recruiting agents",
+   "funding": "£45m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "AI Pathfinder",
+   "city": "London",
+   "focus": "",
+   "funding": "£38m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Inherent",
+   "city": "North West England",
+   "focus": "",
+   "funding": "£37m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Nevis",
+   "city": "London",
+   "focus": "",
+   "funding": "£30m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Arrakis",
+   "city": "South West England",
+   "focus": "",
+   "funding": "£28m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Paid",
+   "city": "London",
+   "focus": "Billing infrastructure for AI agents",
+   "funding": "£25m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Maze",
+   "city": "London",
+   "focus": "",
+   "funding": "£23m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Mosaic Therapeutics",
+   "city": "Cambridge",
+   "focus": "Cancer drug discovery",
+   "funding": "£22.5m (Beauhurst); US$28m (Seedtable)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Agon",
+   "city": "London",
+   "focus": "",
+   "funding": "£22m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Mantic",
+   "city": "London",
+   "focus": "",
+   "funding": "£22m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "algo1",
+   "city": "London",
+   "focus": "",
+   "funding": "£21m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "44pixels",
+   "city": "South East England",
+   "focus": "",
+   "funding": "£20m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Ethos",
+   "city": "London",
+   "focus": "",
+   "funding": "£19m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Hiverge",
+   "city": "Cambridge",
+   "focus": "AI for algorithm discovery",
+   "funding": "£18m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "SalesAPE.ai",
+   "city": "South West England",
+   "focus": "AI sales agents",
+   "funding": "£18m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Coral",
+   "city": "London",
+   "focus": "",
+   "funding": "£17m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "HireBOB.ai",
+   "city": "South West England",
+   "focus": "AI recruiting",
+   "funding": "£16m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Nous",
+   "city": "London",
+   "focus": "",
+   "funding": "£15m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "capsa.ai",
+   "city": "London",
+   "focus": "",
+   "funding": "£15m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Scope",
+   "city": "London",
+   "focus": "",
+   "funding": "£15m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Skyral",
+   "city": "London",
+   "focus": "",
+   "funding": "£15m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Move.ai",
+   "city": "London",
+   "focus": "Markerless motion capture from video",
+   "funding": "£14m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Anam",
+   "city": "London",
+   "focus": "Real-time AI avatars",
+   "funding": "£14m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Etcembly",
+   "city": "Oxford area",
+   "focus": "Generative AI for TCR therapeutics",
+   "funding": "£14m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Searchable",
+   "city": "London",
+   "focus": "",
+   "funding": "£13m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "SafeNav",
+   "city": "London",
+   "focus": "",
+   "funding": "£13m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Marker",
+   "city": "London",
+   "focus": "",
+   "funding": "£12m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Opteran Technologies",
+   "city": "Sheffield",
+   "focus": "Insect-inspired robot autonomy",
+   "funding": "£12m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "coding.bio",
+   "city": "South East England",
+   "focus": "AI protein engineering",
+   "funding": "£12m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Outerlimit",
+   "city": "North West England",
+   "focus": "",
+   "funding": "£12m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Augur",
+   "city": "London",
+   "focus": "",
+   "funding": "£11m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Perceptic",
+   "city": "Cambridge area",
+   "focus": "",
+   "funding": "£11m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Generative Engineering",
+   "city": "London",
+   "focus": "AI for engineering design",
+   "funding": "£11m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "geoSurge",
+   "city": "London",
+   "focus": "",
+   "funding": "£10m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Malted AI",
+   "city": "London",
+   "focus": "Small specialised language models",
+   "funding": "£10m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Condukt",
+   "city": "London",
+   "focus": "",
+   "funding": "£10m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "Archestra",
+   "city": "London",
+   "focus": "",
+   "funding": "£10m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "CellVoyant",
+   "city": "Bristol",
+   "focus": "AI and live-cell imaging for cell therapies",
+   "funding": "£10m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/ai-startup-companies/"
+  },
+  {
+   "name": "ElevenLabs",
+   "city": "London",
+   "focus": "Voice AI: TTS, dubbing, agents",
+   "funding": "£614m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Oxa",
+   "city": "Oxford",
+   "focus": "Autonomous vehicle perception software",
+   "funding": "£254m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Rezolve",
+   "city": "London",
+   "focus": "Image and voice-driven commerce",
+   "funding": "£364m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "noBoard": true
+  },
+  {
+   "name": "ConnexAI",
+   "city": "Manchester",
+   "focus": "Conversational AI",
+   "funding": "£93m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "iProov",
+   "city": "London",
+   "focus": "Face verification",
+   "funding": "£64m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Partly",
+   "city": "London",
+   "focus": "",
+   "funding": "£53m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Giraffe360",
+   "city": "London",
+   "focus": "Property capture with vision",
+   "funding": "£50m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Realeyes",
+   "city": "London",
+   "focus": "Attention and emotion analytics from video",
+   "funding": "£40m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Plumerai",
+   "city": "London",
+   "focus": "Tiny embedded vision models",
+   "funding": "£13m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Pimloc",
+   "city": "London",
+   "focus": "Video anonymisation and vision",
+   "funding": "£12m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Doubleword",
+   "city": "London",
+   "focus": "Self-hosted LLM inference",
+   "funding": "£11m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Neurolabs",
+   "city": "North West England",
+   "focus": "Vision for retail shelf recognition",
+   "funding": "£9.6m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Human Native AI",
+   "city": "London",
+   "focus": "Licensed training data marketplace",
+   "funding": "£7.8m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "BlueSkeye AI",
+   "city": "Nottingham",
+   "focus": "Face and voice analysis for health",
+   "funding": "£7.6m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Five (FiveAI)",
+   "city": "Cambridge",
+   "focus": "Autonomous driving software (Bosch)",
+   "funding": "£6.4m (Beauhurst); acquired by Bosch",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/",
+   "noBoard": true
+  },
+  {
+   "name": "Dex",
+   "city": "London",
+   "focus": "",
+   "funding": "£6.4m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Palabra AI",
+   "city": "London",
+   "focus": "Real-time speech translation",
+   "funding": "£6.2m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Lucida",
+   "city": "London",
+   "focus": "",
+   "funding": "£5.3m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Arthos",
+   "city": "London",
+   "focus": "",
+   "funding": "£4.9m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Atlas",
+   "city": "London",
+   "focus": "",
+   "funding": "£4.9m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "emteq labs",
+   "city": "Brighton",
+   "focus": "Sensing glasses for health and emotion",
+   "funding": "£4.5m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "NVISIQ",
+   "city": "South East England",
+   "focus": "",
+   "funding": "£4.1m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Auris Tech",
+   "city": "South East England",
+   "focus": "Voice AI and transcription",
+   "funding": "£3.9m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Patchs Health",
+   "city": "West Midlands",
+   "focus": "AI triage for GP practices",
+   "funding": "£3.7m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Artclear",
+   "city": "London",
+   "focus": "",
+   "funding": "£3.7m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Fyma",
+   "city": "London",
+   "focus": "Vision analytics from existing cameras",
+   "funding": "£3.4m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Applied AGI",
+   "city": "South East England",
+   "focus": "",
+   "funding": "£3.0m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Antare",
+   "city": "London",
+   "focus": "",
+   "funding": "£2.8m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Occam Industries",
+   "city": "London",
+   "focus": "Precision gimbals for imaging and robotics",
+   "funding": "£2.6m (Beauhurst); ~£3.3m seed (Oct 2026)",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Hearable",
+   "city": "Cambridge area",
+   "focus": "",
+   "funding": "£2.6m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Cattle Eye",
+   "city": "Belfast",
+   "focus": "Vision for livestock monitoring",
+   "funding": "£2.3m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Element Human",
+   "city": "London",
+   "focus": "Biometric media analytics",
+   "funding": "£2.0m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "DeepAlert",
+   "city": "London",
+   "focus": "Vision-based security alerts",
+   "funding": "£1.9m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Beauhurst: UK Computer Vision & Voice AI Top 100",
+   "sourceUrl": "https://www.beauhurst.com/blog/top-computer-vision-voice-ai-companies-uk/"
+  },
+  {
+   "name": "Darktrace",
+   "city": "Cambridge",
+   "focus": "AI cybersecurity",
+   "funding": "US$281m over 6 rounds",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge",
+   "noBoard": true
+  },
+  {
+   "name": "Healx",
+   "city": "Cambridge",
+   "focus": "AI drug discovery for rare disease",
+   "funding": "US$124m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Luminance",
+   "city": "Cambridge",
+   "focus": "Generative AI for legal",
+   "funding": "US$63m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Cyted Health",
+   "city": "Cambridge",
+   "focus": "AI oesophageal cancer detection",
+   "funding": "US$66m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Tenyks",
+   "city": "Cambridge",
+   "focus": "Debugging tools for vision models",
+   "funding": "US$3.5m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "BIOS",
+   "city": "Cambridge",
+   "focus": "Neural interfaces with AI",
+   "funding": "US$10m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "CardiaTec",
+   "city": "Cambridge",
+   "focus": "AI cardiovascular drug discovery",
+   "funding": "US$8.2m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Intellegens",
+   "city": "Cambridge",
+   "focus": "ML for materials and chemicals",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Conundrum",
+   "city": "Cambridge",
+   "focus": "Industrial AI",
+   "funding": "US$7.8m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Theia Insights",
+   "city": "Cambridge",
+   "focus": "AI for investment analysis",
+   "funding": "US$6.5m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "PharmEnable",
+   "city": "Cambridge",
+   "focus": "AI drug discovery",
+   "funding": "US$2.3m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Trismik",
+   "city": "Cambridge",
+   "focus": "LLM evaluation platform",
+   "funding": "US$3.0m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Psyomics",
+   "city": "Cambridge",
+   "focus": "AI mental-health assessment",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "TidalSense",
+   "city": "Cambridge",
+   "focus": "AI for respiratory diagnostics",
+   "funding": "US$9.4m",
+   "type": "startup",
+   "fit": "H",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "KisanHub",
+   "city": "Cambridge",
+   "focus": "Crop intelligence",
+   "funding": "US$9.8m",
+   "type": "startup",
+   "fit": "L",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Decorte Future Industries",
+   "city": "Cambridge",
+   "focus": "Health data from sound",
+   "funding": "US$0.6m",
+   "type": "startup",
+   "fit": "M",
+   "source": "Seedtable: AI startups in Cambridge",
+   "sourceUrl": "https://www.seedtable.com/ai-startups-cambridge"
+  },
+  {
+   "name": "Speechmatics",
+   "city": "Cambridge",
+   "focus": "Speech recognition",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "CMR Surgical",
+   "city": "Cambridge",
+   "focus": "Surgical robotics",
+   "funding": "US$131m Series D (2025)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Intelligent CIO: UK robotics funding 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/"
+  },
+  {
+   "name": "Automata",
+   "city": "London",
+   "focus": "AI lab automation",
+   "funding": "US$45m Series C (Jan 2026)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Intelligent CIO: UK robotics funding 2026",
+   "sourceUrl": "https://www.intelligentcio.com/eu/2026/08/24/uk-robotics-funding-reaches-us258m-as-cambridge-leads-investment/"
+  },
+  {
+   "name": "Riverlane",
+   "city": "Cambridge",
+   "focus": "Quantum error correction",
+   "funding": "",
+   "type": "startup",
+   "fit": "L",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Brainomix",
+   "city": "Oxford",
+   "focus": "AI imaging biomarkers for stroke and lung disease",
+   "funding": "Series C extended to £18.8m (Feb 2026)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Ellty: Oxford AI startups and investors",
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+  },
+  {
+   "name": "Lumai",
+   "city": "Oxford",
+   "focus": "Optical computing for AI inference",
+   "funding": "US$10m+ seed (2025)",
+   "type": "startup",
+   "fit": "M",
+   "source": "Ellty: Oxford AI startups and investors",
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+  },
+  {
+   "name": "Caristo Diagnostics",
+   "city": "Oxford",
+   "focus": "AI cardiac CT analysis",
+   "funding": "£16.3m Series A",
+   "type": "startup",
+   "fit": "H",
+   "source": "Ellty: Oxford AI startups and investors",
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+  },
+  {
+   "name": "NavLive",
+   "city": "Oxford",
+   "focus": "Real-time 3D mapping with robotics",
+   "funding": "£4m (2025)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Ellty: Oxford AI startups and investors",
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+  },
+  {
+   "name": "Astut",
+   "city": "Oxford",
+   "focus": "Explainable AI",
+   "funding": "£1.6m seed (Oct 2025)",
+   "type": "startup",
+   "fit": "M",
+   "source": "Ellty: Oxford AI startups and investors",
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+  },
+  {
+   "name": "Stateful Robotics",
+   "city": "Oxford",
+   "focus": "Robotics",
+   "funding": "US$4.8m pre-seed (Mar 2026)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Ellty: Oxford AI startups and investors",
+   "sourceUrl": "https://www.ellty.com/investors/oxford-ai-investors"
+  },
+  {
+   "name": "Mind Foundry",
+   "city": "Oxford",
+   "focus": "AI for high-stakes decisions",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Optellum",
+   "city": "Oxford",
+   "focus": "AI lung cancer diagnosis from CT",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Ultromics",
+   "city": "Oxford",
+   "focus": "AI echocardiography",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Adarga",
+   "city": "London",
+   "focus": "Sovereign AI for defence",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Mimica",
+   "city": "London",
+   "focus": "Process discovery and AI agents",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Prolific",
+   "city": "London",
+   "focus": "Human data for AI training and evaluation",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Recraft",
+   "city": "London",
+   "focus": "AI image generation",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Sona",
+   "city": "London",
+   "focus": "AI workforce management",
+   "funding": "",
+   "type": "startup",
+   "fit": "L",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "FintechOS",
+   "city": "London",
+   "focus": "AI for financial products",
+   "funding": "",
+   "type": "startup",
+   "fit": "L",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Chemify",
+   "city": "Glasgow",
+   "focus": "Digitised chemistry and discovery",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Evident Insights",
+   "city": "London",
+   "focus": "AI benchmarking for financial services",
+   "funding": "",
+   "type": "startup",
+   "fit": "L",
+   "source": "Tech Nation Future Fifty 2026",
+   "sourceUrl": "https://businesscloud.co.uk/news/tech-nation-unveils-2026-future-fifty-cohort/"
+  },
+  {
+   "name": "Metaview",
+   "city": "London",
+   "focus": "AI recruiting assistants",
+   "funding": "£45m Series C (Oct 2026)",
+   "type": "startup",
+   "fit": "M",
+   "source": "Startup Mag: UK funding report, 2 Oct 2026",
+   "sourceUrl": "https://www.startupmag.co.uk/funding/uk-startup-funding-report-02-10-2026/"
+  },
+  {
+   "name": "Zenithon",
+   "city": "London",
+   "focus": "Large world models for physics",
+   "funding": "£7.5m seed (Oct 2026)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Startup Mag: UK funding report, 2 Oct 2026",
+   "sourceUrl": "https://www.startupmag.co.uk/funding/uk-startup-funding-report-02-10-2026/"
+  },
+  {
+   "name": "DYAD",
+   "city": "London",
+   "focus": "Clinical information extraction",
+   "funding": "£7.5m Series A (Oct 2026)",
+   "type": "startup",
+   "fit": "H",
+   "source": "Startup Mag: UK funding report, 2 Oct 2026",
+   "sourceUrl": "https://www.startupmag.co.uk/funding/uk-startup-funding-report-02-10-2026/"
+  },
+  {
+   "name": "Faculty",
+   "city": "London",
+   "focus": "Applied AI consultancy and products",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "PolyAI",
+   "city": "London",
+   "focus": "Voice AI agents",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Cleo",
+   "city": "London",
+   "focus": "AI financial assistant",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Tractable",
+   "city": "London",
+   "focus": "Computer vision for insurance claims",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Helsing",
+   "city": "London",
+   "focus": "Defence AI",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Kheiron Medical",
+   "city": "London",
+   "focus": "AI breast cancer screening",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Skin Analytics",
+   "city": "London",
+   "focus": "AI skin cancer detection",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Lindus Health",
+   "city": "London",
+   "focus": "AI-run clinical trials",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Huma",
+   "city": "London",
+   "focus": "Digital health platform",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "V7",
+   "city": "London",
+   "focus": "Data labelling and AI agents",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Unitary",
+   "city": "London",
+   "focus": "Video content moderation",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Seldon",
+   "city": "London",
+   "focus": "ML deployment",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Apollo Research",
+   "city": "London",
+   "focus": "AI safety evaluations",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Conjecture",
+   "city": "London",
+   "focus": "AI safety research",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Basecamp Research",
+   "city": "London",
+   "focus": "Biological foundation models",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Relation Therapeutics",
+   "city": "London",
+   "focus": "ML for drug discovery",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "LabGenius",
+   "city": "London",
+   "focus": "ML protein engineering",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Prima Mente",
+   "city": "London",
+   "focus": "Brain foundation models",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "InstaDeep (London)",
+   "city": "London",
+   "focus": "Decision-making AI and biology",
+   "funding": "Part of BioNTech",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Dexory",
+   "city": "London",
+   "focus": "Warehouse robots with vision",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Ocado Technology",
+   "city": "Hatfield",
+   "focus": "Robotics and ML for grocery",
+   "funding": "Part of Ocado",
+   "type": "startup",
+   "fit": "H",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Arm (ML group)",
+   "city": "Cambridge",
+   "focus": "On-device ML",
+   "funding": "Public company",
+   "type": "lab",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Peak",
+   "city": "Manchester",
+   "focus": "Applied AI for retail",
+   "funding": "Acquired by UiPath",
+   "type": "startup",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Robin AI",
+   "city": "London",
+   "focus": "AI contract review",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Bloomberg AI (London)",
+   "city": "London",
+   "focus": "Applied ML and NLP",
+   "funding": "Part of Bloomberg",
+   "type": "lab",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Spotify (London ML)",
+   "city": "London",
+   "focus": "Recommendation and audio ML",
+   "funding": "Part of Spotify",
+   "type": "lab",
+   "fit": "M",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null,
+   "noBoard": true
+  },
+  {
+   "name": "Thought Machine",
+   "city": "London",
+   "focus": "Core banking (some ML)",
+   "funding": "",
+   "type": "startup",
+   "fit": "L",
+   "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
+   "sourceUrl": null
+  }
+ ]
+}
