@@ -157,7 +157,7 @@
    "fit": "H",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
    "sourceUrl": null,
-   "noBoard": true
+   "website": "https://www.aisi.gov.uk"
   },
   {
    "name": "Luma AI",
@@ -1941,6 +1941,94 @@
    "fit": "L",
    "source": "Well-known UK AI employer (added by Claude, not from a funding list)",
    "sourceUrl": null
+  },
+  {
+   "name": "Greyparrot",
+   "city": "London",
+   "focus": "Computer vision for waste and recycling analytics",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://greyparrot.ai"
+  },
+  {
+   "name": "Recycleye",
+   "city": "London",
+   "focus": "Vision-guided robotic waste sorting",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://recycleye.com"
+  },
+  {
+   "name": "LASR Labs (Arcadia Impact)",
+   "city": "London",
+   "focus": "AI safety research programme",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://lasrlabs.org"
+  },
+  {
+   "name": "Cooperative AI Foundation",
+   "city": "London",
+   "focus": "Cooperative AI research funding and research",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://cooperativeai.com"
+  },
+  {
+   "name": "Centre for the Governance of AI",
+   "city": "Oxford",
+   "focus": "AI governance research",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://governance.ai"
+  },
+  {
+   "name": "Leap Labs",
+   "city": "London",
+   "focus": "Interpretability research",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://leap-labs.com"
+  },
+  {
+   "name": "ARIA",
+   "city": "London",
+   "focus": "Government research agency (Safeguarded AI programme)",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://aria.org.uk"
+  },
+  {
+   "name": "MATS",
+   "city": "London",
+   "focus": "AI safety research training programme",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Added on request (UK computer-vision / AI safety employer)",
+   "sourceUrl": null,
+   "website": "https://matsprogram.org"
   }
  ]
 }
