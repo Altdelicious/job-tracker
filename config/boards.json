@@ -107,6 +107,18 @@
    "via": "https://archestra.ai/careers"
   },
   {
+   "company": "ARIA",
+   "ats": "pinpoint",
+   "slug": "aria",
+   "type": "lab",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://aria.pinpointhq.com/"
+  },
+  {
    "company": "Arrakis",
    "ats": "ashby",
    "slug": "arrakis",
@@ -239,6 +251,18 @@
    "via": "https://cattleeye.com/en-gb/who-we-are/careers"
   },
   {
+   "company": "Centre for the Governance of AI",
+   "ats": "page",
+   "slug": "https://www.governance.ai/opportunities",
+   "type": "lab",
+   "fit": "M",
+   "city": "Oxford",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.governance.ai/opportunities"
+  },
+  {
    "company": "Cera",
    "ats": "page",
    "slug": "https://ceracare.co.uk/careers",
@@ -277,14 +301,14 @@
   {
    "company": "CMR Surgical",
    "ats": "page",
-   "slug": "https://us.cmrsurgical.com/careers",
+   "slug": "https://cmrsurgical.com/careers",
    "type": "startup",
    "fit": "H",
    "city": "Cambridge",
    "confidence": "high",
    "enabled": true,
    "source": "site",
-   "via": "https://us.cmrsurgical.com/careers"
+   "via": "https://cmrsurgical.com/careers"
   },
   {
    "company": "Cohere",
@@ -307,6 +331,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 4,
    "ukJobsAtDiscovery": 3
+  },
+  {
+   "company": "Cooperative AI Foundation",
+   "ats": "page",
+   "slug": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships",
+   "type": "lab",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships"
   },
   {
    "company": "Coral",
@@ -534,6 +570,18 @@
    "ukJobsAtDiscovery": 13
   },
   {
+   "company": "Greyparrot",
+   "ats": "recruitee",
+   "slug": "greyparrotai",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 1,
+   "ukJobsAtDiscovery": 1
+  },
+  {
    "company": "Healx",
    "ats": "lever",
    "slug": "healx",
@@ -722,6 +770,18 @@
    "via": "https://www.kraken.tech/working-at-kraken"
   },
   {
+   "company": "LASR Labs (Arcadia Impact)",
+   "ats": "page",
+   "slug": "https://www.lasrlabs.org/careers",
+   "type": "lab",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.lasrlabs.org/careers"
+  },
+  {
    "company": "Latent Labs",
    "ats": "ashby",
    "slug": "latentlabs",
@@ -744,6 +804,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 4,
    "ukJobsAtDiscovery": 4
+  },
+  {
+   "company": "Leap Labs",
+   "ats": "ashby",
+   "slug": "leap",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "low",
+   "enabled": false,
+   "source": "discovered",
+   "jobsAtDiscovery": 18,
+   "ukJobsAtDiscovery": 0
   },
   {
    "company": "Lighthouse",
@@ -816,6 +888,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://malted.ai/careers"
+  },
+  {
+   "company": "MATS",
+   "ats": "page",
+   "slug": "https://www.matsprogram.org/careers",
+   "type": "lab",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.matsprogram.org/careers"
   },
   {
    "company": "Maze",
@@ -1160,6 +1244,18 @@
    "ukJobsAtDiscovery": 2
   },
   {
+   "company": "Recycleye",
+   "ats": "greenhouse",
+   "slug": "recycleye",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 3,
+   "ukJobsAtDiscovery": 3
+  },
+  {
    "company": "Relation Therapeutics",
    "ats": "ashby",
    "slug": "relationrx",
@@ -1394,6 +1490,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://trismik.com/careers"
+  },
+  {
+   "company": "UK AI Security Institute",
+   "ats": "greenhouse",
+   "slug": "aisi",
+   "type": "lab",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.aisi.gov.uk/careers"
   },
   {
    "company": "Ultromics",

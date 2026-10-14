@@ -1,10 +1,11 @@
 {
- "ranAt": "2026-10-13T22:32:45+00:00",
- "probed": 0,
- "found": 0,
+ "ranAt": "2026-10-14T12:28:53+00:00",
+ "probed": 9,
+ "found": 3,
  "notFound": [
   "44pixels",
   "AI Pathfinder",
+  "ARIA",
   "Agon",
   "Anam",
   "Antare",
@@ -22,12 +23,14 @@
   "Caristo Diagnostics",
   "Cattle Eye",
   "CellVoyant",
+  "Centre for the Governance of AI",
   "Cera",
   "Charm Therapeutics",
   "Chemify",
   "Conjecture",
   "ConnexAI",
   "Conundrum",
+  "Cooperative AI Foundation",
   "Cyted Health",
   "DYAD",
   "Decorte Future Industries",
@@ -49,9 +52,11 @@
   "Kheiron Medical",
   "KisanHub",
   "Kraken",
+  "LASR Labs (Arcadia Impact)",
   "LabGenius",
   "Lucida",
   "Luminance",
+  "MATS",
   "Malted AI",
   "Mantic",
   "Marker",
@@ -83,6 +88,7 @@
   "Theia Insights",
   "TidalSense",
   "Trismik",
+  "UK AI Security Institute",
   "Ultromics",
   "Unitary",
   "V7",
@@ -92,5 +98,7 @@
   "geoSurge",
   "iProov"
  ],
- "lowConfidence": []
+ "lowConfidence": [
+  "Leap Labs → ashby:leap (18 jobs, 0 UK)"
+ ]
 }

@@ -1,9 +1,21 @@
 {
- "ranAt": "2026-10-13T22:54:59+00:00",
+ "ranAt": "2026-10-14T12:55:49+00:00",
  "results": [
   {
    "company": "Google DeepMind",
    "result": "no website found"
+  },
+  {
+   "company": "UK AI Security Institute",
+   "website": "https://www.aisi.gov.uk",
+   "result": "platform",
+   "ats": "greenhouse",
+   "slug": "aisi",
+   "via": "https://www.aisi.gov.uk/careers",
+   "rendered": true,
+   "guessed": false,
+   "jobs": 8,
+   "ukJobs": 8
   },
   {
    "company": "Nscale",
@@ -284,13 +296,13 @@
   },
   {
    "company": "NVISIQ",
-   "website": "https://nvisiq.com/",
-   "guessed": true,
-   "result": "no careers page found"
+   "result": "no website found"
   },
   {
    "company": "Auris Tech",
-   "result": "no website found"
+   "website": "https://www.hugedomains.com/domain_profile.cfm?d=auristech.com",
+   "guessed": true,
+   "result": "no careers page found"
   },
   {
    "company": "Patchs Health",
@@ -439,8 +451,8 @@
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://us.cmrsurgical.com/careers",
-   "via": "https://us.cmrsurgical.com/careers",
+   "slug": "https://cmrsurgical.com/careers",
+   "via": "https://cmrsurgical.com/careers",
    "jobs": 2,
    "ukJobs": 2
   },
@@ -544,18 +556,6 @@
    "ukJobs": 0
   },
   {
-   "company": "V7",
-   "website": "https://v7labs.com",
-   "result": "platform",
-   "ats": "ashby",
-   "slug": "v7labs.com",
-   "via": "https://www.v7labs.com/careers",
-   "rendered": true,
-   "guessed": false,
-   "jobs": 6,
-   "ukJobs": 5
-  },
-  {
    "company": "Seldon",
    "website": "https://seldon.io",
    "guessed": false,
@@ -585,6 +585,67 @@
    "slug": "robin-ai",
    "via": "https://robinai.com/company",
    "jobs": null
+  },
+  {
+   "company": "LASR Labs (Arcadia Impact)",
+   "website": "https://lasrlabs.org",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://www.lasrlabs.org/careers",
+   "via": "https://www.lasrlabs.org/careers",
+   "jobs": 0,
+   "ukJobs": 0
+  },
+  {
+   "company": "Cooperative AI Foundation",
+   "website": "https://cooperativeai.com",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships",
+   "via": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships",
+   "jobs": 0,
+   "ukJobs": 0
+  },
+  {
+   "company": "Centre for the Governance of AI",
+   "website": "https://governance.ai",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://www.governance.ai/opportunities",
+   "via": "https://www.governance.ai/opportunities",
+   "jobs": 4,
+   "ukJobs": 4
+  },
+  {
+   "company": "Leap Labs",
+   "website": "https://leap-labs.com",
+   "guessed": false,
+   "result": "no careers page found"
+  },
+  {
+   "company": "ARIA",
+   "website": "https://aria.org.uk",
+   "guessed": false,
+   "result": "platform",
+   "ats": "pinpoint",
+   "slug": "aria",
+   "via": "https://aria.pinpointhq.com/",
+   "jobs": 5,
+   "ukJobs": 5
+  },
+  {
+   "company": "MATS",
+   "website": "https://matsprogram.org",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://www.matsprogram.org/careers",
+   "via": "https://www.matsprogram.org/careers",
+   "jobs": 1,
+   "ukJobs": 1
   }
  ]
 }
