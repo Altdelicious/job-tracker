@@ -340,9 +340,10 @@
    "fit": "M",
    "city": "London",
    "confidence": "high",
-   "enabled": true,
+   "enabled": false,
    "source": "site",
-   "via": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships"
+   "via": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships",
+   "note": "Detected page was a blog post; needs the real careers URL"
   },
   {
    "company": "Coral",
