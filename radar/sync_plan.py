@@ -4,7 +4,7 @@ Writes JSON files to --out:
   feed/part-0.json, part-1.json ...  each {"jobs": [...]} under ~180 KB
   meta/status.json                    run status for the page header
   config/companies.json               company list with "tracked" flags
-  manifest.json                       list of {collection, doc_id, file}
+  manifest.json                       {generatedAt, documents: [{collection, doc_id, file (relative to --out)}]}
 Run: python -m radar.sync_plan --out /tmp/radar-sync
 """
 import argparse
@@ -21,6 +21,8 @@ def main():
     ap.add_argument("--out", required=True)
     out = Path(ap.parse_args().out)
     (out / "feed").mkdir(parents=True, exist_ok=True)
+    for old in (out / "feed").glob("part-*.json"):  # drop parts left from a larger earlier run
+        old.unlink()
     (out / "meta").mkdir(parents=True, exist_ok=True)
     (out / "config").mkdir(parents=True, exist_ok=True)
     manifest = []
@@ -39,7 +41,7 @@ def main():
     for i, p in enumerate(parts):
         f = out / "feed" / f"part-{i}.json"
         f.write_text(json.dumps({"jobs": p}, ensure_ascii=False))
-        manifest.append({"collection": "feed", "doc_id": f"part-{i}", "file": str(f)})
+        manifest.append({"collection": "feed", "doc_id": f"part-{i}", "file": str(f.relative_to(out))})
 
     st = load_json(DATA / "status.json", {})
     rep = load_json(DATA / "discovery_report.json", {})
@@ -71,7 +73,7 @@ def main():
     }
     f = out / "meta" / "status.json"
     f.write_text(json.dumps(status, ensure_ascii=False))
-    manifest.append({"collection": "meta", "doc_id": "status", "file": str(f)})
+    manifest.append({"collection": "meta", "doc_id": "status", "file": str(f.relative_to(out))})
 
     tracked = {b["company"] for b in enabled}
     cos = load_json(CONFIG / "companies.json", {"companies": []})["companies"]
@@ -79,9 +81,9 @@ def main():
         c["tracked"] = c["name"] in tracked or (c["name"].startswith("Amazon"))
     f = out / "config" / "companies.json"
     f.write_text(json.dumps({"companies": cos, "count": len(cos)}, ensure_ascii=False))
-    manifest.append({"collection": "config", "doc_id": "companies", "file": str(f)})
+    manifest.append({"collection": "config", "doc_id": "companies", "file": str(f.relative_to(out))})
 
-    (out / "manifest.json").write_text(json.dumps(manifest, indent=1))
+    (out / "manifest.json").write_text(json.dumps({"generatedAt": st.get("lastRun"), "documents": manifest}, indent=1))
     print(f"{len(jobs)} jobs in {len(parts)} part(s); {len(tracked)} boards tracked; manifest at {out/'manifest.json'}")
 
 

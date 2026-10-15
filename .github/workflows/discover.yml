@@ -59,6 +59,8 @@ jobs:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
           RENDER: "1"
+      - name: Prepare files for the radar page
+        run: python -m radar.sync_plan --out data/page
       - name: Commit
         run: |
           git config user.name "job-radar-bot"

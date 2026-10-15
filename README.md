@@ -7,8 +7,8 @@ Daily scan of UK job boards for research, ML engineering and data science roles 
 | Step | Where | When |
 |---|---|---|
 | Find each company's job board (Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee) | `radar/discover.py` → `config/boards.json` | When `config/companies.json` changes, weekly, or on demand |
-| Fetch all boards, Amazon UK, jobs.ac.uk and Cambridge vacancies; keep UK ML/research roles; score them | `radar/fetch.py` → `data/jobs.json`, `data/status.json` | Daily at 05:23 UTC (GitHub Actions) |
-| Copy results into the radar page | Claude scheduled task using `radar/sync_plan.py` | Daily at 07:12 London time |
+| Fetch all boards, Amazon UK, jobs.ac.uk and Cambridge vacancies; keep UK ML/research roles; score them | `radar/fetch.py` → `data/jobs.json`, `data/status.json` | Daily at 01:17 UTC (GitHub Actions; often starts hours late) |
+| Copy results into the radar page | GitHub writes ready-made files to `data/page/`; a Claude scheduled task copies them (it runs no repo code) | Daily at 09:12 London time |
 
 ## Common edits
 

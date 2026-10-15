@@ -2,7 +2,7 @@ name: Fetch jobs
 
 on:
   schedule:
-    - cron: "23 5 * * *"   # daily, 05:23 UTC (06:23 London in summer, 05:23 in winter)
+    - cron: "17 1 * * *"   # daily, 01:17 UTC; GitHub often starts scheduled runs hours late, so this leaves a buffer before the 09:12 page sync
   workflow_dispatch:
 
 permissions:
@@ -30,6 +30,8 @@ jobs:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
           RENDER: "1"
+      - name: Prepare files for the radar page
+        run: python -m radar.sync_plan --out data/page
       - name: Commit data
         run: |
           git config user.name "job-radar-bot"
