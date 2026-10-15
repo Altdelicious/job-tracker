@@ -1,0 +1,25 @@
+{
+ "generatedAt": "2026-10-15T13:10:42+00:00",
+ "documents": [
+  {
+   "collection": "feed",
+   "doc_id": "part-0",
+   "file": "feed/part-0.json"
+  },
+  {
+   "collection": "feed",
+   "doc_id": "part-1",
+   "file": "feed/part-1.json"
+  },
+  {
+   "collection": "meta",
+   "doc_id": "status",
+   "file": "meta/status.json"
+  },
+  {
+   "collection": "config",
+   "doc_id": "companies",
+   "file": "config/companies.json"
+  }
+ ]
+}
