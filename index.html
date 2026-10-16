@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>ML Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;700&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Palette: white and graphite greys, no hue; emphasis by weight and contrast only.
+   Layout: one working column — status strip, filter bar, ranked job list (a reading queue, not a card grid) */
+:root{
+  --bg:#fafafa; --surface:#ffffff; --ink:#1c1c1c; --muted:#6e6e6e; --line:#e4e4e4;
+  --accent:#1c1c1c; --accent-soft:#f0f0f0; --new:#1c1c1c; --new-soft:#ebebeb; --warn:#8a8a8a;
+  --lab:#3a3a3a; --startup:#5e5e5e; --academic:#858585;
+  --f-display:"Schibsted Grotesk",ui-sans-serif,system-ui,sans-serif;
+  --f-body:"Source Sans 3",ui-sans-serif,system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121212; --surface:#1b1b1b; --ink:#ececec; --muted:#9a9a9a; --line:#2c2c2c;
+  --accent:#ececec; --accent-soft:#262626; --new:#ececec; --new-soft:#2e2e2e; --warn:#7a7a7a;
+  --lab:#d0d0d0; --startup:#aaaaaa; --academic:#8a8a8a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121212; --surface:#1b1b1b; --ink:#ececec; --muted:#9a9a9a; --line:#2c2c2c;
+  --accent:#ececec; --accent-soft:#262626; --new:#ececec; --new-soft:#2e2e2e; --warn:#7a7a7a;
+  --lab:#d0d0d0; --startup:#aaaaaa; --academic:#8a8a8a; color-scheme:dark}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-body)}
+.wrap{max-width:980px;margin:0 auto;padding-inline:16px;padding-block:28px 64px;display:flex;flex-direction:column;gap:20px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 24px}
+h1{font:700 1.75rem/1.1 var(--f-display);margin:0;letter-spacing:-.01em;text-wrap:balance}
+.sub{color:var(--muted);margin:4px 0 0;font-size:.95rem}
+.status{font:400 .78rem/1.5 var(--f-mono);color:var(--muted);text-align:right}
+.status b{color:var(--ink);font-weight:600}
+.warnbox{border:1px solid var(--line);border-left:3px solid var(--warn);background:var(--surface);padding:10px 14px;font-size:.9rem;color:var(--muted)}
+.warnbox summary{cursor:pointer;color:var(--ink);font-weight:600}
+.warnbox ul{margin:8px 0 0;padding-left:18px}
+.filters{display:flex;flex-direction:column;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.row label.lbl{font:600 .7rem/1 var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);min-width:64px}
+input[type=search],select{font:inherit;font-size:.95rem;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:7px 10px}
+input[type=search]{flex:1 1 240px;min-width:0}
+.chip{font:600 .82rem/1 var(--f-body);border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:999px;padding:7px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.chip:focus-visible,button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.check{display:inline-flex;gap:6px;align-items:center;font-size:.9rem;color:var(--muted);cursor:pointer}
+.count{font:400 .85rem var(--f-mono);color:var(--muted)}
+ol.jobs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.job{display:grid;grid-template-columns:64px 1fr auto;gap:4px 16px;padding:16px 4px;border-bottom:1px solid var(--line)}
+.job>*{min-width:0}
+.match{font:600 .7rem/1 var(--f-mono);color:var(--muted);display:flex;flex-direction:column;gap:6px;padding-top:5px}
+.dots{display:flex;gap:3px}
+.dots i{width:8px;height:8px;border-radius:50%;background:var(--line)}
+.dots i.on{background:var(--accent)}
+.title{font:700 1.06rem/1.3 var(--f-display);color:var(--ink);text-decoration:none}
+.title:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+.meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:.9rem;color:var(--muted);margin-top:2px}
+.co{color:var(--ink);font-weight:600}
+.type{font:600 .68rem/1 var(--f-mono);text-transform:uppercase;letter-spacing:.06em;padding:3px 6px;border-radius:4px;border:1px solid currentColor;align-self:center}
+.type.lab{color:var(--lab)}.type.startup{color:var(--startup)}.type.academic{color:var(--academic)}
+.why{font-size:.92rem;color:var(--muted);margin:6px 0 0;max-width:65ch}
+.side{display:flex;flex-direction:column;align-items:flex-end;gap:6px;font:400 .78rem/1.3 var(--f-mono);color:var(--muted);text-align:right;white-space:nowrap}
+.badge{font:600 .68rem/1 var(--f-mono);letter-spacing:.06em;text-transform:uppercase;padding:4px 6px;border-radius:4px;background:var(--new-soft);color:var(--new)}
+.badge.closing{background:var(--accent-soft);color:var(--accent)}
+.hide{font:inherit;background:none;border:0;color:var(--muted);cursor:pointer;padding:2px 0;text-decoration:underline;text-underline-offset:2px}
+.empty{padding:32px 4px;color:var(--muted);text-align:left}
+.empty b{display:block;color:var(--ink);font:700 1.1rem var(--f-display);margin-bottom:4px}
+footer{font-size:.85rem;color:var(--muted)}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line)}
+.tab{font:600 .95rem var(--f-display);background:none;border:0;border-bottom:2px solid transparent;color:var(--muted);padding:8px 12px;cursor:pointer;margin-bottom:-1px}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab span{font:400 .75rem var(--f-mono);color:var(--muted)}
+#cosView{display:flex;flex-direction:column;gap:16px}
+#cosView[hidden]{display:none!important}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table.cos{border-collapse:collapse;width:100%;min-width:720px;font-size:.92rem}
+table.cos th{text-align:left;font:600 .7rem/1 var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:12px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--surface)}
+table.cos td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+table.cos tr:last-child td{border-bottom:0}
+table.cos td.num{font:400 .82rem var(--f-mono);color:var(--muted);max-width:220px}
+table.cos a{color:var(--accent)}
+.fit{display:inline-block;font:600 .66rem/1 var(--f-mono);padding:3px 5px;border-radius:4px;margin-left:6px;vertical-align:middle;border:1px solid currentColor}
+.fit.H{color:var(--accent)}.fit.M{color:var(--muted)}.fit.L{color:var(--muted);opacity:.7}
+.tracked{display:inline-block;font:600 .66rem/1 var(--f-mono);padding:3px 5px;border-radius:4px;background:var(--accent-soft);color:var(--accent);margin-top:4px}
+.muted{color:var(--muted)}.small{font-size:.85rem;margin:0}
+@media (max-width:640px){
+  .job{grid-template-columns:1fr}
+  .match{flex-direction:row;align-items:center;padding:0}
+  .side{flex-direction:row;flex-wrap:wrap;align-items:center;justify-content:flex-start;text-align:left}
+  .status{text-align:left}
+}
+@media (prefers-reduced-motion:no-preference){.job{transition:background .15s}.job:hover{background:var(--surface)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>ML Job Radar</h1>
+      <p class="sub">Research, ML engineering and data science roles in London, Cambridge and Oxford, ranked against your profile.</p>
+    </div>
+    <div class="status" id="status">Loading listings…</div>
+  </header>
+
+  <details class="warnbox" id="coverage" hidden>
+    <summary id="coverageSummary">Coverage notes</summary>
+    <ul id="coverageList"></ul>
+  </details>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tabJobs" aria-selected="true">Roles</button>
+    <button class="tab" role="tab" id="tabCos" aria-selected="false">Companies <span id="coCount"></span></button>
+  </nav>
+
+  <section id="cosView" hidden>
+    <div class="filters">
+      <div class="row">
+        <input type="search" id="cq" placeholder="Search company, city or focus" aria-label="Search companies">
+        <select id="cfit" aria-label="Fit">
+          <option value="all">Any fit</option>
+          <option value="H" selected>High fit</option>
+          <option value="M">Medium fit</option>
+          <option value="L">Low fit</option>
+        </select>
+        <label class="check"><input type="checkbox" id="ctracked"> Only companies the radar checks</label>
+        <span class="count" id="ccount"></span>
+      </div>
+    </div>
+    <div class="tablewrap">
+      <table class="cos">
+        <thead><tr><th>Company</th><th>City</th><th>Focus</th><th>Funding</th><th>Source</th></tr></thead>
+        <tbody id="coRows"><tr><td colspan="5" class="muted">Loading companies…</td></tr></tbody>
+      </table>
+    </div>
+    <p class="muted small">Fit is a quick judgement of how close each company's work is to research, computer vision, healthcare AI and perception. Companies marked "Checked for roles" are already on the radar; the rest are queued to be added.</p>
+  </section>
+
+  <div id="jobsView" style="display:contents">
+  <section class="filters" aria-label="Filters">
+    <div class="row">
+      <input type="search" id="q" placeholder="Search title, company or keyword (e.g. vision, LLM, imaging)" aria-label="Search">
+      <select id="sort" aria-label="Sort">
+        <option value="match">Best match</option>
+        <option value="new">Newest first</option>
+        <option value="closing">Closing soon</option>
+      </select>
+    </div>
+    <div class="row" role="group" aria-label="Employer type">
+      <label class="lbl">Employer</label>
+      <button class="chip" data-type="all" aria-pressed="true">All</button>
+      <button class="chip" data-type="lab" aria-pressed="false">AI labs</button>
+      <button class="chip" data-type="startup" aria-pressed="false">Startups</button>
+      <button class="chip" data-type="academic" aria-pressed="false">Academic</button>
+    </div>
+    <div class="row" role="group" aria-label="City">
+      <label class="lbl">City</label>
+      <button class="chip" data-city="all" aria-pressed="true">Any</button>
+      <button class="chip" data-city="london" aria-pressed="false">London</button>
+      <button class="chip" data-city="cambridge" aria-pressed="false">Cambridge</button>
+      <button class="chip" data-city="oxford" aria-pressed="false">Oxford</button>
+    </div>
+    <div class="row">
+      <label class="lbl" for="minScore">Match</label>
+      <select id="minScore">
+        <option value="1">All matches</option>
+        <option value="3" selected>3 dots and up</option>
+        <option value="4">4 dots and up</option>
+        <option value="5">Top matches only</option>
+      </select>
+      <label class="check"><input type="checkbox" id="newOnly"> New since last visit</label>
+      <label class="check"><input type="checkbox" id="showHidden"> Show hidden</label>
+      <span class="count" id="count"></span>
+    </div>
+  </section>
+
+  <ol class="jobs" id="list" aria-live="polite">
+    <li class="empty"><b>Waiting for the job list</b>Listings appear here after each refresh. If this stays empty, the first refresh hasn't run yet.</li>
+  </ol>
+
+  </div>
+  <footer>Staff, Principal and Director roles are left out. Match dots are a rough fit score against your MPhil and 3 years in medical imaging, healthcare AI and perception. Hidden jobs and "new" markers are remembered in this browser only.</footer>
+</div>
+
+<script>
+(function(){
+  const $=s=>document.querySelector(s);
+  const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}},
+               set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+  const prevVisit=store.get("radar.lastVisit",null);
+  setTimeout(()=>store.set("radar.lastVisit",new Date().toISOString()),4000);
+  let hidden=new Set(store.get("radar.hidden",[]));
+  const state={type:"all",city:"all",q:"",sort:"match",min:3,newOnly:false,showHidden:false};
+  let jobs=[];
+
+  const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const day=86400000, today=new Date(new Date().toDateString());
+  const fmt=d=>d?new Date(d).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:(new Date(d).getFullYear()===today.getFullYear()?undefined:"numeric")}):"";
+  const isNew=j=>{if(!j.firstSeen)return false;const t=new Date(j.firstSeen).getTime();return prevVisit?t>new Date(prevVisit).getTime():(Date.now()-t)<2*day};
+  const cityOf=j=>{const l=(j.location||"").toLowerCase();return {london:l.includes("london"),cambridge:l.includes("cambridge"),oxford:l.includes("oxford")}};
+
+  function render(){
+    const q=state.q.trim().toLowerCase();
+    let v=jobs.filter(j=>j.active!==false && j.level!=="staff+");
+    v=v.filter(j=>state.showHidden||!hidden.has(j.id));
+    if(state.type!=="all") v=v.filter(j=>j.companyType===state.type);
+    if(state.city!=="all") v=v.filter(j=>cityOf(j)[state.city]);
+    v=v.filter(j=>(j.score||0)>=state.min);
+    if(state.newOnly) v=v.filter(isNew);
+    if(q) v=v.filter(j=>[j.title,j.company,j.location,j.why,(j.tags||[]).join(" ")].join(" ").toLowerCase().includes(q));
+    const by={match:(a,b)=>(b.score-a.score)||((b.posted||b.firstSeen||"")>(a.posted||a.firstSeen||"")?1:-1),
+              new:(a,b)=>((b.firstSeen||"")+(b.posted||""))>((a.firstSeen||"")+(a.posted||""))?1:-1,
+              closing:(a,b)=>(a.closes||"9999")>(b.closes||"9999")?1:-1};
+    v.sort(by[state.sort]);
+    $("#count").textContent=`${v.length} of ${jobs.filter(j=>j.active!==false&&j.level!=="staff+").length} roles`;
+    const list=$("#list");
+    if(!jobs.length){return}
+    if(!v.length){list.innerHTML=`<li class="empty"><b>No roles match these filters</b>Try lowering the match level or clearing the search.</li>`;return}
+    list.innerHTML=v.map(j=>{
+      const dots=[1,2,3,4,5].map(n=>`<i class="${n<=j.score?"on":""}"></i>`).join("");
+      const closes=j.closes?new Date(j.closes):null;
+      const daysLeft=closes?Math.round((closes-today)/day):null;
+      const side=[
+        isNew(j)?`<span class="badge">New</span>`:"",
+        closes?(daysLeft<=7&&daysLeft>=0?`<span class="badge closing">Closes ${daysLeft===0?"today":"in "+daysLeft+"d"}</span>`:`<span>Closes ${fmt(j.closes)}</span>`):"",
+        j.posted?`<span>Posted ${fmt(j.posted)}</span>`:"",
+        `<button class="hide" data-hide="${esc(j.id)}">${hidden.has(j.id)?"Unhide":"Hide"}</button>`
+      ].join("");
+      return `<li class="job">
+        <div class="match" title="Match ${j.score}/5"><span class="dots">${dots}</span>${j.score}/5</div>
+        <div>
+          <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+          <div class="meta"><span class="co">${esc(j.company)}</span><span class="type ${esc(j.companyType)}">${esc({lab:"AI lab",startup:"Startup",academic:"Academic"}[j.companyType]||j.companyType)}</span><span>${esc(j.location)}</span>${j.salary?`<span>${esc(j.salary)}</span>`:""}</div>
+          ${j.why?`<p class="why">${esc(j.why)}</p>`:""}
+        </div>
+        <div class="side">${side}</div>
+      </li>`}).join("");
+  }
+
+  document.addEventListener("click",e=>{
+    const t=e.target.closest("[data-type],[data-city],[data-hide]");if(!t)return;
+    if(t.dataset.hide){const id=t.dataset.hide;hidden.has(id)?hidden.delete(id):hidden.add(id);store.set("radar.hidden",[...hidden]);render();return}
+    const key=t.dataset.type?"type":"city";
+    document.querySelectorAll(`[data-${key}]`).forEach(b=>b.setAttribute("aria-pressed",b===t?"true":"false"));
+    state[key]=t.dataset[key];render();
+  });
+  $("#q").addEventListener("input",e=>{state.q=e.target.value;render()});
+  $("#sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
+  $("#minScore").addEventListener("change",e=>{state.min=+e.target.value;render()});
+  $("#newOnly").addEventListener("change",e=>{state.newOnly=e.target.checked;render()});
+  $("#showHidden").addEventListener("change",e=>{state.showHidden=e.target.checked;render()});
+
+  function showStatus(m){
+    if(!m){$("#status").innerHTML="Not refreshed yet";return}
+    const when=m.lastRun?new Date(m.lastRun).toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"never";
+    $("#status").innerHTML=`Last refresh <b>${esc(when)}</b><br>${esc(m.sourcesOk??"?")} of ${esc(m.sourcesTotal??"?")} sources read${m.newThisRun?` · ${esc(m.newThisRun)} new`:""}`;
+    const notes=m.coverageNotes||[];
+    if(notes.length){$("#coverage").hidden=false;$("#coverageSummary").textContent=`Coverage notes (${notes.length})`;
+      $("#coverageList").innerHTML=notes.map(n=>`<li>${esc(n)}</li>`).join("")}
+  }
+
+  // Companies tab
+  let cos=[];const cstate={q:"",fit:"H",tracked:false};
+  function setTab(which){
+    const jobsOn=which==="jobs";
+    $("#tabJobs").setAttribute("aria-selected",jobsOn);$("#tabCos").setAttribute("aria-selected",!jobsOn);
+    $("#jobsView").style.display=jobsOn?"contents":"none";$("#cosView").hidden=jobsOn;
+    store.set("radar.tab",which);
+  }
+  $("#tabJobs").addEventListener("click",()=>setTab("jobs"));
+  $("#tabCos").addEventListener("click",()=>setTab("cos"));
+  if(store.get("radar.tab","jobs")==="cos") setTab("cos");
+  function renderCos(){
+    const q=cstate.q.trim().toLowerCase();
+    let v=cos.filter(c=>(cstate.fit==="all"||c.fit===cstate.fit)&&(!cstate.tracked||c.tracked));
+    if(q) v=v.filter(c=>[c.name,c.city,c.focus,c.type].join(" ").toLowerCase().includes(q));
+    v.sort((a,b)=>a.name.localeCompare(b.name));
+    $("#ccount").textContent=`${v.length} of ${cos.length} companies`;
+    $("#coRows").innerHTML=v.length?v.map(c=>`<tr>
+      <td><b>${esc(c.name)}</b><span class="fit ${esc(c.fit)}">${esc({H:"High",M:"Med",L:"Low"}[c.fit]||"")}</span>${c.tracked?`<br><span class="tracked">Checked for roles</span>`:""}</td>
+      <td>${esc(c.city)}</td><td>${esc(c.focus||"—")}</td><td class="num">${esc(c.funding||"—")}</td>
+      <td>${c.sourceUrl?`<a href="${esc(c.sourceUrl)}" target="_blank" rel="noopener">${esc(c.source)}</a>`:`<span class="muted">${esc(c.source)}</span>`}</td></tr>`).join("")
+      :`<tr><td colspan="5" class="muted">No companies match. Try "Any fit" or clear the search.</td></tr>`;
+  }
+  $("#cq").addEventListener("input",e=>{cstate.q=e.target.value;renderCos()});
+  $("#cfit").addEventListener("change",e=>{cstate.fit=e.target.value;renderCos()});
+  $("#ctracked").addEventListener("change",e=>{cstate.tracked=e.target.checked;renderCos()});
+
+  // Data comes from files GitHub writes to data/page/ after each daily fetch.
+  (async()=>{
+    const base="data/page/";
+    const get=async p=>{const r=await fetch(base+p,{cache:"no-store"});if(!r.ok)throw new Error(p+" "+r.status);return r.json()};
+    try{
+      const man=await get("manifest.json");
+      const docs=man.documents||[];
+      const feedFiles=docs.filter(d=>d.collection==="feed").map(d=>d.file);
+      const [parts,status,companies]=await Promise.all([
+        Promise.all(feedFiles.map(get)),
+        get("meta/status.json").catch(()=>null),
+        get("config/companies.json").catch(()=>null)
+      ]);
+      showStatus(status);
+      cos=(companies&&companies.companies)||[];
+      $("#coCount").textContent=cos.length?`(${cos.length})`:"";
+      if(cos.length) renderCos(); else $("#coRows").innerHTML=`<tr><td colspan="5" class="muted">No companies saved yet.</td></tr>`;
+      jobs=[].concat(...parts.map(p=>p.jobs||[]));
+      if(!jobs.length){$("#list").innerHTML=`<li class="empty"><b>No listings yet</b>The first daily run fills this list.</li>`;$("#count").textContent="";return}
+      render();
+    }catch(e){
+      $("#status").textContent="Couldn't load listings. Reload the page to try again.";
+      $("#list").innerHTML=`<li class="empty"><b>Couldn't load the job list</b>The data files didn't load. Reload, or check the repository's latest "Fetch jobs" run.</li>`;
+    }
+  })();
+})();
+</script>
+</body>
+</html>
