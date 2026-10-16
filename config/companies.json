@@ -2029,6 +2029,17 @@
    "source": "Added on request (UK computer-vision / AI safety employer)",
    "sourceUrl": null,
    "website": "https://matsprogram.org"
+  },
+  {
+   "name": "Boltz",
+   "city": "London",
+   "focus": "Open biomolecular foundation models (Boltz) for drug discovery",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request",
+   "sourceUrl": "https://jobs.gem.com/boltz",
+   "website": "https://boltz.bio"
   }
  ]
 }

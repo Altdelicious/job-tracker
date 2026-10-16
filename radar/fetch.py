@@ -38,7 +38,7 @@ def parse_close(text):
 
 
 PREFIX = {"greenhouse": "gh", "lever": "lv", "ashby": "ashby", "workable": "wk", "smartrecruiters": "sr", "recruitee": "rc",
-          "teamtailor": "tt", "personio": "ps", "pinpoint": "pp", "bamboohr": "bh", "breezy": "bz", "workday": "wd", "page": "pg"}
+          "teamtailor": "tt", "personio": "ps", "pinpoint": "pp", "bamboohr": "bh", "breezy": "bz", "workday": "wd", "page": "pg", "gem": "gem"}
 LEGACY_IDS = {"greenhouse", "lever", "ashby", "workable", "smartrecruiters", "recruitee"}  # keep IDs stable for existing jobs
 COMPANY_CITY = {c["name"]: c.get("city", "") for c in load_json(CONFIG / "companies.json", {"companies": []})["companies"]}
 

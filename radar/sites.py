@@ -23,6 +23,8 @@ from .discover import norm
 from . import render as R
 
 PATTERNS = [
+    ("gem", r"api\.gem\.com/job_board/v0/([A-Za-z0-9_-]+)"),
+    ("gem", r"jobs\.gem\.com/([A-Za-z0-9_-]+)"),
     ("greenhouse", r"boards-api(?:\.eu)?\.greenhouse\.io/v1/boards/([A-Za-z0-9_-]+)"),
     ("ashby", r"api\.ashbyhq\.com/posting-api/job-board/([A-Za-z0-9_.%-]+)"),
     ("greenhouse", r"(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board(?:/js)?\?for=)?([A-Za-z0-9_-]+)"),

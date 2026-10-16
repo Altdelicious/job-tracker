@@ -420,3 +420,28 @@ def adzuna(app_id, app_key, queries, wheres, pages=2):
                 if len(res) < 50:
                     break
     return list(out.values())
+
+
+def gem(slug):
+    """Gem public job board API (jobs.gem.com/<slug>)."""
+    r = get(f"https://api.gem.com/job_board/v0/{slug}/job_posts/")
+    if r is None or r.status_code != 200:
+        return None
+    try:
+        data = r.json()
+    except ValueError:
+        return None
+    if isinstance(data, dict):
+        data = data.get("job_posts") or data.get("jobs") or []
+    out = []
+    for j in data:
+        loc = j.get("location")
+        locs = [loc.get("name", "") if isinstance(loc, dict) else (loc or "")]
+        locs += [o.get("name", "") for o in (j.get("offices") or []) if isinstance(o, dict)]
+        out.append(dict(id=str(j.get("id")), title=j.get("title", ""), location="; ".join(dict.fromkeys(l for l in locs if l)),
+                        url=j.get("absolute_url") or f"https://jobs.gem.com/{slug}/{j.get('id')}",
+                        posted=_iso(j.get("first_published_at") or j.get("created_at"))))
+    return out
+
+
+READERS["gem"] = gem

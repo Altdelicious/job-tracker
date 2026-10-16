@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 from .boards import READERS, greenhouse_name
 from .common import CONFIG, DATA, PROBE, is_uk, load_json, save_json
 
-ORDER = ["greenhouse", "ashby", "lever", "workable", "smartrecruiters", "recruitee"]
+ORDER = ["greenhouse", "ashby", "lever", "workable", "smartrecruiters", "recruitee", "gem"]
 STRIP = re.compile(r"\b(ltd|limited|plc|inc|group|holdings|technologies|technology|tech|the)\b", re.I)
 
 
