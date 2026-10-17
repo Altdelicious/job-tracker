@@ -1,13 +1,13 @@
 {
- "lastRun": "2026-10-16T22:18:00+00:00",
+ "lastRun": "2026-10-17T05:38:57+00:00",
  "boardsTotal": 124,
  "boardsOk": 124,
  "boardsFailed": [],
- "jobsActive": 296,
- "newThisRun": 9,
+ "jobsActive": 295,
+ "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 294 results scanned",
-  "cam.ac.uk: 59 vacancies scanned",
+  "jobs.ac.uk: 289 results scanned",
+  "cam.ac.uk: 54 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
   "Amazon: 53 scanned, 6 kept"
@@ -41,7 +41,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 654 jobs, 15 kept"
+   "status": "ok: 656 jobs, 15 kept"
   },
   {
    "company": "Apollo Research",
@@ -53,13 +53,13 @@
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 325 jobs, 4 kept"
+   "status": "ok: 329 jobs, 4 kept"
   },
   {
    "company": "ARIA",
    "ats": "pinpoint",
    "slug": "aria",
-   "status": "ok: 5 jobs, 0 kept"
+   "status": "ok: 3 jobs, 0 kept"
   },
   {
    "company": "Atlas",
@@ -395,7 +395,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 810 jobs, 11 kept"
+   "status": "ok: 815 jobs, 11 kept"
   },
   {
    "company": "Oxa",
