@@ -1,12 +1,12 @@
 {
- "lastRun": "2026-10-17T05:38:57+00:00",
+ "lastRun": "2026-10-18T05:59:37+00:00",
  "boardsTotal": 124,
  "boardsOk": 124,
  "boardsFailed": [],
- "jobsActive": 295,
+ "jobsActive": 294,
  "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 289 results scanned",
+  "jobs.ac.uk: 288 results scanned",
   "cam.ac.uk: 54 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
@@ -41,7 +41,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 656 jobs, 15 kept"
+   "status": "ok: 655 jobs, 14 kept"
   },
   {
    "company": "Apollo Research",
@@ -191,7 +191,7 @@
    "company": "FluidStack",
    "ats": "ashby",
    "slug": "fluidstack",
-   "status": "ok: 247 jobs, 1 kept"
+   "status": "ok: 246 jobs, 1 kept"
   },
   {
    "company": "Fractile",
@@ -347,7 +347,7 @@
    "company": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "status": "ok: 219 jobs, 18 kept"
+   "status": "ok: 217 jobs, 18 kept"
   },
   {
    "company": "Multiverse",
@@ -395,7 +395,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 815 jobs, 11 kept"
+   "status": "ok: 813 jobs, 11 kept"
   },
   {
    "company": "Oxa",
@@ -443,7 +443,7 @@
    "company": "Recraft",
    "ats": "ashby",
    "slug": "recraft",
-   "status": "ok: 5 jobs, 0 kept"
+   "status": "ok: 4 jobs, 0 kept"
   },
   {
    "company": "Recycleye",
