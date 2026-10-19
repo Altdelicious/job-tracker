@@ -1,13 +1,13 @@
 {
- "lastRun": "2026-10-18T05:59:37+00:00",
+ "lastRun": "2026-10-19T06:17:23+00:00",
  "boardsTotal": 124,
  "boardsOk": 124,
  "boardsFailed": [],
- "jobsActive": 294,
+ "jobsActive": 293,
  "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 288 results scanned",
-  "cam.ac.uk: 54 vacancies scanned",
+  "jobs.ac.uk: 282 results scanned",
+  "cam.ac.uk: 48 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
   "Amazon: 53 scanned, 6 kept"
@@ -41,7 +41,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 655 jobs, 14 kept"
+   "status": "ok: 657 jobs, 14 kept"
   },
   {
    "company": "Apollo Research",
@@ -53,13 +53,13 @@
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 329 jobs, 4 kept"
+   "status": "ok: 330 jobs, 4 kept"
   },
   {
    "company": "ARIA",
    "ats": "pinpoint",
    "slug": "aria",
-   "status": "ok: 3 jobs, 0 kept"
+   "status": "ok: 2 jobs, 0 kept"
   },
   {
    "company": "Atlas",
@@ -95,7 +95,7 @@
    "company": "Callosum",
    "ats": "ashby",
    "slug": "callosum",
-   "status": "ok: 13 jobs, 11 kept"
+   "status": "ok: 12 jobs, 10 kept"
   },
   {
    "company": "capsa.ai",
@@ -119,7 +119,7 @@
    "company": "Cohere",
    "ats": "ashby",
    "slug": "cohere",
-   "status": "ok: 118 jobs, 17 kept"
+   "status": "ok: 116 jobs, 17 kept"
   },
   {
    "company": "Condukt",
@@ -173,7 +173,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 156 jobs, 3 kept"
+   "status": "ok: 152 jobs, 3 kept"
   },
   {
    "company": "Encord",
@@ -191,7 +191,7 @@
    "company": "FluidStack",
    "ats": "ashby",
    "slug": "fluidstack",
-   "status": "ok: 246 jobs, 1 kept"
+   "status": "ok: 249 jobs, 1 kept"
   },
   {
    "company": "Fractile",
@@ -395,7 +395,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 813 jobs, 11 kept"
+   "status": "ok: 814 jobs, 11 kept"
   },
   {
    "company": "Oxa",
@@ -461,7 +461,7 @@
    "company": "Riverlane",
    "ats": "greenhouse",
    "slug": "riverlane",
-   "status": "ok: 36 jobs, 3 kept"
+   "status": "ok: 35 jobs, 3 kept"
   },
   {
    "company": "SalesAPE.ai",
