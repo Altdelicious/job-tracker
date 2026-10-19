@@ -1,21 +1,9 @@
 {
- "ranAt": "2026-10-14T12:55:49+00:00",
+ "ranAt": "2026-10-19T11:39:56+00:00",
  "results": [
   {
    "company": "Google DeepMind",
    "result": "no website found"
-  },
-  {
-   "company": "UK AI Security Institute",
-   "website": "https://www.aisi.gov.uk",
-   "result": "platform",
-   "ats": "greenhouse",
-   "slug": "aisi",
-   "via": "https://www.aisi.gov.uk/careers",
-   "rendered": true,
-   "guessed": false,
-   "jobs": 8,
-   "ukJobs": 8
   },
   {
    "company": "Nscale",
@@ -296,13 +284,13 @@
   },
   {
    "company": "NVISIQ",
-   "result": "no website found"
+   "website": "https://nvisiq.com/",
+   "guessed": true,
+   "result": "no careers page found"
   },
   {
    "company": "Auris Tech",
-   "website": "https://www.hugedomains.com/domain_profile.cfm?d=auristech.com",
-   "guessed": true,
-   "result": "no careers page found"
+   "result": "no website found"
   },
   {
    "company": "Patchs Health",
@@ -409,7 +397,13 @@
   {
    "company": "PharmEnable",
    "website": "https://pharmenable.com",
-   "result": "website not reachable"
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://pharmenabletx.com/careers/",
+   "via": "https://pharmenabletx.com/careers/",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Trismik",
@@ -451,10 +445,10 @@
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://cmrsurgical.com/careers",
-   "via": "https://cmrsurgical.com/careers",
-   "jobs": 2,
-   "ukJobs": 2
+   "slug": "https://us.cmrsurgical.com/careers",
+   "via": "https://us.cmrsurgical.com/careers",
+   "jobs": 3,
+   "ukJobs": 3
   },
   {
    "company": "Automata",
@@ -476,7 +470,14 @@
   },
   {
    "company": "Stateful Robotics",
-   "result": "no website found"
+   "website": "https://statefulrobotics.com/",
+   "guessed": true,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
+   "via": "https://statefulrobotics.com/careers-research-engineer-oct26/",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Optellum",
@@ -624,17 +625,6 @@
    "website": "https://leap-labs.com",
    "guessed": false,
    "result": "no careers page found"
-  },
-  {
-   "company": "ARIA",
-   "website": "https://aria.org.uk",
-   "guessed": false,
-   "result": "platform",
-   "ats": "pinpoint",
-   "slug": "aria",
-   "via": "https://aria.pinpointhq.com/",
-   "jobs": 5,
-   "ukJobs": 5
   },
   {
    "company": "MATS",

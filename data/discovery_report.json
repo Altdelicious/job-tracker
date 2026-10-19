@@ -1,7 +1,7 @@
 {
- "ranAt": "2026-10-14T12:28:53+00:00",
- "probed": 9,
- "found": 3,
+ "ranAt": "2026-10-19T11:16:44+00:00",
+ "probed": 43,
+ "found": 0,
  "notFound": [
   "44pixels",
   "AI Pathfinder",
@@ -98,7 +98,5 @@
   "geoSurge",
   "iProov"
  ],
- "lowConfidence": [
-  "Leap Labs → ashby:leap (18 jobs, 0 UK)"
- ]
+ "lowConfidence": []
 }
