@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T06:06:40+00:00",
+ "generatedAt": "2026-10-21T06:06:29+00:00",
  "jobs": [
   {
    "id": "gh-anthropic-5445760008",
@@ -23,533 +23,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-16T05:55:08+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "gh-anthropic-5437172008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
-   "posted": "2026-09-28",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5057647008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Engineer, Enterprise Tech",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-   "posted": "2026-01-08",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5390811008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI, Research Engineer",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
-   "posted": "2026-09-04",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4949336008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "ML/Research Engineer, Safeguards",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
-   "posted": "2025-10-09",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5438030008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer / Performance Engineer, RL Distributed Systems",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
-   "posted": "2026-09-29",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5438044008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer / Research Scientist, RL Frontiers",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
-   "posted": "2026-09-29",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4951814008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer / Research Scientist, Tokens",
-   "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-   "posted": "2025-10-10",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5231612008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231612008",
-   "posted": "2026-07-13",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5254364008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Code RL (Reinforcement Learning)",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
-   "posted": "2026-06-11",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5285246008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Computer Use",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285246008",
-   "posted": "2026-06-30",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5025624008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
-   "posted": "2025-12-09",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4017331008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Knowledge Team",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
-   "posted": "2024-04-23",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5198108008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Machine Learning (RL Velocity)",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198108008",
-   "posted": "2026-04-23",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4613568008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
-   "posted": "2025-04-01",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4613592008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Production Model Post-Training",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
-   "posted": "2025-04-01",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4952051008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, RL Engineering",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-   "posted": "2025-10-14",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5074217008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer, Visual Knowledge Work",
-   "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-   "posted": "2026-01-16",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role; matches your computer vision and perception background.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering",
-    "vision"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4616971008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Research Engineer/Research Scientist, Pre-training",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-   "posted": "2025-07-18",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-cohere-8878b0d0-7d8",
-   "company": "Cohere",
-   "companyType": "lab",
-   "title": "Member of Technical Staff, Agentic Environments",
-   "location": "Europe; Canada; New York; European Union",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
-   "posted": "2026-08-13",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering",
-    "llm"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-cohere-2a989030-6d1",
-   "company": "Cohere",
-   "companyType": "lab",
-   "title": "Member of Technical Staff, Model Efficiency",
-   "location": "New York; San Francisco; Toronto; Montreal; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa",
-   "posted": "2025-11-07",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-cohere-443368a3-627",
-   "company": "Cohere",
-   "companyType": "lab",
-   "title": "Senior Member of Technical Staff, Multimodal AI",
-   "location": "San Francisco; New York; Paris; Toronto; Montreal; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2",
-   "posted": "2024-12-03",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "senior",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-cohere-2d4d224f-94d",
-   "company": "Cohere",
-   "companyType": "lab",
-   "title": "Senior Research Engineer - Safety Tooling and Data",
-   "location": "New York; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
-   "posted": "2026-06-26",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "senior",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-helsing-4334842101",
@@ -579,76 +54,6 @@
    "closedSeen": "2026-10-20T06:06:40+00:00"
   },
   {
-   "id": "ashby-lumaai-90734653-886",
-   "company": "Luma AI",
-   "companyType": "lab",
-   "title": "Research Scientist / Engineer – Reinforcement Learning Infrastructure",
-   "location": "Redwood City, CA; Remote, US; New York, NY; Seattle, WA; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/lumaai/90734653-886d-4f6f-8af8-fb130d5400ab",
-   "posted": "2026-07-24",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-2ec2dacd-111",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "Applied AI, Forward Deployed Machine Learning Engineer",
-   "location": "Palo Alto; New York; San Francisco; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/2ec2dacd-1117-479b-a4c1-efa9df530798",
-   "posted": "2026-07-10",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-43b8b35d-a87",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
-   "location": "New York; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
-   "posted": "2026-07-10",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "senior",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
    "id": "ashby-mistral.ai-1fbe19e3-366",
    "company": "Mistral AI",
    "companyType": "lab",
@@ -671,192 +76,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-mistral.ai-5d15e1fe-789",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "Applied Scientist",
-   "location": "Palo Alto; New York; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21",
-   "posted": "2026-08-03",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-3254f6a7-635",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Applied AI Engineer, API Platform, Digital Natives",
-   "location": "New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/3254f6a7-6353-4a77-beec-f37b832c99ae",
-   "posted": "2026-09-29",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-b46ffd99-f9f",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Applied AI Engineer, Cyber",
-   "location": "San Francisco; New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6",
-   "posted": "2026-06-23",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-01091aed-427",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Applied AI Engineer, Enterprise",
-   "location": "San Francisco; New York City; US - Remote; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9",
-   "posted": "2026-07-08",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-71e7252f-abb",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Applied AI Engineer, Startups",
-   "location": "San Francisco; New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357",
-   "posted": "2026-06-01",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-552396f4-dc8",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Partner Applied AI Engineer",
-   "location": "San Francisco; New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd",
-   "posted": "2026-09-10",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-physicsx-4849382101",
-   "company": "PhysicsX",
-   "companyType": "startup",
-   "title": "Machine Learning Engineer",
-   "location": "New York, United States ",
-   "cities": [],
-   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101",
-   "posted": "2026-04-23",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-physicsx-4678291101",
-   "company": "PhysicsX",
-   "companyType": "startup",
-   "title": "Senior Machine Learning Engineer",
-   "location": "New York, United States ",
-   "cities": [],
-   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101",
-   "posted": "2025-09-19",
-   "closes": null,
-   "salary": null,
-   "score": 5,
-   "why": "Core research or ML engineering role.",
-   "level": "senior",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "jacuk-DTE328",
@@ -880,7 +101,8 @@
    "source": "jobs.ac.uk",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "ashby-synthesia-34a24bda-4df",
@@ -905,7 +127,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "ashby-synthesia-18acb910-bac",
@@ -929,7 +152,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "ashby-synthesia-a0f5fb07-068",
@@ -955,7 +179,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "gh-anthropic-5183044008",
@@ -978,7 +203,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1002,155 +227,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "gh-anthropic-5446657008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect,  Beneficial Deployments (Life Sciences Community & Enablement)",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008",
-   "posted": "2026-10-07",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5192805008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect, Commercial",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-   "posted": "2026-04-17",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5387733008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect, Cyber",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387733008",
-   "posted": "2026-09-02",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5383335008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect, Enterprise Tech",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008",
-   "posted": "2026-08-07",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-4461444008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect, Industries",
-   "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
-   "posted": "2024-12-20",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5406982008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect, Startups",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
-   "posted": "2026-08-28",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5409008008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Architect, Strategic Enterprise Tech",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
-   "posted": "2026-08-27",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-anthropic-5440821008",
@@ -1173,7 +251,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1222,7 +300,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1246,149 +324,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "gh-anthropic-5390791008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Applied AI Strategist, EMEA",
-   "location": "London, UK",
-   "cities": [
-    "london"
-   ],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390791008",
-   "posted": "2026-08-26",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5196852008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Data Scientist, GTM",
-   "location": "New York City, NY; San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
-   "posted": "2026-05-31",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5182605008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Data Scientist, Product",
-   "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5182605008",
-   "posted": "2026-05-07",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5209196008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Data Scientist, Safeguards",
-   "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-   "posted": "2026-06-02",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5418323008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Performance Engineer, Inference Engine",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418323008",
-   "posted": "2026-09-09",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5224564008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Performance Engineer, Inference Systems",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5224564008",
-   "posted": "2026-05-20",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-anthropic-5198074008",
@@ -1412,7 +349,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1437,7 +374,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1462,7 +399,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1487,7 +424,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1512,31 +449,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "gh-anthropic-4926242008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Software Engineer, ML Networking",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
-   "posted": "2025-09-23",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-anthropic-4610158008",
@@ -1560,7 +474,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1584,7 +498,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1609,7 +523,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1634,7 +548,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1659,7 +573,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1683,7 +597,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1708,7 +622,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1732,7 +646,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1757,7 +671,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1782,7 +696,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1808,7 +722,7 @@
    ],
    "source": "bamboohr",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1836,30 +750,6 @@
    "closedSeen": "2026-10-15T10:07:10+00:00"
   },
   {
-   "id": "ashby-cohere-e912d84c-839",
-   "company": "Cohere",
-   "companyType": "lab",
-   "title": "Audio Inference Engineer, Model Efficiency",
-   "location": "New York; San Francisco; Toronto; Montreal; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1",
-   "posted": "2025-11-07",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering",
-    "speech"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
    "id": "ashby-cohere-dc523c5b-947",
    "company": "Cohere",
    "companyType": "lab",
@@ -1880,7 +770,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1905,7 +795,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1929,7 +819,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1954,7 +844,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -1978,7 +868,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2002,7 +892,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2026,7 +916,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2050,7 +940,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2074,7 +964,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2098,7 +988,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2122,7 +1012,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2147,7 +1037,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2171,7 +1061,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2195,7 +1085,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2219,31 +1109,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-coralai-68662a9f-8c8",
-   "company": "Coral",
-   "companyType": "startup",
-   "title": "ML Engineer - New York",
-   "location": "New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/coralai/68662a9f-8c80-430d-92d6-bfd679e6ebb3",
-   "posted": "2026-04-20",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "ashby-cuspai-916e1489-662",
@@ -2268,7 +1135,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2295,7 +1162,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-14T10:21:23+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2318,7 +1185,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2341,7 +1208,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2364,7 +1231,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2387,7 +1254,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2412,7 +1279,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2435,7 +1302,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2459,7 +1326,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2481,7 +1348,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2505,7 +1372,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2529,7 +1396,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2553,7 +1420,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2577,7 +1444,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2599,7 +1466,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2623,7 +1490,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2647,7 +1514,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2671,7 +1538,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2695,7 +1562,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2719,7 +1586,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2743,7 +1610,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2767,7 +1634,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2789,7 +1656,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2813,7 +1680,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2837,7 +1704,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2861,7 +1728,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2885,7 +1752,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2898,7 +1765,7 @@
     "london"
    ],
    "url": "https://jobs.ashbyhq.com/faculty/1a8ccd5c-71b3-41d1-8121-eb086e428b83",
-   "posted": "2026-09-16",
+   "posted": "2026-10-20",
    "closes": null,
    "salary": null,
    "score": 4,
@@ -2909,7 +1776,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2933,7 +1800,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2957,7 +1824,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -2981,7 +1848,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3059,7 +1926,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3084,7 +1951,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3108,7 +1975,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3133,7 +2000,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3158,7 +2025,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3182,7 +2049,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3208,7 +2075,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "ashby-humanoid-790a3b57-19d",
@@ -3232,7 +2100,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3257,7 +2125,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3282,7 +2150,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3307,7 +2175,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-15T10:07:10+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3334,31 +2202,6 @@
    "lastSeen": "2026-10-18T05:59:37+00:00",
    "active": false,
    "closedSeen": "2026-10-19T06:17:23+00:00"
-  },
-  {
-   "id": "jacuk-DTA949",
-   "company": "Imperial College London",
-   "companyType": "academic",
-   "title": "Research Assistant or Associate in Computational Methods for Structural Wing Design",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTA949/research-assistant-or-associate-in-computational-methods-for-structural-wing-design",
-   "posted": null,
-   "closes": null,
-   "salary": "£45,399 to £59,484 per annum",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "jacuk-DTC625",
@@ -3406,7 +2249,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3431,7 +2274,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3455,7 +2298,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3480,7 +2323,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3506,7 +2349,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3531,7 +2374,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3555,33 +2398,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTG442",
-   "company": "King's College London",
-   "companyType": "academic",
-   "title": "Technical Specialist - Mass Spectrometry Imaging",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTG442/technical-specialist-mass-spectrometry-imaging",
-   "posted": null,
-   "closes": null,
-   "salary": "£45,031 to £52,514 per annum, including London Weighting Allowance",
-   "score": 4,
-   "why": "Matches your computer vision and perception background.",
-   "level": "mid",
-   "tags": [
-    "vision"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-latentlabs-8dc5159a-d6f",
@@ -3604,7 +2422,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3628,7 +2446,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3652,7 +2470,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3676,7 +2494,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3701,7 +2519,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3726,7 +2544,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3751,7 +2569,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3776,7 +2594,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3801,31 +2619,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-lumaai-c4b9ff5f-40b",
-   "company": "Luma AI",
-   "companyType": "lab",
-   "title": "Software Engineer, Inference",
-   "location": "Redwood City, CA; Remote, US; New York, NY; Seattle, WA; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860",
-   "posted": "2026-10-08",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-mindfoundry-7746675003",
@@ -3848,7 +2643,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3873,7 +2668,8 @@
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "gh-mindfoundry-7699918003",
@@ -3895,7 +2691,8 @@
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "gh-mindfoundry-7687991003",
@@ -3919,7 +2716,8 @@
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "gh-mindfoundry-7700035003",
@@ -3940,7 +2738,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -3964,144 +2762,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-mistral.ai-4f7e2c43-638",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Deployment Strategist",
-   "location": "London; United Kingdom",
-   "cities": [
-    "london"
-   ],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/4f7e2c43-638d-4595-9d10-da4708128fa7",
-   "posted": "2026-07-10",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-22fee4f2-f6c",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Deployment Strategist - USA",
-   "location": "Palo Alto; New York; San Francisco; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/22fee4f2-f6c9-4516-a0cd-92d6aeb21a52",
-   "posted": "2026-07-10",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-ee9d2f24-527",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Deployment Strategist, Critical and Sovereign Institutions - UK",
-   "location": "London; United Kingdom",
-   "cities": [
-    "london"
-   ],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4",
-   "posted": "2026-08-21",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-937fa938-f91",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Deployment Strategist, Cybersecurity - EMEA",
-   "location": "Paris; Amsterdam; Marseille; Munich; London; France",
-   "cities": [
-    "london"
-   ],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/937fa938-f91d-4989-993e-80a2ec87890e",
-   "posted": "2026-07-10",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-f8b8ed83-d80",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Deployment Strategist, Physics - EMEA",
-   "location": "Paris; Madrid; Amsterdam; Marseille; Munich; London; France",
-   "cities": [
-    "london"
-   ],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/f8b8ed83-d80f-4142-816e-054d23121d75",
-   "posted": "2026-07-09",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-mistral.ai-ea944567-a5e",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Deployment Strategist, Science - EMEA",
-   "location": "Paris; Amsterdam; Munich; London; France",
-   "cities": [
-    "london"
-   ],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/ea944567-a5ea-4628-afa1-2c1354807a75",
-   "posted": "2026-07-09",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "ashby-mistral.ai-efef411a-91f",
@@ -4124,31 +2786,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-mistral.ai-9fc579c8-784",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "AI Scientist",
-   "location": "Palo Alto; New York; San Francisco; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/9fc579c8-784c-4b91-bcd0-392f35d13100",
-   "posted": "2026-07-03",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "ashby-mistral.ai-f090ef1d-372",
@@ -4173,7 +2812,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4197,7 +2836,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4221,7 +2860,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4245,7 +2884,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4269,7 +2908,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4293,7 +2932,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4317,7 +2956,32 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-mistral.ai-d722e1e1-dcc",
+   "company": "Mistral AI",
+   "companyType": "lab",
+   "title": "Applied Scientist - Research Engineer (Formal Methods), EMEA",
+   "location": "Paris; London; France",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/mistral.ai/d722e1e1-dcc6-489b-a3b5-ecc6813ca374",
+   "posted": "2026-10-20",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4341,7 +3005,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4366,7 +3030,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4391,7 +3055,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4416,7 +3080,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4441,7 +3105,32 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-mistral.ai-8d384b55-634",
+   "company": "Mistral AI",
+   "companyType": "lab",
+   "title": "Research Engineer, Latency & Throughput",
+   "location": "Paris; London; France",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/mistral.ai/8d384b55-6341-40a7-ba37-6ab362e9b303",
+   "posted": "2026-10-20",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4466,7 +3155,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4491,7 +3180,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4516,7 +3205,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4541,73 +3230,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-mistral.ai-cec23491-c56",
-   "company": "Mistral AI",
-   "companyType": "lab",
-   "title": "Revenue Operations, Inference Lead",
-   "location": "New York; San Francisco; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/mistral.ai/cec23491-c56d-4972-bb3f-0f24e94a8769",
-   "posted": "2026-09-24",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "senior",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-nevis-682261e2-85a",
-   "company": "Nevis",
-   "companyType": "startup",
-   "title": "Applied AI Engineer",
-   "location": "New York; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/nevis/682261e2-85ac-4869-a74f-be54ec9b3e39",
-   "posted": "2025-11-28",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Core research or ML engineering role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-e665817a-bf8",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Applied AI Architect",
-   "location": "New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/e665817a-bf86-4208-8cf3-c1754c28b401",
-   "posted": "2026-01-22",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "ashby-openai-32425ea6-a64",
@@ -4630,7 +3254,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4655,7 +3279,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4680,7 +3304,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "ashby-openai-840963bb-7b1",
@@ -4703,104 +3328,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-openai-fc72784d-f92",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Data Scientist, Business",
-   "location": "San Francisco; New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/fc72784d-f925-4f8d-aebc-eee72e7bf55c",
-   "posted": "2026-02-27",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-894ce80d-c58",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Data Scientist, Cybersecurity",
-   "location": "US - Remote; New York City; San Francisco; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9",
-   "posted": "2026-08-17",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-openai-90c711dc-5f5",
-   "company": "OpenAI",
-   "companyType": "lab",
-   "title": "Data Scientist, Safety",
-   "location": "San Francisco; New York City; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683",
-   "posted": "2026-05-15",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-physicsx-4644839101",
-   "company": "PhysicsX",
-   "companyType": "startup",
-   "title": "Data Scientist",
-   "location": "New York, United States",
-   "cities": [],
-   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4644839101",
-   "posted": "2025-08-12",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Data science role.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-physicsx-4644840101",
@@ -4848,7 +3377,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4872,7 +3401,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4897,7 +3426,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4922,7 +3451,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -4946,33 +3475,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTE272",
-   "company": "Queen Mary University of London",
-   "companyType": "academic",
-   "title": "Research Assistant",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE272/research-assistant",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,187 to £39,802 per annum",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-relationrx-23787cce-59d",
@@ -5023,7 +3527,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5047,7 +3551,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5072,34 +3576,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-relationrx-d2dca539-e5e",
-   "company": "Relation Therapeutics",
-   "companyType": "startup",
-   "title": "Research Assistant – Cell Biology (Contractor)",
-   "location": "London; United Kingdom",
-   "cities": [
-    "london"
-   ],
-   "url": "https://jobs.ashbyhq.com/relationrx/d2dca539-e5e1-4793-83ad-beab07c69e9e",
-   "posted": "2026-10-13",
-   "closes": null,
-   "salary": null,
-   "score": 4,
-   "why": "Matches your medical and healthcare AI background; employer close to your interests.",
-   "level": "early",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-13T19:25:40+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T19:29:47+00:00"
   },
   {
    "id": "ashby-relationrx-1db31fb2-675",
@@ -5124,7 +3602,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5149,7 +3627,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5175,7 +3653,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5199,7 +3677,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5223,7 +3701,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5245,7 +3723,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5294,7 +3772,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5318,7 +3796,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5340,33 +3818,8 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "cam-KA50918",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Kavli Institute Fellowship in Cosmology and Astrophysics (Fixed Term)",
-   "location": "Cambridge (Department of Physics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/kavli-institute-fellowship-in-cosmology-and-astrophysics-fixed-term-ka50918",
-   "posted": null,
-   "closes": "2026-10-15",
-   "salary": "£37,694 to £46,049 £47,389 to £59,966",
-   "score": 4,
-   "why": "Core research or ML engineering role.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "cam-NR51196",
@@ -5392,106 +3845,6 @@
    "lastSeen": "2026-10-13T22:54:59+00:00",
    "active": false,
    "closedSeen": "2026-10-14T10:21:23+00:00"
-  },
-  {
-   "id": "cam-PM51164",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant (Fixed Term)",
-   "location": "Cambridge (Department of Physiology, Development and Neuroscience)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistant-fixed-term-pm51164",
-   "posted": null,
-   "closes": "2026-10-30",
-   "salary": "£33,002-£35,608",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PJ51168",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant (Part Time, Fixed Term)",
-   "location": "Cambridge (Department of Psychology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistant-part-time-fixed-term-pj51168",
-   "posted": null,
-   "closes": "2026-10-15",
-   "salary": "£33,002-£35,608 pro rata",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-RN51389",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant (Part Time, Fixed Term)",
-   "location": "Cambridge (Department of Psychiatry)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistant-part-time-fixed-term-rn51389",
-   "posted": null,
-   "closes": "2026-10-27",
-   "salary": "£33,002-£35,608 pro rata",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PH51221",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant - Luisi Group (Fixed Term)",
-   "location": "Cambridge (Department of Biochemistry)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistant-luisi-group-fixed-term-ph51221",
-   "posted": null,
-   "closes": "2026-11-11",
-   "salary": "£33,002-£35,608",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "cam-NR51332",
@@ -5539,208 +3892,8 @@
    ],
    "source": "cam.ac.uk",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTE605",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Associate in AI for Materials and Manufacturing (Fixed Term)",
-   "location": "",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE605/research-assistant-associate-in-ai-for-materials-and-manufacturing-fixed-term",
-   "posted": null,
-   "closes": null,
-   "salary": "£33,002 to £46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-NM51366",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Associate in Climate Compatible Growth x 2 (Fixed Term)",
-   "location": "Cambridge (Department of Engineering)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantassociate-in-climate-compatible-growth-x-2-fixed-term-nm51366",
-   "posted": null,
-   "closes": "2026-10-24",
-   "salary": "£33,002-£46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-NM51354",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Associate in Emulsion Templating of Battery Materials (Fixed Term)",
-   "location": "Cambridge (Department of Engineering)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantassociate-in-emulsion-templating-of-battery-materials-fixed-term-nm51354",
-   "posted": null,
-   "closes": "2026-10-29",
-   "salary": "£33,002 - £35,608 or £37,694- £46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-NM51382",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Associate in Environmental Impacts of Aircraft (Fixed Term)",
-   "location": "Cambridge (Department of Engineering)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantassociate-in-environmental-impacts-of-aircraft-fixed-term-nm51382",
-   "posted": null,
-   "closes": "2026-11-03",
-   "salary": "£33,002-£46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-NM51291",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Associate in NanoBio Printing and Assembly (Fixed Term)",
-   "location": "Cambridge (Department of Engineering)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantassociate-in-nanobio-printing-and-assembly-fixed-term-nm51291",
-   "posted": null,
-   "closes": "2026-10-19",
-   "salary": "£33,002 - £35,608 or £37,694- £46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-NR51230",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Associate in Theoretical Computer Science (Fixed Term)",
-   "location": "Cambridge (Department of Computer Science and Technology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantassociate-in-theoretical-computer-science-fixed-term-nr51230",
-   "posted": null,
-   "closes": "2026-12-01",
-   "salary": "£34,608-£35,608 £37,694-£46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-NQ50329",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Research Associate (Fixed Term)",
-   "location": "Cambridge (Department of Chemical Engineering and Biotechnology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantresearch-associate-fixed-term-nq50329",
-   "posted": null,
-   "closes": "2026-10-30",
-   "salary": "£33,002-£46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-JC51118",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant/Research Associate (Fixed Term)",
-   "location": "Cambridge (McDonald Institute for Archaeological Research)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistantresearch-associate-fixed-term-jc51118",
-   "posted": null,
-   "closes": "2026-10-23",
-   "salary": "£34,610 - £35,608 £37,694 - £46,049",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "jacuk-DTC604",
@@ -5769,32 +3922,6 @@
    "closedSeen": "2026-10-15T10:07:10+00:00"
   },
   {
-   "id": "jacuk-DTB253",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Senior Research Software Engineer - Breakthrough Listen",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTB253/senior-research-software-engineer-breakthrough-listen",
-   "posted": null,
-   "closes": null,
-   "salary": "£49,119 to £58,265 Research Grade 8",
-   "score": 4,
-   "why": "Core research or ML engineering role.",
-   "level": "senior",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
    "id": "ashby-wayve-5d3baafc-4af",
    "company": "Wayve",
    "companyType": "startup",
@@ -5816,7 +3943,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5840,7 +3967,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5864,7 +3991,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5888,7 +4015,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5912,7 +4039,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5937,7 +4064,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5961,7 +4088,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -5985,7 +4112,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6010,7 +4137,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6059,7 +4186,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6083,148 +4210,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "amzn-10565201",
-   "company": "Amazon",
-   "companyType": "lab",
-   "title": "AI Data Associate - Dutch, Artificial General Intelligence",
-   "location": "London, England, GBR",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.amazon.jobs/en/jobs/10565201/ai-data-associate-dutch-artificial-general-intelligence",
-   "posted": null,
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "amazon",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "amzn-10558823",
-   "company": "Amazon",
-   "companyType": "lab",
-   "title": "AI Data Associate - Dutch, Artificial General Intelligence",
-   "location": "London, England, GBR",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.amazon.jobs/en/jobs/10558823/ai-data-associate-dutch-artificial-general-intelligence",
-   "posted": null,
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "amazon",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "amzn-10554396",
-   "company": "Amazon",
-   "companyType": "lab",
-   "title": "AI Data Associate - Dutch, Artificial General Intelligence",
-   "location": "London, England, GBR",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.amazon.jobs/en/jobs/10554396/ai-data-associate-dutch-artificial-general-intelligence",
-   "posted": null,
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "amazon",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "amzn-10469778",
-   "company": "Amazon",
-   "companyType": "lab",
-   "title": "AI Data Associate - Dutch, Artificial General Intelligence",
-   "location": "London, England, GBR",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.amazon.jobs/en/jobs/10469778/ai-data-associate-dutch-artificial-general-intelligence",
-   "posted": null,
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "amazon",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "amzn-10558937",
-   "company": "Amazon",
-   "companyType": "lab",
-   "title": "AI Data Associate with Dutch, Artificial General Intelligence",
-   "location": "London, England, GBR",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.amazon.jobs/en/jobs/10558937/ai-data-associate-with-dutch-artificial-general-intelligence",
-   "posted": null,
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "amazon",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "amzn-10395162",
-   "company": "Amazon",
-   "companyType": "lab",
-   "title": "AI Strategist, Generative AI Innovation Center",
-   "location": "London, England, GBR",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.amazon.jobs/en/jobs/10395162/ai-strategist-generative-ai-innovation-center",
-   "posted": null,
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "llm"
-   ],
-   "source": "amazon",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "amzn-10511663",
@@ -6247,7 +4234,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6271,7 +4258,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6320,29 +4307,8 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "gh-anthropic-5382750008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "AI Infrastructure Operations, Demand Planning",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382750008",
-   "posted": "2026-08-11",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "More infrastructure than modelling.",
-   "level": "mid",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-anthropic-5390765008",
@@ -6363,7 +4329,7 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6385,102 +4351,8 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "gh-anthropic-5186067008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Full-Stack Software Engineer, Reinforcement Learning",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5186067008",
-   "posted": "2026-04-14",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "More infrastructure than modelling.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5116820008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Lead Data Scientist, Platform Product",
-   "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
-   "posted": "2026-05-25",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "More infrastructure than modelling; data science role.",
-   "level": "senior",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5364804008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
-   "location": "San Francisco, CA | New York City, NY",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
-   "posted": "2026-07-21",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "More infrastructure than modelling.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "gh-anthropic-5392007008",
-   "company": "Anthropic",
-   "companyType": "lab",
-   "title": "User Experience Researcher, Platform",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "cities": [],
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
-   "posted": "2026-09-09",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "More infrastructure than modelling.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "lv-apolloresearch-459b83bf-4e7",
@@ -6503,7 +4375,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6527,7 +4399,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6551,7 +4423,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6576,7 +4448,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6601,7 +4473,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6626,7 +4498,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6652,7 +4524,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-21T06:06:29+00:00"
   },
   {
    "id": "hn-49533274-aiengineer",
@@ -6673,7 +4546,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6696,7 +4569,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6720,7 +4593,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6745,7 +4618,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6794,7 +4667,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6818,7 +4691,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6842,7 +4715,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6867,7 +4740,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6891,7 +4764,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6916,7 +4789,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6941,7 +4814,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6965,7 +4838,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -6989,7 +4862,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7013,31 +4886,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-cohere-8b6696e1-f1c",
-   "company": "Cohere",
-   "companyType": "lab",
-   "title": "Site Reliability Engineer, Inference Infrastructure",
-   "location": "Toronto; San Francisco; New York; Montreal; Canada",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6",
-   "posted": "2026-01-12",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "More infrastructure than modelling.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "ashby-condukt-c7a35904-bd7",
@@ -7060,7 +4910,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7128,7 +4978,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7152,7 +5002,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7199,7 +5049,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7224,7 +5074,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7249,7 +5099,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7274,7 +5124,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7299,77 +5149,8 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-fluidstack-e3724ccd-ec6",
-   "company": "FluidStack",
-   "companyType": "startup",
-   "title": "Product Engineer, AI",
-   "location": "San Francisco, CA; New York, NY; Austin, TX; Seattle, WA; US",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/fluidstack/e3724ccd-ec69-4253-98e6-892c85264dc9",
-   "posted": "2026-09-23",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-fluidstack-ab3d3d3a-d47",
-   "company": "FluidStack",
-   "companyType": "startup",
-   "title": "Researcher, Compute Scaling",
-   "location": "Austin, TX; New York, NY; San Francisco, CA; Seattle, WA; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/fluidstack/ab3d3d3a-d47d-4f9a-8457-4dba23d8d5d7",
-   "posted": "2026-07-17",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
-  },
-  {
-   "id": "ashby-fluidstack-86c88fd8-527",
-   "company": "FluidStack",
-   "companyType": "startup",
-   "title": "Software Engineer, AI Automation",
-   "location": "San Francisco, CA; New York, NY; Austin, TX; Seattle, WA; US",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/fluidstack/86c88fd8-527a-4503-a142-0090936cab39",
-   "posted": "2026-09-23",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "gh-fractile-4933432101",
@@ -7392,7 +5173,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7416,7 +5197,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7441,7 +5222,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7466,7 +5247,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7490,7 +5271,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7515,7 +5296,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7539,7 +5320,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7564,7 +5345,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7586,14 +5367,14 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
    "id": "ashby-humanoid-4492b9f9-0df",
    "company": "Humanoid",
    "companyType": "startup",
-   "title": "AI Data Collector (Night Shift)",
+   "title": "AI Data Collector - Night Shift",
    "location": "UK, London; United Kingdom",
    "cities": [
     "london"
@@ -7608,7 +5389,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7632,7 +5413,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7657,7 +5438,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7732,7 +5513,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7756,7 +5537,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7780,7 +5561,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7804,86 +5585,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTE325",
-   "company": "Imperial College London",
-   "companyType": "academic",
-   "title": "Research Associate in Dexterous Manipulation and Robot Learning",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE325/research-associate-in-dexterous-manipulation-and-robot-learning",
-   "posted": null,
-   "closes": null,
-   "salary": "£50,733 to £59,484 per annum",
-   "score": 3,
-   "why": "Matches your autonomy and robotics background; Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "autonomy"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTC151",
-   "company": "Imperial College London",
-   "companyType": "academic",
-   "title": "Research Associate in Heat and Health Modelling",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTC151/research-associate-in-heat-and-health-modelling",
-   "posted": null,
-   "closes": null,
-   "salary": "£50,733 to £59,484 per annum",
-   "score": 3,
-   "why": "Matches your medical and healthcare AI background; Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTD105",
-   "company": "Imperial College London",
-   "companyType": "academic",
-   "title": "Research Associate in the Evolution and Neurobiology of Sleep",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTD105/research-associate-in-the-evolution-and-neurobiology-of-sleep",
-   "posted": null,
-   "closes": null,
-   "salary": "£50,733 to £59,484 per annum",
-   "score": 3,
-   "why": "Matches your medical and healthcare AI background; Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-inherent-2013628f-ec5",
@@ -7906,7 +5609,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7930,7 +5633,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7954,7 +5657,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -7978,7 +5681,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8002,7 +5705,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8026,7 +5729,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8050,7 +5753,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8074,7 +5777,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8098,7 +5801,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8123,7 +5826,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8145,7 +5848,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8167,7 +5870,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8191,7 +5894,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8215,7 +5918,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8239,29 +5942,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "ashby-nevis-45ae07ba-1c5",
-   "company": "Nevis",
-   "companyType": "startup",
-   "title": "Product Owner (AI)",
-   "location": "New York; United States",
-   "cities": [],
-   "url": "https://jobs.ashbyhq.com/nevis/45ae07ba-1c5b-4e56-bcd0-82dea4614136",
-   "posted": "2025-11-28",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [],
-   "source": "ashby",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:38:44+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:41:35+00:00"
   },
   {
    "id": "ashby-openai-98bffd0e-05c",
@@ -8282,7 +5964,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8304,7 +5986,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8328,7 +6010,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8352,7 +6034,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8376,7 +6058,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8400,7 +6082,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8424,7 +6106,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8446,7 +6128,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8497,7 +6179,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8546,7 +6228,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8570,7 +6252,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8594,29 +6276,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
-  },
-  {
-   "id": "gh-speechmatics-4990874101",
-   "company": "Speechmatics",
-   "companyType": "startup",
-   "title": "Machine Learning Team Lead",
-   "location": "London, England, United Kingdom",
-   "cities": [
-    "london"
-   ],
-   "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4990874101",
-   "posted": "2026-10-02",
-   "closes": null,
-   "salary": null,
-   "score": 3,
-   "why": "Employer close to your interests.",
-   "level": "senior",
-   "tags": [],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8638,84 +6298,30 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
-   "id": "jacuk-DTF559",
-   "company": "The Royal Veterinary College, University of London",
-   "companyType": "academic",
-   "title": "Post Doctoral Researcher",
-   "location": "",
+   "id": "gh-speechmatics-4990874101",
+   "company": "Speechmatics",
+   "companyType": "startup",
+   "title": "Machine Learning Team Lead",
+   "location": "London, England, United Kingdom",
    "cities": [
     "london"
    ],
-   "url": "https://www.jobs.ac.uk/job/DTF559/post-doctoral-researcher",
-   "posted": null,
+   "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4990874101",
+   "posted": "2026-10-02",
    "closes": null,
-   "salary": "£41,339 to £52,499 Per Annum Including London Weighting",
+   "salary": null,
    "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
+   "why": "Employer close to your interests.",
+   "level": "senior",
+   "tags": [],
+   "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTF558",
-   "company": "The Royal Veterinary College, University of London",
-   "companyType": "academic",
-   "title": "Post Doctoral Researcher",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTF558/post-doctoral-researcher",
-   "posted": null,
-   "closes": null,
-   "salary": "£41,339 to £52,499 Per Annum Including London Weighting",
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-VN50843",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate in Islamic Art (Fixed Term)",
-   "location": "Cambridge (HRH Prince Alwaleed Bin Talal Centre of Islamic Studies)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-in-islamic-art-fixed-term-vn50843",
-   "posted": null,
-   "closes": "2026-10-15",
-   "salary": "£37,694-£46,049",
-   "score": 3,
-   "why": "Matches your autonomy and robotics background; Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "autonomy"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
+   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "active": true
   },
   {
    "id": "jacuk-DTD897",
@@ -8739,83 +6345,8 @@
    ],
    "source": "jobs.ac.uk",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTD919",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Researcher in Political Theology and AI Science",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTD919/researcher-in-political-theology-and-ai-science",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £41,336 per annum (pro-rata: £19,712 - £20,668) Grade 7, point 1-3",
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTD916",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Researcher in Theology and AI Science",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTD916/researcher-in-theology-and-ai-science",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £41,336 per annum: Grade 7, point 1-3",
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTG479",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Senior Researcher in Probabilistic Machine Learning for AI Governence",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTG479/senior-researcher-in-probabilistic-machine-learning-for-ai-governence",
-   "posted": null,
-   "closes": null,
-   "salary": "£49,119 to £59,955 per annum: Grade 8",
-   "score": 3,
-   "why": "Relevant ML or data role.",
-   "level": "senior",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-wayve-f8c18681-a7f",
@@ -8839,7 +6370,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8863,7 +6394,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8888,7 +6419,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8912,7 +6443,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8936,7 +6467,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -8960,7 +6491,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9010,7 +6541,31 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "active": true
+  },
+  {
+   "id": "amzn-10584036",
+   "company": "Amazon",
+   "companyType": "lab",
+   "title": "Deep Learning Scientist",
+   "location": "London, England, GBR",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.amazon.jobs/en/jobs/10584036/deep-learning-scientist",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "amazon",
+   "firstSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9032,7 +6587,7 @@
    "tags": [],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9077,7 +6632,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9101,7 +6656,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9123,33 +6678,8 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DSQ223",
-   "company": "Birkbeck, University of London",
-   "companyType": "academic",
-   "title": "Klesch Postdoctoral Fellowship in History of Art and Technology",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DSQ223/klesch-postdoctoral-fellowship-in-history-of-art-and-technology",
-   "posted": null,
-   "closes": null,
-   "salary": "£44,247 to £50,379 Grade 7 on the College's London Pay Scale which includes a consolidated London Weighting Allowance.",
-   "score": 2,
-   "why": "Core research or ML engineering role; usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "hn-49922769-seniorproductenginee",
@@ -9170,34 +6700,8 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTC570",
-   "company": "City St George's, University of London (Tooting)",
-   "companyType": "academic",
-   "title": "Clinical Research Fellow in Cardiology",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTC570/clinical-research-fellow-in-cardiology",
-   "posted": null,
-   "closes": null,
-   "salary": "£65,048 to £73,992 per annum, on Clinical Academic Doctors in Training Scale",
-   "score": 2,
-   "why": "Matches your medical and healthcare AI background; usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-cohere-36d1f52f-827",
@@ -9216,7 +6720,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9238,7 +6742,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9262,7 +6766,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9286,7 +6790,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9310,7 +6814,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9332,7 +6836,7 @@
    "tags": [],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9356,7 +6860,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9380,7 +6884,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9405,7 +6909,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9431,58 +6935,8 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTE213",
-   "company": "Imperial College London",
-   "companyType": "academic",
-   "title": "Research Associate",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE213/research-associate",
-   "posted": null,
-   "closes": null,
-   "salary": "£50,733 to £52,675 per annum",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTF513",
-   "company": "Imperial College London",
-   "companyType": "academic",
-   "title": "Research Associate in Neurotechnology and Bioelectronic Devices",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTF513/research-associate-in-neurotechnology-and-bioelectronic-devices",
-   "posted": null,
-   "closes": null,
-   "salary": "£50,733 to £52,675 per annum",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "wk-ki-insurance-011E4E9252",
@@ -9505,7 +6959,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9529,7 +6983,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9553,7 +7007,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9576,7 +7030,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9599,7 +7053,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9621,7 +7075,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9645,7 +7099,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9669,7 +7123,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9693,7 +7147,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9715,7 +7169,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9760,7 +7214,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9783,7 +7237,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9805,7 +7259,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9827,31 +7281,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
-   "active": true
-  },
-  {
-   "id": "gh-speechmatics-4950400101",
-   "company": "Speechmatics",
-   "companyType": "startup",
-   "title": "ML Data & Platform Engineer",
-   "location": "London, England, United Kingdom",
-   "cities": [
-    "london"
-   ],
-   "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101",
-   "posted": "2026-09-04",
-   "closes": null,
-   "salary": null,
-   "score": 2,
-   "why": "More infrastructure than modelling; employer close to your interests.",
-   "level": "mid",
-   "tags": [
-    "engineering"
-   ],
-   "source": "greenhouse",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -9875,644 +7305,32 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
-   "id": "cam-JH50885",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Janeway Institute Postdoctoral Research Fellowship (Research Assistant or Research Associate) (Fixed Term)",
-   "location": "Cambridge (Faculty of Economics)",
+   "id": "gh-speechmatics-4950400101",
+   "company": "Speechmatics",
+   "companyType": "startup",
+   "title": "ML Data & Platform Engineer",
+   "location": "London, England, United Kingdom",
    "cities": [
-    "cambridge"
+    "london"
    ],
-   "url": "https://www.cam.ac.uk/jobs/janeway-institute-postdoctoral-research-fellowship-research-assistant-or-research-associate-fixed-jh50885",
-   "posted": null,
-   "closes": "2026-12-15",
-   "salary": "£34,610-£35, 608 £37,694-£46,049",
-   "score": 2,
-   "why": "Core research or ML engineering role; usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-LF51190",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Post Doctoral Research Associate in Mathematical Relativity (Fixed Term)",
-   "location": "Cambridge (Department of Pure Mathematics and Mathematical Statistics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/post-doctoral-research-associate-in-mathematical-relativity-fixed-term-lf51190",
-   "posted": null,
-   "closes": "2026-10-14",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-LE51157",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Post Doctoral Research Associate in Oceanography (Fixed Term)",
-   "location": "Cambridge (Department of Applied Mathematics and Theoretical Physics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/post-doctoral-research-associate-in-oceanography-fixed-term-le51157",
-   "posted": null,
-   "closes": "2026-10-19",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-MA50992",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Post Doctoral Research Associate: Custom Optical Microscopy Development (Fixed Term)",
-   "location": "Cambridge (Yusuf Hamied Department of Chemistry)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/post-doctoral-research-associate-custom-optical-microscopy-development-fixed-term-ma50992",
-   "posted": null,
-   "closes": "2026-10-20",
-   "salary": "£33,002-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTE231",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate in Mathematical and Statistical Methods for Genome Privacy (Fixed Term)",
-   "location": "",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE231/postdoctoral-research-associate-in-mathematical-and-statistical-methods-for-genome-privacy-fixed-term",
-   "posted": null,
+   "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101",
+   "posted": "2026-09-04",
    "closes": null,
-   "salary": "£37,694 to £46,049",
+   "salary": null,
    "score": 2,
-   "why": "Matches your medical and healthcare AI background; usually needs a PhD.",
+   "why": "More infrastructure than modelling; employer close to your interests.",
    "level": "mid",
    "tags": [
-    "research",
-    "data science",
-    "health"
+    "engineering"
    ],
-   "source": "jobs.ac.uk",
+   "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-LE51229",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate in Mathematical and Statistical Methods for Genome Privacy (Fixed Term)",
-   "location": "Cambridge (Department of Applied Mathematics and Theoretical Physics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-in-mathematical-and-statistical-methods-for-genome-privacy-fixed-le51229",
-   "posted": null,
-   "closes": "2026-10-31",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Matches your medical and healthcare AI background; usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "data science",
-    "health"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PK51316",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate  (Fixed Term)",
-   "location": "Cambridge (Department of Pathology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-fixed-term-pk51316",
-   "posted": null,
-   "closes": "2026-10-20",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PS51001",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate (Blouet and Káradóttir Labs)",
-   "location": "Cambridge (Cambridge Stem Cell Institute (SBS))",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-blouet-and-karadottir-labs-ps51001",
-   "posted": null,
-   "closes": "2026-10-16",
-   "salary": "£33,002 - £35,608 or £37,694- £46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PK51315",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate (Fixed Term)",
-   "location": "Cambridge (Department of Pathology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-fixed-term-pk51315",
-   "posted": null,
-   "closes": "2026-10-29",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PC51194",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate (Fixed Term)",
-   "location": "Cambridge (Department of Genetics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-fixed-term-pc51194",
-   "posted": null,
-   "closes": "2026-10-21",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PJ51174",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate (Fixed Term)",
-   "location": "Cambridge (Department of Psychology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-fixed-term-pj51174",
-   "posted": null,
-   "closes": "2026-10-15",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-RC51139",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate (Honorary Resident Doctor) in Respiratory Medicine",
-   "location": "Cambridge (Department of Medicine)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-honorary-resident-doctor-in-respiratory-medicine-rc51139",
-   "posted": null,
-   "closes": "2026-10-18",
-   "salary": "£40,190-£76,582",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PU51073",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate - Oligonucleotide Immune Therapies",
-   "location": "Cambridge (MRC Toxicology Unit)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-oligonucleotide-immune-therapies-pu51073",
-   "posted": null,
-   "closes": "2026-10-13",
-   "salary": "£33,002-£35,608 £37,694- £46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-GT51091",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate in Music and AI (Fixed Term)",
-   "location": "Cambridge (Faculty of Music)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-in-music-and-ai-fixed-term-gt51091",
-   "posted": null,
-   "closes": "2026-10-21",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PF51056",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate: Behaviour and Evolution Group (Fixed Term)",
-   "location": "Cambridge (Department of Zoology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-behaviour-and-evolution-group-fixed-term-pf51056",
-   "posted": null,
-   "closes": "2026-10-18",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PF51346",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Associate: Bumblebee Conservation (Fixed Term)",
-   "location": "Cambridge (Department of Zoology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-associate-bumblebee-conservation-fixed-term-pf51346",
-   "posted": null,
-   "closes": "2026-11-08",
-   "salary": "£37,694-£46,049",
-   "score": 2,
-   "why": "Research Associate grade often expects a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PF50279",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Senior Research Fellowship Sponsorship Scheme",
-   "location": "Cambridge (Department of Zoology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/senior-research-fellowship-sponsorship-scheme-pf50279",
-   "posted": null,
-   "closes": "2026-11-10",
-   "salary": "See job description for details.",
-   "score": 2,
-   "why": "Core research or ML engineering role; usually needs a PhD.",
-   "level": "senior",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTG335",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Assistant in Biomechanical Modelling and Wearable Robotics",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTG335/postdoctoral-research-assistant-in-biomechanical-modelling-and-wearable-robotics",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £47,779 per annum. Grade 7",
-   "score": 2,
-   "why": "Matches your autonomy and robotics background; usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research",
-    "autonomy"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTD791",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Assistant in Biomedical Image Analysis",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTD791/postdoctoral-research-assistant-in-biomedical-image-analysis",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £47,779 per annum",
-   "score": 2,
-   "why": "Matches your computer vision and perception / medical and healthcare AI background; usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research",
-    "vision",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTG328",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Assistant in Wearable Robotics and Experimental Biomechanics",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTG328/postdoctoral-research-assistant-in-wearable-robotics-and-experimental-biomechanics",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £47,779 per annum. Grade 7",
-   "score": 2,
-   "why": "Matches your autonomy and robotics background; usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research",
-    "autonomy"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTF120",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate in Spatial Biology and Cancer Immunology",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTF120/postdoctoral-research-associate-in-spatial-biology-and-cancer-immunology",
-   "posted": null,
-   "closes": null,
-   "salary": "£41,636 to £47,779 per annum",
-   "score": 2,
-   "why": "Matches your medical and healthcare AI background; usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTD109",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Scientist – Cancer Vaccinology",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTD109/postdoctoral-research-scientist-cancer-vaccinology",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £47,779 Research Grade 7: with a discretionary range to £53,483 p.a. (pro rata). This is inclusive of a pensionable Oxford University Weighting of £1,730 per year (pro rata).",
-   "score": 2,
-   "why": "Core research or ML engineering role; usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTE954",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Researcher: AI Safety in Mental Health",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE954/postdoctoral-researcher-ai-safety-in-mental-health",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £47,779 per annum. Grade 7",
-   "score": 2,
-   "why": "Matches your medical and healthcare AI background; usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTG032",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Senior Postdoctoral Research Scientist in AI for Outbreak Response",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTG032/senior-postdoctoral-research-scientist-in-ai-for-outbreak-response",
-   "posted": null,
-   "closes": null,
-   "salary": "£49,119 to £58,265 with a discretionary range to £65,336 p.a. (pro rata): Research Grade 8. This is inclusive of a pensionable Oxford University Weighting of £1,730 per year (pro rata).",
-   "score": 2,
-   "why": "Core research or ML engineering role; usually needs a PhD.",
-   "level": "senior",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTE988",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Senior Postdoctoral Researcher in Computational Biology",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE988/senior-postdoctoral-researcher-in-computational-biology",
-   "posted": null,
-   "closes": null,
-   "salary": "£49,119 to £58,265 per annum (with a discretionary range to £65,336 per annum)",
-   "score": 2,
-   "why": "Matches your medical and healthcare AI background; usually needs a PhD.",
-   "level": "senior",
-   "tags": [
-    "research",
-    "health"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
+   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "active": true
   },
   {
    "id": "ashby-wayve-40ecaa24-bc9",
@@ -10535,7 +7353,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -10559,7 +7377,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -10583,33 +7401,8 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTC701",
-   "company": "City St George’s, University of London",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate in Digital Twins",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTC701/postdoctoral-research-associate-in-digital-twins",
-   "posted": null,
-   "closes": null,
-   "salary": "£43,482 to £44,746",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-multiverse-792a7c47-0f4",
@@ -10630,33 +7423,8 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTE147",
-   "company": "Northeastern University London",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate Position in Neuromorphic Accelerators",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTE147/postdoctoral-research-associate-position-in-neuromorphic-accelerators",
-   "posted": null,
-   "closes": null,
-   "salary": "£42,701 to £48,035 per annum - dependent on experience",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "gh-riverlane-4773031101",
@@ -10679,7 +7447,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -10703,7 +7471,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -10727,33 +7495,8 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "jacuk-DTF942",
-   "company": "Royal Holloway, University of London",
-   "companyType": "academic",
-   "title": "British Election Study Postdoctoral Research Fellow",
-   "location": "",
-   "cities": [
-    "london"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTF942/british-election-study-postdoctoral-research-fellow",
-   "posted": null,
-   "closes": null,
-   "salary": "From £41,374 per annum - including London Allowance This is the expected starting salary for this post. Appointment at a higher point may be made for candidates who demonstrate exceptional skills and experience relevant to the role.",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "ashby-salesape-ai-a4e68f85-f81",
@@ -10774,7 +7517,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -10796,7 +7539,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -10820,309 +7563,8 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
-  },
-  {
-   "id": "cam-PP51339",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate  (Fixed Term)",
-   "location": "Cambridge (Department of Veterinary Medicine)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-fixed-term-pp51339",
-   "posted": null,
-   "closes": "2026-10-21",
-   "salary": "£37,694-£46,049",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-SU51024",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate  (Fixed Term)",
-   "location": "Cambridge (MRC Cognition and Brain Sciences Unit)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-fixed-term-su51024",
-   "posted": null,
-   "closes": "2026-10-16",
-   "salary": "£37,694-£46,049",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTC906",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate (Fixed Term)",
-   "location": "",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTC906/postdoctoral-research-associate-fixed-term",
-   "posted": null,
-   "closes": null,
-   "salary": "£37,694 to £46,049",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-SD51362",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate (Fixed Term)",
-   "location": "Cambridge (C.I.M.R. Clinical Neurosciences)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-fixed-term-sd51362",
-   "posted": null,
-   "closes": "2026-11-08",
-   "salary": "£37,694-£46,049",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-PC51215",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate (Fixed Term)",
-   "location": "Cambridge (Department of Genetics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-fixed-term-pc51215",
-   "posted": null,
-   "closes": "2026-11-08",
-   "salary": "£37,694-£46,049",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-GO51218",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate (Fixed Term)",
-   "location": "Cambridge (Cambridge Institute for Technology and Humanity)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-fixed-term-go51218",
-   "posted": null,
-   "closes": "2026-11-08",
-   "salary": "£37,694-£46,049",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-RR51252",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Associate (Honorary Resident Doctor) (Fixed Term)",
-   "location": "Cambridge (Department of Clinical Neurosciences)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-honorary-resident-doctor-fixed-term-rr51252",
-   "posted": null,
-   "closes": "2026-11-01",
-   "salary": "£40,190-£76,582",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "cam-RP51231",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Senior Research Associate (Fixed Term)",
-   "location": "Cambridge (Department of Paediatrics)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/senior-research-associate-fixed-term-rp51231",
-   "posted": null,
-   "closes": "2026-10-15",
-   "salary": "£42,254-£56,535",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "senior",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTG056",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Assistant in Immunology",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTG056/postdoctoral-research-assistant-in-immunology",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £46,476 per annum: Grade 7. This is inclusive of a pensionable Oxford University Weighting of £1,730 per year.",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTF957",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Fellow in Experimental Political Science (TRUST-D Project)",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTF957/postdoctoral-research-fellow-in-experimental-political-science-trust-d-project",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £51,983 per annum. Grade 7",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTF955",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Research Fellow in Quantitative Political Science (TRUST-D Project)",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTF955/postdoctoral-research-fellow-in-quantitative-political-science-trust-d-project",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £51,983 per annum. Grade 7",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "early",
-   "tags": [
-    "research",
-    "data science"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
-  },
-  {
-   "id": "jacuk-DTB373",
-   "company": "University of Oxford",
-   "companyType": "academic",
-   "title": "Postdoctoral Researcher in Computer Modelling of Battery Cathode Materials",
-   "location": "",
-   "cities": [
-    "oxford"
-   ],
-   "url": "https://www.jobs.ac.uk/job/DTB373/postdoctoral-researcher-in-computer-modelling-of-battery-cathode-materials",
-   "posted": null,
-   "closes": null,
-   "salary": "£39,424 to £47,779 per annum: RESEARCH GRADE 7",
-   "score": 1,
-   "why": "Usually needs a PhD.",
-   "level": "mid",
-   "tags": [
-    "research"
-   ],
-   "source": "jobs.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T18:41:35+00:00",
-   "active": false,
-   "closedSeen": "2026-10-13T18:49:18+00:00"
   },
   {
    "id": "hn-49930260-fullstackfrontendbac",
@@ -11145,7 +7587,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   },
   {
@@ -11169,7 +7611,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-20T06:06:40+00:00",
+   "lastSeen": "2026-10-21T06:06:29+00:00",
    "active": true
   }
  ]
