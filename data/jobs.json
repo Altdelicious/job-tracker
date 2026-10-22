@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T06:06:29+00:00",
+ "generatedAt": "2026-10-22T06:09:50+00:00",
  "jobs": [
   {
    "id": "gh-anthropic-5445760008",
@@ -23,7 +23,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-16T05:55:08+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -76,7 +76,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -203,7 +203,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -227,7 +227,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -251,7 +251,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -301,7 +301,8 @@
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-21T06:06:29+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-22T06:09:50+00:00"
   },
   {
    "id": "gh-anthropic-5432575008",
@@ -324,7 +325,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -349,7 +350,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -374,7 +375,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -399,7 +400,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -424,7 +425,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -449,7 +450,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -474,7 +475,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -498,7 +499,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -523,7 +524,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -548,7 +549,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -573,7 +574,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -597,7 +598,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -622,7 +623,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -646,7 +647,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -671,7 +672,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -696,7 +697,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -722,7 +723,7 @@
    ],
    "source": "bamboohr",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -770,7 +771,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -795,7 +796,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -819,7 +820,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -844,7 +845,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -868,7 +869,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -892,7 +893,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -916,7 +917,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -940,7 +941,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -964,7 +965,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -988,7 +989,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1012,7 +1013,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1037,7 +1038,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1061,7 +1062,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1085,7 +1086,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1109,7 +1110,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1135,7 +1136,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1162,7 +1163,29 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-14T10:21:23+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-elevenlabs-b8a111fa-9fd",
+   "company": "ElevenLabs",
+   "companyType": "startup",
+   "title": "Applied AI Engineer",
+   "location": "United Kingdom; Dublin; Spain; Hungary; Bulgaria; Germany; Poland; Italy; Netherlands; France",
+   "cities": [],
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+   "posted": "2026-10-21",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1185,7 +1208,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1208,7 +1231,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1231,7 +1254,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1254,7 +1277,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1279,7 +1302,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1302,7 +1325,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1326,7 +1349,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1348,7 +1371,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1372,7 +1395,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1396,7 +1419,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1420,7 +1443,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1444,7 +1467,31 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-faculty-a785e1ff-6d9",
+   "company": "Faculty",
+   "companyType": "startup",
+   "title": "Lead Machine Learning Engineer (Safety)",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/faculty/a785e1ff-6d97-49b0-82ea-1a85026a70a7",
+   "posted": "2026-10-21",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1466,7 +1513,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1490,7 +1537,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1514,7 +1561,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1538,7 +1585,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1562,7 +1609,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1586,7 +1633,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1610,7 +1657,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1634,7 +1681,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1656,7 +1703,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1680,7 +1727,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1704,7 +1751,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1728,7 +1775,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1752,7 +1799,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1776,7 +1823,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1800,7 +1847,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1824,7 +1871,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1848,7 +1895,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1926,7 +1973,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1951,7 +1998,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -1975,7 +2022,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2000,7 +2047,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2025,7 +2072,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2049,7 +2096,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2100,7 +2147,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2125,7 +2172,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2150,7 +2197,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2175,7 +2222,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-15T10:07:10+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2249,7 +2296,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2274,7 +2321,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2298,7 +2345,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2323,7 +2370,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2349,7 +2396,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2374,7 +2421,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2398,7 +2445,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2422,7 +2469,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2446,7 +2493,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2470,7 +2517,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2494,7 +2541,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2519,7 +2566,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2544,7 +2591,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2569,7 +2616,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2594,7 +2641,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2619,7 +2666,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2643,7 +2690,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2738,7 +2785,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2762,7 +2809,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2786,7 +2833,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2812,7 +2859,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2836,7 +2883,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2860,7 +2907,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2884,7 +2931,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2908,7 +2955,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2932,7 +2979,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2956,7 +3003,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -2981,7 +3028,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-21T06:06:29+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3005,7 +3052,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3030,7 +3077,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3055,7 +3102,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3080,7 +3127,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3105,7 +3152,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3130,7 +3177,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-21T06:06:29+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3155,7 +3202,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3180,7 +3227,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3205,7 +3252,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3230,7 +3277,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3254,7 +3301,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3279,7 +3326,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3328,7 +3375,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3377,7 +3424,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3401,7 +3448,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3426,7 +3473,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3451,7 +3498,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3475,7 +3522,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3527,7 +3574,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3551,7 +3598,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3576,7 +3623,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3602,7 +3649,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3627,7 +3674,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3653,7 +3700,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3677,7 +3724,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3701,7 +3748,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3723,7 +3770,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3772,7 +3819,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3796,7 +3843,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3818,33 +3865,8 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
-  },
-  {
-   "id": "cam-NR51196",
-   "company": "University of Cambridge",
-   "companyType": "academic",
-   "title": "Research Assistant (Fixed Term)",
-   "location": "Cambridge (Department of Computer Science and Technology)",
-   "cities": [
-    "cambridge"
-   ],
-   "url": "https://www.cam.ac.uk/jobs/research-assistant-fixed-term-nr51196",
-   "posted": null,
-   "closes": "2026-10-13",
-   "salary": "£33,002-£35,608",
-   "score": 4,
-   "why": "Grade open to Master's graduates.",
-   "level": "early",
-   "tags": [
-    "research"
-   ],
-   "source": "cam.ac.uk",
-   "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-13T22:54:59+00:00",
-   "active": false,
-   "closedSeen": "2026-10-14T10:21:23+00:00"
   },
   {
    "id": "cam-NR51332",
@@ -3893,7 +3915,8 @@
    "source": "cam.ac.uk",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-21T06:06:29+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-22T06:09:50+00:00"
   },
   {
    "id": "jacuk-DTC604",
@@ -3943,7 +3966,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3967,7 +3990,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -3991,7 +4014,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4015,7 +4038,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4039,7 +4062,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4064,7 +4087,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4088,7 +4111,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4112,7 +4135,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4137,7 +4160,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4186,7 +4209,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4210,7 +4233,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4235,7 +4258,8 @@
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-21T06:06:29+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-22T06:09:50+00:00"
   },
   {
    "id": "amzn-10526455",
@@ -4258,7 +4282,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4307,7 +4331,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4329,7 +4353,7 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4351,7 +4375,7 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4375,7 +4399,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4399,7 +4423,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4423,7 +4447,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4448,7 +4472,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4473,7 +4497,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4498,7 +4522,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4546,7 +4570,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4569,7 +4593,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4593,7 +4617,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4618,7 +4642,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4667,7 +4691,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4691,7 +4715,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4715,7 +4739,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4740,7 +4764,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4764,7 +4788,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4789,7 +4813,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4814,7 +4838,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4838,7 +4862,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4862,7 +4886,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4886,7 +4910,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4910,7 +4934,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -4937,6 +4961,29 @@
    "lastSeen": "2026-10-14T12:55:49+00:00",
    "active": false,
    "closedSeen": "2026-10-15T10:07:10+00:00"
+  },
+  {
+   "id": "ashby-elevenlabs-41b892ba-b53",
+   "company": "ElevenLabs",
+   "companyType": "startup",
+   "title": "Data Scientist - Product Analytics",
+   "location": "United Kingdom; Spain; Hungary; Bulgaria; Germany; Poland; Italy; France",
+   "cities": [],
+   "url": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
+   "posted": "2026-10-21",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Data science role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
   },
   {
    "id": "ashby-elevenlabs-8f79181f-192",
@@ -4978,7 +5025,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5002,7 +5049,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5049,7 +5096,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5074,7 +5121,32 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-faculty-b84b4736-cd4",
+   "company": "Faculty",
+   "companyType": "startup",
+   "title": "Lead Data Scientist (Safety)",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/faculty/b84b4736-cd44-465a-9e80-6737e1f93076",
+   "posted": "2026-10-21",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Data science role; employer close to your interests.",
+   "level": "senior",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5099,7 +5171,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5124,7 +5196,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5149,7 +5221,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5173,7 +5245,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5197,7 +5269,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5222,7 +5294,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5247,7 +5319,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5271,7 +5343,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5296,7 +5368,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5320,7 +5392,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5345,7 +5417,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5367,7 +5439,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5389,7 +5461,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5413,7 +5485,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5438,7 +5510,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5513,7 +5585,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5537,7 +5609,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5561,7 +5633,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5585,7 +5657,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5609,7 +5681,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5633,7 +5705,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5657,7 +5729,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5681,7 +5753,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5705,7 +5777,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5729,7 +5801,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5753,7 +5825,33 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-krakentech-5e764541-4e9",
+   "company": "Kraken",
+   "companyType": "startup",
+   "title": "Software Engineer (Autonomous Agents)",
+   "location": "London, UK; Paris, France; Berlin, Germany; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/krakentech/5e764541-4e9b-41cf-84f4-8503fc07f093",
+   "posted": "2026-10-21",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Matches your autonomy and robotics background.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "autonomy",
+    "llm"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5777,7 +5875,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5801,7 +5899,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5826,7 +5924,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5848,7 +5946,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5870,7 +5968,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5894,7 +5992,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5918,7 +6016,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5942,7 +6040,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5964,7 +6062,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -5986,7 +6084,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6010,7 +6108,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6034,7 +6132,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6058,7 +6156,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6082,7 +6180,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6106,7 +6204,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6128,7 +6226,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6158,6 +6256,31 @@
    "closedSeen": "2026-10-15T10:07:10+00:00"
   },
   {
+   "id": "gh-physicsx-4804769101",
+   "company": "PhysicsX",
+   "companyType": "startup",
+   "title": "Senior AI / Agentic Engineer",
+   "location": "London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4804769101",
+   "posted": "2026-03-18",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests.",
+   "level": "senior",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
+  },
+  {
    "id": "gh-physicsx-4851342101",
    "company": "PhysicsX",
    "companyType": "startup",
@@ -6179,7 +6302,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6228,7 +6351,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6252,7 +6375,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6276,7 +6399,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6298,7 +6421,7 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6320,7 +6443,32 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
+   "active": true
+  },
+  {
+   "id": "jacuk-DTJ125",
+   "company": "University of Oxford",
+   "companyType": "academic",
+   "title": "PhD Studentship: Research Studentship in Control Engineering- Sustainable and Circular AI Systems",
+   "location": "Oxford",
+   "cities": [
+    "oxford"
+   ],
+   "url": "https://www.jobs.ac.uk/job/DTJ125/phd-studentship-research-studentship-in-control-engineering-sustainable-and-circular-ai-systems",
+   "posted": null,
+   "closes": null,
+   "salary": "£21,805 p.a",
+   "score": 3,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "jobs.ac.uk",
+   "firstSeen": "2026-10-22T06:09:50+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6346,7 +6494,8 @@
    "source": "jobs.ac.uk",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-21T06:06:29+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-22T06:09:50+00:00"
   },
   {
    "id": "ashby-wayve-f8c18681-a7f",
@@ -6370,7 +6519,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6394,7 +6543,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6419,7 +6568,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6443,7 +6592,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6467,7 +6616,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6491,7 +6640,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6541,7 +6690,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6565,7 +6714,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-21T06:06:29+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6587,7 +6736,7 @@
    "tags": [],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6632,7 +6781,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6656,7 +6805,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6678,7 +6827,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6700,7 +6849,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6720,7 +6869,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6742,7 +6891,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6750,7 +6899,7 @@
    "company": "FluidStack",
    "companyType": "startup",
    "title": "Software Engineer, Applied AI",
-   "location": "San Francisco, CA; New York, NY; Austin, TX; London; Seattle, WA; US",
+   "location": "San Francisco, CA; New York, NY; Austin, TX; London; US",
    "cities": [
     "london"
    ],
@@ -6766,7 +6915,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6790,7 +6939,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6814,7 +6963,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6836,7 +6985,7 @@
    "tags": [],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6860,7 +7009,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6884,7 +7033,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6909,7 +7058,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6935,7 +7084,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6959,7 +7108,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -6983,7 +7132,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7007,7 +7156,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7030,7 +7179,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7053,7 +7202,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7075,7 +7224,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7099,7 +7248,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7123,7 +7272,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7147,7 +7296,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7169,7 +7318,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7214,7 +7363,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7237,7 +7386,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7259,7 +7408,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7281,7 +7430,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7305,7 +7454,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7329,7 +7478,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7353,7 +7502,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7377,7 +7526,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7401,7 +7550,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7423,7 +7572,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7447,7 +7596,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7471,7 +7620,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7495,7 +7644,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7517,7 +7666,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7539,7 +7688,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7563,7 +7712,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7587,7 +7736,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   },
   {
@@ -7611,7 +7760,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-21T06:06:29+00:00",
+   "lastSeen": "2026-10-22T06:09:50+00:00",
    "active": true
   }
  ]
