@@ -1,25 +1,25 @@
 {
- "lastRun": "2026-10-23T06:05:13+00:00",
+ "lastRun": "2026-10-24T05:58:47+00:00",
  "boardsTotal": 125,
  "boardsOk": 124,
  "boardsFailed": [
   "Cera"
  ],
- "jobsActive": 285,
- "newThisRun": 9,
+ "jobsActive": 289,
+ "newThisRun": 4,
  "notes": [
-  "jobs.ac.uk: 293 results scanned",
-  "cam.ac.uk: 52 vacancies scanned",
+  "jobs.ac.uk: 289 results scanned",
+  "cam.ac.uk: 53 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
-  "Amazon: 48 scanned, 5 kept"
+  "Amazon: 50 scanned, 5 kept"
  ],
  "boards": [
   {
    "company": "9fin",
    "ats": "ashby",
    "slug": "9fin",
-   "status": "ok: 31 jobs, 2 kept"
+   "status": "ok: 31 jobs, 3 kept"
   },
   {
    "company": "Adarga",
@@ -43,19 +43,19 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 683 jobs, 13 kept"
+   "status": "ok: 681 jobs, 13 kept"
   },
   {
    "company": "Apollo Research",
    "ats": "lever",
    "slug": "apolloresearch",
-   "status": "ok: 12 jobs, 6 kept"
+   "status": "ok: 14 jobs, 6 kept"
   },
   {
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 329 jobs, 3 kept"
+   "status": "ok: 327 jobs, 3 kept"
   },
   {
    "company": "ARIA",
@@ -109,7 +109,7 @@
    "company": "Caristo Diagnostics",
    "ats": "bamboohr",
    "slug": "caristo",
-   "status": "ok: 6 jobs, 1 kept"
+   "status": "ok: 4 jobs, 1 kept"
   },
   {
    "company": "Cleo",
@@ -121,7 +121,7 @@
    "company": "Cohere",
    "ats": "ashby",
    "slug": "cohere",
-   "status": "ok: 114 jobs, 17 kept"
+   "status": "ok: 116 jobs, 17 kept"
   },
   {
    "company": "Condukt",
@@ -139,7 +139,7 @@
    "company": "CuspAI",
    "ats": "ashby",
    "slug": "cuspai",
-   "status": "ok: 16 jobs, 2 kept"
+   "status": "ok: 23 jobs, 2 kept"
   },
   {
    "company": "Cyted Health",
@@ -175,7 +175,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 156 jobs, 7 kept"
+   "status": "ok: 161 jobs, 7 kept"
   },
   {
    "company": "Encord",
@@ -187,7 +187,7 @@
    "company": "Faculty",
    "ats": "ashby",
    "slug": "faculty",
-   "status": "ok: 85 jobs, 35 kept"
+   "status": "ok: 84 jobs, 35 kept"
   },
   {
    "company": "FluidStack",
@@ -199,19 +199,19 @@
    "company": "Fractile",
    "ats": "greenhouse",
    "slug": "fractile",
-   "status": "ok: 39 jobs, 2 kept"
+   "status": "ok: 40 jobs, 2 kept"
   },
   {
    "company": "Fuse Energy",
    "ats": "workable",
    "slug": "fuseenergy",
-   "status": "ok: 102 jobs, 7 kept"
+   "status": "ok: 101 jobs, 7 kept"
   },
   {
    "company": "Granola",
    "ats": "ashby",
    "slug": "granola",
-   "status": "ok: 22 jobs, 1 kept"
+   "status": "ok: 23 jobs, 1 kept"
   },
   {
    "company": "Greyparrot",
@@ -229,7 +229,7 @@
    "company": "Helsing",
    "ats": "greenhouse",
    "slug": "helsing",
-   "status": "ok: 157 jobs, 5 kept"
+   "status": "ok: 159 jobs, 5 kept"
   },
   {
    "company": "Hiverge",
@@ -241,7 +241,7 @@
    "company": "Humanoid",
    "ats": "ashby",
    "slug": "humanoid",
-   "status": "ok: 101 jobs, 14 kept"
+   "status": "ok: 100 jobs, 14 kept"
   },
   {
    "company": "Improbable",
@@ -265,7 +265,7 @@
    "company": "Isomorphic Labs",
    "ats": "greenhouse",
    "slug": "isomorphiclabs",
-   "status": "ok: 28 jobs, 5 kept"
+   "status": "ok: 30 jobs, 7 kept"
   },
   {
    "company": "Ki Insurance",
@@ -277,7 +277,7 @@
    "company": "Kraken",
    "ats": "ashby",
    "slug": "krakentech",
-   "status": "ok: 69 jobs, 2 kept"
+   "status": "ok: 68 jobs, 2 kept"
   },
   {
    "company": "Latent Labs",
@@ -307,7 +307,7 @@
    "company": "Luma AI",
    "ats": "ashby",
    "slug": "lumaai",
-   "status": "ok: 30 jobs, 6 kept"
+   "status": "ok: 31 jobs, 6 kept"
   },
   {
    "company": "Lumai",
@@ -319,7 +319,7 @@
    "company": "Luminance",
    "ats": "workable",
    "slug": "luminance-1",
-   "status": "ok: 61 jobs, 3 kept"
+   "status": "ok: 59 jobs, 3 kept"
   },
   {
    "company": "Maze",
@@ -349,13 +349,13 @@
    "company": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "status": "ok: 224 jobs, 21 kept"
+   "status": "ok: 225 jobs, 21 kept"
   },
   {
    "company": "Multiverse",
    "ats": "ashby",
    "slug": "multiverse",
-   "status": "ok: 29 jobs, 2 kept"
+   "status": "ok: 28 jobs, 2 kept"
   },
   {
    "company": "Neurolabs",
@@ -397,7 +397,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 802 jobs, 10 kept"
+   "status": "ok: 796 jobs, 10 kept"
   },
   {
    "company": "Oxa",
@@ -439,7 +439,7 @@
    "company": "Quantexa",
    "ats": "ashby",
    "slug": "quantexa",
-   "status": "ok: 30 jobs, 0 kept"
+   "status": "ok: 29 jobs, 0 kept"
   },
   {
    "company": "Recraft",
@@ -475,7 +475,7 @@
    "company": "Scarlet",
    "ats": "ashby",
    "slug": "scarlet",
-   "status": "ok: 15 jobs, 0 kept"
+   "status": "ok: 16 jobs, 0 kept"
   },
   {
    "company": "Searchable",
@@ -529,7 +529,7 @@
    "company": "Synthesia",
    "ats": "ashby",
    "slug": "synthesia",
-   "status": "ok: 33 jobs, 0 kept"
+   "status": "ok: 34 jobs, 0 kept"
   },
   {
    "company": "Tem",
@@ -547,7 +547,7 @@
    "company": "Thought Machine",
    "ats": "ashby",
    "slug": "thought-machine",
-   "status": "ok: 40 jobs, 0 kept"
+   "status": "ok: 38 jobs, 0 kept"
   },
   {
    "company": "Tractable",
@@ -559,7 +559,7 @@
    "company": "UK AI Security Institute",
    "ats": "greenhouse",
    "slug": "aisi",
-   "status": "ok: 8 jobs, 1 kept"
+   "status": "ok: 8 jobs, 2 kept"
   },
   {
    "company": "Unitary",
@@ -577,7 +577,7 @@
    "company": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
-   "status": "ok: 178 jobs, 13 kept"
+   "status": "ok: 178 jobs, 14 kept"
   },
   {
    "company": "44pixels",
@@ -631,7 +631,7 @@
    "company": "CMR Surgical",
    "ats": "page",
    "slug": "https://us.cmrsurgical.com/careers",
-   "status": "ok: 3 jobs, 0 kept"
+   "status": "ok: 2 jobs, 0 kept"
   },
   {
    "company": "Cooperative AI Foundation",
@@ -703,7 +703,7 @@
    "company": "MATS",
    "ats": "page",
    "slug": "https://www.matsprogram.org/careers",
-   "status": "ok: 1 jobs, 0 kept"
+   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Nscale",
