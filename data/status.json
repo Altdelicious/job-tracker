@@ -1,15 +1,15 @@
 {
- "lastRun": "2026-10-24T05:58:47+00:00",
+ "lastRun": "2026-10-25T06:13:19+00:00",
  "boardsTotal": 125,
  "boardsOk": 124,
  "boardsFailed": [
   "Cera"
  ],
  "jobsActive": 289,
- "newThisRun": 4,
+ "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 289 results scanned",
-  "cam.ac.uk: 53 vacancies scanned",
+  "jobs.ac.uk: 290 results scanned",
+  "cam.ac.uk: 52 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
   "Amazon: 50 scanned, 5 kept"
@@ -43,7 +43,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 681 jobs, 13 kept"
+   "status": "ok: 682 jobs, 13 kept"
   },
   {
    "company": "Apollo Research",
@@ -55,7 +55,7 @@
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 327 jobs, 3 kept"
+   "status": "ok: 328 jobs, 3 kept"
   },
   {
    "company": "ARIA",
@@ -175,7 +175,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 161 jobs, 7 kept"
+   "status": "ok: 159 jobs, 7 kept"
   },
   {
    "company": "Encord",
@@ -199,7 +199,7 @@
    "company": "Fractile",
    "ats": "greenhouse",
    "slug": "fractile",
-   "status": "ok: 40 jobs, 2 kept"
+   "status": "ok: 39 jobs, 2 kept"
   },
   {
    "company": "Fuse Energy",
@@ -229,7 +229,7 @@
    "company": "Helsing",
    "ats": "greenhouse",
    "slug": "helsing",
-   "status": "ok: 159 jobs, 5 kept"
+   "status": "ok: 160 jobs, 5 kept"
   },
   {
    "company": "Hiverge",
@@ -397,7 +397,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 796 jobs, 10 kept"
+   "status": "ok: 794 jobs, 10 kept"
   },
   {
    "company": "Oxa",
