@@ -1,15 +1,15 @@
 {
- "lastRun": "2026-10-25T06:13:19+00:00",
+ "lastRun": "2026-10-26T06:21:20+00:00",
  "boardsTotal": 125,
  "boardsOk": 124,
  "boardsFailed": [
   "Cera"
  ],
- "jobsActive": 289,
- "newThisRun": 0,
+ "jobsActive": 290,
+ "newThisRun": 1,
  "notes": [
-  "jobs.ac.uk: 290 results scanned",
-  "cam.ac.uk: 52 vacancies scanned",
+  "jobs.ac.uk: 286 results scanned",
+  "cam.ac.uk: 51 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
   "Amazon: 50 scanned, 5 kept"
@@ -55,7 +55,7 @@
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 328 jobs, 3 kept"
+   "status": "ok: 327 jobs, 3 kept"
   },
   {
    "company": "ARIA",
@@ -175,7 +175,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 159 jobs, 7 kept"
+   "status": "ok: 158 jobs, 7 kept"
   },
   {
    "company": "Encord",
@@ -349,7 +349,7 @@
    "company": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "status": "ok: 225 jobs, 21 kept"
+   "status": "ok: 224 jobs, 21 kept"
   },
   {
    "company": "Multiverse",
@@ -373,7 +373,7 @@
    "company": "Nous",
    "ats": "ashby",
    "slug": "nous",
-   "status": "ok: 9 jobs, 0 kept"
+   "status": "ok: 11 jobs, 0 kept"
   },
   {
    "company": "Occam Industries",
@@ -391,13 +391,13 @@
    "company": "Olix",
    "ats": "ashby",
    "slug": "olix",
-   "status": "ok: 22 jobs, 0 kept"
+   "status": "ok: 20 jobs, 0 kept"
   },
   {
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 794 jobs, 10 kept"
+   "status": "ok: 791 jobs, 11 kept"
   },
   {
    "company": "Oxa",
@@ -445,7 +445,7 @@
    "company": "Recraft",
    "ats": "ashby",
    "slug": "recraft",
-   "status": "ok: 4 jobs, 0 kept"
+   "status": "ok: 3 jobs, 0 kept"
   },
   {
    "company": "Recycleye",
@@ -703,7 +703,7 @@
    "company": "MATS",
    "ats": "page",
    "slug": "https://www.matsprogram.org/careers",
-   "status": "ok: 0 jobs, 0 kept"
+   "status": "ok: 4 jobs, 0 kept"
   },
   {
    "company": "Nscale",
