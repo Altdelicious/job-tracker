@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-19T11:39:56+00:00",
+ "ranAt": "2026-10-26T11:56:40+00:00",
  "results": [
   {
    "company": "Google DeepMind",
@@ -28,8 +28,8 @@
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://ceracare.co.uk/careers",
-   "via": "https://ceracare.co.uk/careers",
+   "slug": "https://ceracare.co.uk/jobs",
+   "via": "https://ceracare.co.uk/jobs",
    "jobs": 0,
    "ukJobs": 0
   },
@@ -81,7 +81,7 @@
   },
   {
    "company": "Mantic",
-   "website": "https://www.mantic.com/",
+   "website": "https://mantic.com/",
    "guessed": true,
    "result": "no careers page found"
   },
@@ -209,8 +209,8 @@
    "ats": "page",
    "slug": "https://www.iproov.com/careers",
    "via": "https://www.iproov.com/careers",
-   "jobs": 9,
-   "ukJobs": 9
+   "jobs": 6,
+   "ukJobs": 6
   },
   {
    "company": "Partly",
@@ -447,8 +447,8 @@
    "ats": "page",
    "slug": "https://us.cmrsurgical.com/careers",
    "via": "https://us.cmrsurgical.com/careers",
-   "jobs": 3,
-   "ukJobs": 3
+   "jobs": 2,
+   "ukJobs": 2
   },
   {
    "company": "Automata",
@@ -538,12 +538,11 @@
    "company": "Kheiron Medical",
    "website": "https://kheironmed.com",
    "guessed": false,
-   "result": "page",
+   "result": "page (feed did not answer)",
    "ats": "page",
    "slug": "https://deephealth.com/careers/",
    "via": "https://deephealth.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
+   "jobs": null
   },
   {
    "company": "Huma",
@@ -555,12 +554,6 @@
    "via": "https://www.huma.com/careers",
    "jobs": 0,
    "ukJobs": 0
-  },
-  {
-   "company": "Seldon",
-   "website": "https://seldon.io",
-   "guessed": false,
-   "result": "no careers page found"
   },
   {
    "company": "Conjecture",
@@ -634,8 +627,8 @@
    "ats": "page",
    "slug": "https://www.matsprogram.org/careers",
    "via": "https://www.matsprogram.org/careers",
-   "jobs": 1,
-   "ukJobs": 1
+   "jobs": 4,
+   "ukJobs": 4
   }
  ]
 }

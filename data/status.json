@@ -1,14 +1,12 @@
 {
- "lastRun": "2026-10-26T06:21:20+00:00",
- "boardsTotal": 125,
- "boardsOk": 124,
- "boardsFailed": [
-  "Cera"
- ],
- "jobsActive": 290,
- "newThisRun": 1,
+ "lastRun": "2026-10-26T11:56:40+00:00",
+ "boardsTotal": 126,
+ "boardsOk": 126,
+ "boardsFailed": [],
+ "jobsActive": 293,
+ "newThisRun": 4,
  "notes": [
-  "jobs.ac.uk: 286 results scanned",
+  "jobs.ac.uk: 287 results scanned",
   "cam.ac.uk: 51 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
@@ -109,7 +107,7 @@
    "company": "Caristo Diagnostics",
    "ats": "bamboohr",
    "slug": "caristo",
-   "status": "ok: 4 jobs, 1 kept"
+   "status": "ok: 3 jobs, 1 kept"
   },
   {
    "company": "Cleo",
@@ -175,7 +173,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 158 jobs, 7 kept"
+   "status": "ok: 159 jobs, 7 kept"
   },
   {
    "company": "Encord",
@@ -187,7 +185,7 @@
    "company": "Faculty",
    "ats": "ashby",
    "slug": "faculty",
-   "status": "ok: 84 jobs, 35 kept"
+   "status": "ok: 85 jobs, 35 kept"
   },
   {
    "company": "FluidStack",
@@ -277,7 +275,7 @@
    "company": "Kraken",
    "ats": "ashby",
    "slug": "krakentech",
-   "status": "ok: 68 jobs, 2 kept"
+   "status": "ok: 66 jobs, 2 kept"
   },
   {
    "company": "Latent Labs",
@@ -349,13 +347,13 @@
    "company": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "status": "ok: 224 jobs, 21 kept"
+   "status": "ok: 223 jobs, 21 kept"
   },
   {
    "company": "Multiverse",
    "ats": "ashby",
    "slug": "multiverse",
-   "status": "ok: 28 jobs, 2 kept"
+   "status": "ok: 27 jobs, 2 kept"
   },
   {
    "company": "Neurolabs",
@@ -391,13 +389,13 @@
    "company": "Olix",
    "ats": "ashby",
    "slug": "olix",
-   "status": "ok: 20 jobs, 0 kept"
+   "status": "ok: 21 jobs, 0 kept"
   },
   {
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 791 jobs, 11 kept"
+   "status": "ok: 790 jobs, 11 kept"
   },
   {
    "company": "Oxa",
@@ -463,7 +461,7 @@
    "company": "Riverlane",
    "ats": "greenhouse",
    "slug": "riverlane",
-   "status": "ok: 36 jobs, 3 kept"
+   "status": "ok: 35 jobs, 2 kept"
   },
   {
    "company": "SalesAPE.ai",
@@ -484,10 +482,16 @@
    "status": "ok: 29 jobs, 0 kept"
   },
   {
+   "company": "Seldon",
+   "ats": "ashby",
+   "slug": "seldon",
+   "status": "ok: 4 jobs, 3 kept"
+  },
+  {
    "company": "Signal AI",
    "ats": "ashby",
    "slug": "signal-ai",
-   "status": "ok: 2 jobs, 0 kept"
+   "status": "ok: 3 jobs, 0 kept"
   },
   {
    "company": "Skin Analytics",
@@ -547,7 +551,7 @@
    "company": "Thought Machine",
    "ats": "ashby",
    "slug": "thought-machine",
-   "status": "ok: 38 jobs, 0 kept"
+   "status": "ok: 37 jobs, 0 kept"
   },
   {
    "company": "Tractable",
@@ -577,7 +581,7 @@
    "company": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
-   "status": "ok: 178 jobs, 14 kept"
+   "status": "ok: 177 jobs, 14 kept"
   },
   {
    "company": "44pixels",
@@ -618,8 +622,8 @@
   {
    "company": "Cera",
    "ats": "page",
-   "slug": "https://ceracare.co.uk/careers",
-   "status": "board not reachable {\"https://ceracare.co.uk/careers\": 404}"
+   "slug": "https://ceracare.co.uk/jobs",
+   "status": "ok: 0 jobs, 0 kept"
   },
   {
    "company": "Chemify",
@@ -631,7 +635,7 @@
    "company": "CMR Surgical",
    "ats": "page",
    "slug": "https://us.cmrsurgical.com/careers",
-   "status": "ok: 2 jobs, 0 kept"
+   "status": "ok: 2 jobs, 1 kept"
   },
   {
    "company": "Cooperative AI Foundation",

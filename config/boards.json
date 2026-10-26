@@ -276,14 +276,14 @@
   {
    "company": "Cera",
    "ats": "page",
-   "slug": "https://ceracare.co.uk/careers",
+   "slug": "https://ceracare.co.uk/jobs",
    "type": "startup",
    "fit": "H",
    "city": "London",
    "confidence": "high",
    "enabled": true,
    "source": "site",
-   "via": "https://ceracare.co.uk/careers"
+   "via": "https://ceracare.co.uk/jobs"
   },
   {
    "company": "Chemify",
@@ -1325,6 +1325,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 24,
    "ukJobsAtDiscovery": 15
+  },
+  {
+   "company": "Seldon",
+   "ats": "ashby",
+   "slug": "seldon",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 4,
+   "ukJobsAtDiscovery": 4
   },
   {
    "company": "Signal AI",

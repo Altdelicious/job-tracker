@@ -1,7 +1,7 @@
 {
- "ranAt": "2026-10-19T11:16:44+00:00",
+ "ranAt": "2026-10-26T11:33:50+00:00",
  "probed": 43,
- "found": 0,
+ "found": 1,
  "notFound": [
   "44pixels",
   "AI Pathfinder",
@@ -81,7 +81,6 @@
   "Robin AI",
   "SafeNav",
   "Scope",
-  "Seldon",
   "Shop Circle",
   "Stateful Robotics",
   "Tenyks",
