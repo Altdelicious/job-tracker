@@ -49,6 +49,18 @@
    "ukJobsAtDiscovery": 4
   },
   {
+   "company": "American Express Global Business Travel",
+   "ats": "workday",
+   "slug": "travelhrportal|wd1|Jobs",
+   "type": "lab",
+   "fit": "L",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.amexglobalbusinesstravel.com/au/about/careers/"
+  },
+  {
    "company": "Antare",
    "ats": "teamtailor",
    "slug": "antaretechnology-1748341798",
@@ -93,6 +105,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 327,
    "ukJobsAtDiscovery": 15
+  },
+  {
+   "company": "Archer",
+   "ats": "greenhouse",
+   "slug": "archer",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 1,
+   "ukJobsAtDiscovery": 0
   },
   {
    "company": "Archestra",
@@ -141,6 +165,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://arthos.ai/careers"
+  },
+  {
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "slug": "asos",
+   "type": "lab",
+   "fit": "M",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 71,
+   "ukJobsAtDiscovery": 71
   },
   {
    "company": "Atlas",
@@ -226,6 +262,18 @@
    "ukJobsAtDiscovery": 13
   },
   {
+   "company": "Cambridge Consultants",
+   "ats": "page",
+   "slug": "https://www.cambridgeconsultants.com/careers/",
+   "type": "lab",
+   "fit": "M",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.cambridgeconsultants.com/careers/"
+  },
+  {
    "company": "capsa.ai",
    "ats": "ashby",
    "slug": "capsa",
@@ -296,6 +344,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://www.chemify.io/careers"
+  },
+  {
+   "company": "CircuitHub",
+   "ats": "ashby",
+   "slug": "circuithub",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 10,
+   "ukJobsAtDiscovery": 8
   },
   {
    "company": "Cleo",
@@ -428,6 +488,18 @@
    "ukJobsAtDiscovery": 9
   },
   {
+   "company": "digiLab",
+   "ats": "greenhouse",
+   "slug": "digilab",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 6,
+   "ukJobsAtDiscovery": 6
+  },
+  {
    "company": "Doubleword",
    "ats": "page",
    "slug": "https://doubleword.ai/careers",
@@ -522,6 +594,18 @@
    "ukJobsAtDiscovery": 81
   },
   {
+   "company": "Flo Health",
+   "ats": "greenhouse",
+   "slug": "flohealth",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 33,
+   "ukJobsAtDiscovery": 18
+  },
+  {
    "company": "FluidStack",
    "ats": "ashby",
    "slug": "fluidstack",
@@ -556,6 +640,30 @@
    "source": "discovered",
    "jobsAtDiscovery": 99,
    "ukJobsAtDiscovery": 62
+  },
+  {
+   "company": "G-Research",
+   "ats": "page",
+   "slug": "https://www.gresearch.com/vacancies/",
+   "type": "lab",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.gresearch.com/vacancies/"
+  },
+  {
+   "company": "Gigaton",
+   "ats": "ashby",
+   "slug": "gigaton",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 7,
+   "ukJobsAtDiscovery": 7
   },
   {
    "company": "Google DeepMind",
@@ -731,6 +839,18 @@
    "confidence": "high",
    "enabled": true,
    "source": "manual"
+  },
+  {
+   "company": "iwoca",
+   "ats": "ashby",
+   "slug": "iwoca.co.uk",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.iwoca.co.uk/careers"
   },
   {
    "company": "Jack & Jill",
@@ -1079,6 +1199,18 @@
    "ukJobsAtDiscovery": 12
   },
   {
+   "company": "OmniBuds",
+   "ats": "page",
+   "slug": "https://www.omnibuds.tech/careers",
+   "type": "startup",
+   "fit": "H",
+   "city": "Cambridge",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.omnibuds.tech/careers"
+  },
+  {
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
@@ -1113,6 +1245,18 @@
    "via": "https://opteran.com/careers"
   },
   {
+   "company": "Orbital Industries",
+   "ats": "ashby",
+   "slug": "orbitalindustries",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 7,
+   "ukJobsAtDiscovery": 5
+  },
+  {
    "company": "Oxa",
    "ats": "ashby",
    "slug": "oxa",
@@ -1123,6 +1267,18 @@
    "source": "manual",
    "jobsAtDiscovery": 1,
    "ukJobsAtDiscovery": 1
+  },
+  {
+   "company": "Oxford Quantum Circuits",
+   "ats": "workable",
+   "slug": "oxford-quantum-circuits-8",
+   "type": "startup",
+   "fit": "M",
+   "city": "South East England",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://oqc.tech/company/careers-at-oqc/"
   },
   {
    "company": "Paid",
@@ -1339,6 +1495,18 @@
    "ukJobsAtDiscovery": 4
   },
   {
+   "company": "Siemens Digital Industries Software (Cambridge)",
+   "ats": "page",
+   "slug": "https://www.siemens.com/en-us/company/jobs/",
+   "type": "lab",
+   "fit": "M",
+   "city": "Cambridge",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.siemens.com/en-us/company/jobs/"
+  },
+  {
    "company": "Signal AI",
    "ats": "ashby",
    "slug": "signal-ai",
@@ -1375,6 +1543,30 @@
    "ukJobsAtDiscovery": 4
   },
   {
+   "company": "Snap Inc. (London)",
+   "ats": "page",
+   "slug": "https://careers.snap.com/jobs?lang=en-US",
+   "type": "lab",
+   "fit": "H",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://careers.snap.com/jobs?lang=en-US"
+  },
+  {
+   "company": "Solvo.ai",
+   "ats": "page",
+   "slug": "https://www.solvo.ai/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.solvo.ai/careers"
+  },
+  {
    "company": "Sona",
    "ats": "ashby",
    "slug": "sona",
@@ -1385,6 +1577,18 @@
    "source": "manual",
    "jobsAtDiscovery": 13,
    "ukJobsAtDiscovery": 13
+  },
+  {
+   "company": "SpAItial",
+   "ats": "ashby",
+   "slug": "spaitial",
+   "type": "startup",
+   "fit": "H",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 15,
+   "ukJobsAtDiscovery": 15
   },
   {
    "company": "Speechmatics",
@@ -1455,6 +1659,30 @@
    "ukJobsAtDiscovery": 19
   },
   {
+   "company": "Terra API",
+   "ats": "page",
+   "slug": "https://tryterra.co/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://tryterra.co/careers"
+  },
+  {
+   "company": "The Alan Turing Institute",
+   "ats": "ashby",
+   "slug": "alan",
+   "type": "lab",
+   "fit": "H",
+   "confidence": "low",
+   "enabled": false,
+   "source": "discovered",
+   "jobsAtDiscovery": 133,
+   "ukJobsAtDiscovery": 0
+  },
+  {
    "company": "Theia Insights",
    "ats": "workable",
    "slug": "theia-insights",
@@ -1465,6 +1693,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://apply.workable.com/theia-insights/"
+  },
+  {
+   "company": "Thermoteknix",
+   "ats": "personio",
+   "slug": "thermoteknix",
+   "type": "startup",
+   "fit": "M",
+   "city": "Cambridge area",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://thermoteknix.jobs.personio.com"
   },
   {
    "company": "Thought Machine",
@@ -1503,6 +1743,18 @@
    "ukJobsAtDiscovery": 1
   },
   {
+   "company": "Tripadvisor (London)",
+   "ats": "greenhouse",
+   "slug": "tripadvisor",
+   "type": "lab",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 81,
+   "ukJobsAtDiscovery": 42
+  },
+  {
    "company": "Trismik",
    "ats": "page",
    "slug": "https://trismik.com/careers",
@@ -1525,6 +1777,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://www.aisi.gov.uk/careers"
+  },
+  {
+   "company": "Ultralytics",
+   "ats": "ashby",
+   "slug": "ultralytics",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 15,
+   "ukJobsAtDiscovery": 5
   },
   {
    "company": "Ultromics",
@@ -1563,6 +1827,18 @@
    "via": "https://www.v7labs.com/careers"
   },
   {
+   "company": "Via (London)",
+   "ats": "greenhouse",
+   "slug": "via",
+   "type": "lab",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 181,
+   "ukJobsAtDiscovery": 11
+  },
+  {
    "company": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
@@ -1573,6 +1849,30 @@
    "source": "discovered",
    "jobsAtDiscovery": 157,
    "ukJobsAtDiscovery": 55
+  },
+  {
+   "company": "Xantura",
+   "ats": "pinpoint",
+   "slug": "xantura",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://xantura.com/careers/"
+  },
+  {
+   "company": "Zebra Technologies (London)",
+   "ats": "workday",
+   "slug": "zebra|wd501|Zebra_careers",
+   "type": "lab",
+   "fit": "M",
+   "city": "London",
+   "confidence": "high",
+   "enabled": true,
+   "source": "site",
+   "via": "https://www.zebra.com/us/en/about-zebra/careers.html"
   },
   {
    "company": "Zenithon",

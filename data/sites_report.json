@@ -1,634 +1,293 @@
 {
- "ranAt": "2026-10-26T11:56:40+00:00",
+ "ranAt": "2026-10-29T19:23:01+00:00",
  "results": [
   {
-   "company": "Google DeepMind",
-   "result": "no website found"
+   "company": "Gigaton",
+   "website": "https://gigaton.ai/",
+   "guessed": true,
+   "result": "no careers page found"
   },
   {
-   "company": "Nscale",
-   "website": "https://nscale.com",
-   "guessed": false,
+   "company": "OmniBuds",
+   "website": "https://www.omnibuds.tech",
+   "guessed": true,
    "result": "page",
    "ats": "page",
-   "slug": "https://www.nscale.com/careers",
-   "via": "https://www.nscale.com/careers",
+   "slug": "https://www.omnibuds.tech/careers",
+   "via": "https://www.omnibuds.tech/careers",
    "jobs": 0,
    "ukJobs": 0
   },
   {
-   "company": "Isembard",
-   "website": "https://isembard.com",
+   "company": "digiLab",
+   "website": "https://www.digilab.co.uk",
    "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Cera",
-   "website": "https://ceracare.co.uk",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://ceracare.co.uk/jobs",
-   "via": "https://ceracare.co.uk/jobs",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Charm Therapeutics",
-   "website": "https://charmtx.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "RHAELM",
-   "website": "https://rhaelm.com/",
-   "guessed": true,
-   "result": "platform (feed did not answer)",
-   "ats": "teamtailor",
-   "slug": "https://rhaelm.com",
-   "via": "https://rhaelm.com/careers",
-   "jobs": null
-  },
-  {
-   "company": "Jack & Jill",
-   "result": "no website found"
-  },
-  {
-   "company": "AI Pathfinder",
-   "website": "https://ai-pathfinder.com/",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Arrakis",
-   "website": "https://www.arrakis.tech/",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Paid",
-   "website": "https://paid.ai/",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Mosaic Therapeutics",
-   "result": "no website found"
-  },
-  {
-   "company": "Agon",
-   "result": "no website found"
-  },
-  {
-   "company": "Mantic",
-   "website": "https://mantic.com/",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "44pixels",
-   "website": "https://44pixels.ai/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://44pixels.ai/careers",
-   "via": "https://44pixels.ai/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Ethos",
-   "result": "no website found"
-  },
-  {
-   "company": "Scope",
-   "website": "https://scope.ai/",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Move.ai",
-   "website": "https://move.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Anam",
-   "website": "https://anam.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Etcembly",
-   "website": "https://etcembly.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "SafeNav",
-   "result": "no website found"
-  },
-  {
-   "company": "Marker",
-   "result": "no website found"
-  },
-  {
-   "company": "Opteran Technologies",
-   "website": "https://opteran.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://opteran.com/careers",
-   "via": "https://opteran.com/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "coding.bio",
-   "website": "https://coding.bio",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Outerlimit",
-   "result": "no website found"
-  },
-  {
-   "company": "Perceptic",
-   "website": "https://perceptic.com",
-   "guessed": true,
-   "result": "platform (feed did not answer)",
-   "ats": "teamtailor",
-   "slug": "https://perceptic.com",
-   "via": "https://perceptic.com/careers",
-   "jobs": null
-  },
-  {
-   "company": "Generative Engineering",
-   "result": "no website found"
-  },
-  {
-   "company": "Malted AI",
-   "website": "https://malted.ai",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://malted.ai/careers",
-   "via": "https://malted.ai/careers",
-   "jobs": 1,
-   "ukJobs": 1
-  },
-  {
-   "company": "Archestra",
-   "website": "https://archestra.ai/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://archestra.ai/careers",
-   "via": "https://archestra.ai/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "CellVoyant",
-   "website": "https://cellvoyant.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "ConnexAI",
-   "website": "https://connexai.com/",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "iProov",
-   "website": "https://iproov.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.iproov.com/careers",
-   "via": "https://www.iproov.com/careers",
+   "result": "platform",
+   "ats": "greenhouse",
+   "slug": "digilab",
+   "via": "https://www.digilab.ai/careers",
    "jobs": 6,
    "ukJobs": 6
   },
   {
-   "company": "Partly",
-   "result": "no website found"
-  },
-  {
-   "company": "Giraffe360",
-   "website": "https://giraffe360.com",
+   "company": "SpAItial",
+   "website": "https://www.spaitial.ai",
    "guessed": false,
-   "result": "no careers page found"
+   "result": "platform",
+   "ats": "ashby",
+   "slug": "spaitial",
+   "via": "https://spaitial.ai/careers",
+   "jobs": 15,
+   "ukJobs": 15
   },
   {
-   "company": "Realeyes",
-   "website": "https://realeyesit.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Pimloc",
-   "website": "https://pimloc.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Doubleword",
-   "website": "https://doubleword.ai",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://doubleword.ai/careers",
-   "via": "https://doubleword.ai/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Human Native AI",
-   "result": "no website found"
-  },
-  {
-   "company": "BlueSkeye AI",
-   "website": "https://blueskeye.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Palabra AI",
-   "website": "https://palabra.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Lucida",
-   "result": "no website found"
-  },
-  {
-   "company": "Arthos",
-   "website": "https://arthos.ai/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://arthos.ai/careers",
-   "via": "https://arthos.ai/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "emteq labs",
-   "website": "https://emteqlabs.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "NVISIQ",
-   "website": "https://nvisiq.com/",
+   "company": "SPAICE",
+   "website": "https://spaice.ai/",
    "guessed": true,
    "result": "no careers page found"
   },
   {
-   "company": "Auris Tech",
-   "result": "no website found"
-  },
-  {
-   "company": "Patchs Health",
-   "website": "https://patchs.ai",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://hub.patchs.ai/careers",
-   "via": "https://hub.patchs.ai/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Artclear",
-   "website": "https://www.artclear.com/",
+   "company": "Archer",
+   "website": "https://archer.com/",
+   "result": "platform",
+   "ats": "greenhouse",
+   "slug": "archer56",
+   "via": "https://archer.com/careers",
+   "rendered": true,
    "guessed": true,
-   "result": "no careers page found"
+   "jobs": 97,
+   "ukJobs": 2
   },
   {
-   "company": "Fyma",
-   "website": "https://fyma.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Hearable",
-   "website": "https://hearable.ai/",
+   "company": "Orbital Industries",
+   "website": "https://www.orbitalindustries.com:443/",
    "guessed": true,
-   "result": "no careers page found"
+   "result": "platform",
+   "ats": "ashby",
+   "slug": "orbitalindustries",
+   "via": "https://jobs.ashbyhq.com/orbitalindustries",
+   "jobs": 7,
+   "ukJobs": 5
   },
   {
-   "company": "Cattle Eye",
-   "website": "https://cattleeye.com",
+   "company": "Terra API",
+   "website": "https://tryterra.co",
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://cattleeye.com/en-gb/who-we-are/careers",
-   "via": "https://cattleeye.com/en-gb/who-we-are/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "slug": "https://tryterra.co/careers",
+   "via": "https://tryterra.co/careers",
+   "jobs": 5,
+   "ukJobs": 5
   },
   {
-   "company": "Element Human",
-   "website": "https://elementhuman.com",
+   "company": "CircuitHub",
+   "website": "https://circuithub.com",
    "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://elementhuman.com/vacancies",
-   "via": "https://elementhuman.com/vacancies",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "platform",
+   "ats": "ashby",
+   "slug": "circuithub",
+   "via": "https://www.circuithub.com/company/careers",
+   "jobs": 10,
+   "ukJobs": 8
   },
   {
-   "company": "DeepAlert",
-   "website": "https://deepalert.ai",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.deepalert.ai/careers/",
-   "via": "https://www.deepalert.ai/careers/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Tenyks",
-   "website": "https://tenyks.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "BIOS",
-   "website": "https://bios.health",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.bios.health/careers",
-   "via": "https://www.bios.health/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "CardiaTec",
-   "website": "https://cardiatec.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Intellegens",
-   "website": "https://intellegens.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://intellegens.com/about/careers/",
-   "via": "https://intellegens.com/about/careers/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Conundrum",
-   "website": "https://conundrum.ai",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "PharmEnable",
-   "website": "https://pharmenable.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://pharmenabletx.com/careers/",
-   "via": "https://pharmenabletx.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Trismik",
-   "website": "https://trismik.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://trismik.com/careers",
-   "via": "https://trismik.com/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Psyomics",
-   "website": "https://psyomics.com",
-   "guessed": false,
-   "result": "no careers page found"
-  },
-  {
-   "company": "TidalSense",
-   "website": "https://tidalsense.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://tidalsense.com/careers/",
-   "via": "https://tidalsense.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Decorte Future Industries",
-   "website": "https://decorte.co.uk/",
+   "company": "Solvo.ai",
+   "website": "https://www.solvo.ai/",
    "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "CMR Surgical",
-   "website": "https://cmrsurgical.com",
-   "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://us.cmrsurgical.com/careers",
-   "via": "https://us.cmrsurgical.com/careers",
+   "slug": "https://www.solvo.ai/careers",
+   "via": "https://www.solvo.ai/careers",
    "jobs": 2,
    "ukJobs": 2
   },
   {
-   "company": "Automata",
-   "website": "https://automata.tech",
+   "company": "Ultralytics",
+   "website": "https://www.ultralytics.com",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://www.ultralytics.com/careers",
+   "via": "https://www.ultralytics.com/careers",
+   "jobs": 0,
+   "ukJobs": 0
+  },
+  {
+   "company": "Perspectum",
+   "website": "https://www.perspectum.com",
    "guessed": false,
    "result": "no careers page found"
   },
   {
-   "company": "NavLive",
-   "website": "https://navlive.ai",
+   "company": "Xantura",
+   "website": "https://www.xantura.com",
+   "result": "platform",
+   "ats": "pinpoint",
+   "slug": "xantura",
+   "via": "https://xantura.com/careers/",
+   "rendered": true,
    "guessed": false,
-   "result": "no careers page found"
+   "jobs": 5,
+   "ukJobs": 5
   },
   {
-   "company": "Astut",
-   "website": "https://astut.co.uk",
-   "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Stateful Robotics",
-   "website": "https://statefulrobotics.com/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "via": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Optellum",
-   "website": "https://optellum.com",
+   "company": "Oxford Quantum Circuits",
+   "website": "https://oqc.tech",
    "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://optellum.com/careers",
-   "via": "https://optellum.com/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "platform",
+   "ats": "workable",
+   "slug": "oxford-quantum-circuits-8",
+   "via": "https://oqc.tech/company/careers-at-oqc/",
+   "jobs": 34,
+   "ukJobs": 28
   },
   {
-   "company": "Ultromics",
-   "website": "https://ultromics.com",
+   "company": "Thermoteknix",
+   "website": "https://www.thermoteknix.com",
    "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.ultromics.com/about/careers",
-   "via": "https://www.ultromics.com/about/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "platform",
+   "ats": "personio",
+   "slug": "thermoteknix",
+   "via": "https://thermoteknix.jobs.personio.com",
+   "jobs": 7,
+   "ukJobs": 7
   },
   {
-   "company": "Chemify",
-   "website": "https://chemify.io",
+   "company": "G-Research",
+   "website": "https://www.gresearch.com",
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://www.chemify.io/careers",
-   "via": "https://www.chemify.io/careers",
-   "jobs": 16,
-   "ukJobs": 16
+   "slug": "https://www.gresearch.com/vacancies/",
+   "via": "https://www.gresearch.com/vacancies/",
+   "jobs": 58,
+   "ukJobs": 58
   },
   {
-   "company": "Evident Insights",
-   "website": "https://evidentinsights.com/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://evidentinsights.com/careers",
-   "via": "https://evidentinsights.com/careers",
-   "jobs": 1,
-   "ukJobs": 1
-  },
-  {
-   "company": "Zenithon",
-   "website": "https://zenithon.ai/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://zenithon.ai/careers",
-   "via": "https://zenithon.ai/careers",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Kheiron Medical",
-   "website": "https://kheironmed.com",
-   "guessed": false,
-   "result": "page (feed did not answer)",
-   "ats": "page",
-   "slug": "https://deephealth.com/careers/",
-   "via": "https://deephealth.com/careers/",
-   "jobs": null
-  },
-  {
-   "company": "Huma",
-   "website": "https://huma.com",
+   "company": "Snap Inc. (London)",
+   "website": "https://snap.com",
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://www.huma.com/careers",
-   "via": "https://www.huma.com/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "slug": "https://careers.snap.com/jobs?lang=en-US",
+   "via": "https://careers.snap.com/jobs?lang=en-US",
+   "jobs": 120,
+   "ukJobs": 120
   },
   {
-   "company": "Conjecture",
-   "website": "https://conjecture.dev",
-   "guessed": false,
-   "result": "platform (feed did not answer)",
-   "ats": "lever",
-   "slug": "Conjecture",
-   "via": "https://jobs.lever.co/Conjecture/d0f49652-e2ba-4dc5-ba7a-7822b5fb2cbf",
-   "jobs": null
-  },
-  {
-   "company": "LabGenius",
-   "website": "https://labgenius.com",
+   "company": "Autodesk (London)",
+   "website": "https://www.autodesk.com",
    "result": "website not reachable"
   },
   {
-   "company": "Robin AI",
-   "website": "https://robinai.com",
+   "company": "Zebra Technologies (London)",
+   "website": "https://www.zebra.com",
    "guessed": false,
-   "result": "platform (feed did not answer)",
+   "result": "platform",
+   "ats": "workday",
+   "slug": "zebra|wd501|Zebra_careers",
+   "via": "https://www.zebra.com/us/en/about-zebra/careers.html",
+   "jobs": 251,
+   "ukJobs": 17
+  },
+  {
+   "company": "Tripadvisor (London)",
+   "website": "https://www.tripadvisor.com",
+   "result": "website not reachable"
+  },
+  {
+   "company": "Entrust (London)",
+   "website": "https://www.entrust.com",
+   "result": "website not reachable"
+  },
+  {
+   "company": "Via (London)",
+   "website": "https://ridewithvia.com",
+   "guessed": false,
+   "result": "platform",
+   "ats": "greenhouse",
+   "slug": "via",
+   "via": "https://ridewithvia.com/careers/jobs",
+   "jobs": 181,
+   "ukJobs": 11
+  },
+  {
+   "company": "ASOS",
+   "website": "https://www.asos.com",
+   "result": "website not reachable"
+  },
+  {
+   "company": "Flo Health",
+   "website": "https://flo.health",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://flo.health/careers",
+   "via": "https://flo.health/careers",
+   "jobs": 0,
+   "ukJobs": 0
+  },
+  {
+   "company": "iwoca",
+   "website": "https://www.iwoca.co.uk",
+   "guessed": false,
+   "result": "platform",
    "ats": "ashby",
-   "slug": "robin-ai",
-   "via": "https://robinai.com/company",
-   "jobs": null
+   "slug": "iwoca.co.uk",
+   "via": "https://www.iwoca.co.uk/careers",
+   "jobs": 61,
+   "ukJobs": 40
   },
   {
-   "company": "LASR Labs (Arcadia Impact)",
-   "website": "https://lasrlabs.org",
+   "company": "Compare the Market",
+   "website": "https://www.comparethemarket.com",
+   "result": "website not reachable"
+  },
+  {
+   "company": "American Express Global Business Travel",
+   "website": "https://www.amexglobalbusinesstravel.com",
+   "result": "platform",
+   "ats": "workday",
+   "slug": "travelhrportal|wd1|Jobs",
+   "via": "https://www.amexglobalbusinesstravel.com/au/about/careers/",
+   "rendered": true,
    "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.lasrlabs.org/careers",
-   "via": "https://www.lasrlabs.org/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "jobs": 400,
+   "ukJobs": 24
   },
   {
-   "company": "Cooperative AI Foundation",
-   "website": "https://cooperativeai.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships",
-   "via": "https://www.cooperativeai.com/post/supporting-early-career-researchers-with-our-recent-partnerships",
-   "jobs": 0,
-   "ukJobs": 0
-  },
-  {
-   "company": "Centre for the Governance of AI",
-   "website": "https://governance.ai",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.governance.ai/opportunities",
-   "via": "https://www.governance.ai/opportunities",
-   "jobs": 4,
-   "ukJobs": 4
-  },
-  {
-   "company": "Leap Labs",
-   "website": "https://leap-labs.com",
+   "company": "MediaTek (Cambridge)",
+   "website": "https://www.mediatek.com",
    "guessed": false,
    "result": "no careers page found"
   },
   {
-   "company": "MATS",
-   "website": "https://matsprogram.org",
+   "company": "Cambridge Consultants",
+   "website": "https://www.cambridgeconsultants.com",
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://www.matsprogram.org/careers",
-   "via": "https://www.matsprogram.org/careers",
-   "jobs": 4,
-   "ukJobs": 4
+   "slug": "https://www.cambridgeconsultants.com/careers/",
+   "via": "https://www.cambridgeconsultants.com/careers/",
+   "jobs": 42,
+   "ukJobs": 42
+  },
+  {
+   "company": "The Alan Turing Institute",
+   "website": "https://www.turing.ac.uk",
+   "result": "website not reachable"
+  },
+  {
+   "company": "Siemens Digital Industries Software (Cambridge)",
+   "website": "https://www.sw.siemens.com",
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://www.siemens.com/en-us/company/jobs/",
+   "via": "https://www.siemens.com/en-us/company/jobs/",
+   "jobs": 8,
+   "ukJobs": 8
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T07:11:23+00:00",
+ "generatedAt": "2026-10-29T19:23:01+00:00",
  "jobs": [
   {
    "id": "gh-anthropic-5445760008",
@@ -23,7 +23,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-16T05:55:08+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -49,7 +49,236 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046959amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Computer Vision & Machine Learning Engineer, Photon-Efficient Event-Driven Imaging",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046959&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "vision"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046958amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Computer Vision & Machine Learning Engineer, Photon-Efficient Event-Driven Imaging",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046958&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "vision"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046894amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer, Generative AI (Image & Video)",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046894&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "vision",
+    "llm"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-3bc2cc9e-cba",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Engineer - 3D Reconstruction",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/3bc2cc9e-cba0-494d-b742-80cbb105283b",
+   "posted": "2026-10-05",
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering",
+    "vision"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-e3eaeee7-27d",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Engineer - 3D World Models",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/e3eaeee7-27db-4fa9-9e72-505d24457603",
+   "posted": "2026-03-24",
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering",
+    "vision"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-b0ab6083-efb",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Scientist - 3D Diffusion",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/b0ab6083-efbb-43df-b192-3746a51293b1",
+   "posted": "2026-03-29",
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "vision"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-28838287-136",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Scientist - 3D Reconstruction & Novel View Synthesis",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/28838287-1364-49a7-b842-920525666f61",
+   "posted": "2026-10-05",
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "vision"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-95156fda-c47",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Scientist - 3D Reconstruction (SfM & SLAM)",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/95156fda-c473-4c6c-a8e0-c155f4ac34a2",
+   "posted": "2026-08-20",
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your computer vision and perception / autonomy and robotics background; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "vision",
+    "autonomy"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-d20af35b-eb1",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Scientist - Robot Learning (VLA / WAM)",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/d20af35b-eb1c-49e5-a155-72d771fae4a7",
+   "posted": "2026-08-20",
+   "closes": null,
+   "salary": null,
+   "score": 5,
+   "why": "Core research or ML engineering role; matches your autonomy and robotics background; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "autonomy"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -74,7 +303,32 @@
    ],
    "source": "jobs.ac.uk",
    "firstSeen": "2026-10-28T06:53:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000148327",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior AI Engineer – Machine Learning (Computer Vision)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000148327939",
+   "posted": "2026-09-08",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background.",
+   "level": "senior",
+   "tags": [
+    "engineering",
+    "vision"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -98,7 +352,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -122,7 +376,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -146,7 +400,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -170,7 +424,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -195,7 +449,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -220,7 +474,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -245,7 +499,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -270,7 +524,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -295,7 +549,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -320,7 +574,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -344,7 +598,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -369,7 +623,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -394,7 +648,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -420,7 +674,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-29T07:11:23+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-29T19:23:01+00:00"
   },
   {
    "id": "ashby-basecamp-research-6f4c5c1f-b14",
@@ -444,7 +699,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-29T07:11:23+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-29T19:23:01+00:00"
   },
   {
    "id": "gem-boltz-am9icG9zdDqXEgMphEu-MTGS",
@@ -468,7 +724,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -492,7 +748,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -517,7 +773,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -542,7 +798,7 @@
    ],
    "source": "gem",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -567,7 +823,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-27T06:21:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -619,7 +875,7 @@
    ],
    "source": "bamboohr",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -643,7 +899,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -668,7 +924,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -692,7 +948,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -717,7 +973,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -741,7 +997,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -765,7 +1021,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -789,7 +1045,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -813,7 +1069,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -837,7 +1093,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -861,7 +1117,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -885,7 +1141,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -910,7 +1166,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -934,7 +1190,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -958,7 +1214,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -982,7 +1238,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -990,8 +1246,9 @@
    "company": "CuspAI",
    "companyType": "startup",
    "title": "Applied AI/ML Engineer (Agents)",
-   "location": "Amsterdam, NL; Cambridge, UK; Berlin, DE; Netherlands",
+   "location": "Amsterdam, NL; London, UK; Berlin, DE; Cambridge, UK; Netherlands",
    "cities": [
+    "london",
     "cambridge"
    ],
    "url": "https://jobs.ashbyhq.com/cuspai/916e1489-6624-4a87-90e6-218dc7ebb6fb",
@@ -1007,7 +1264,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1015,8 +1272,9 @@
    "company": "CuspAI",
    "companyType": "startup",
    "title": "Research Engineer (Materials Foundation Models)",
-   "location": "Cambridge, UK; Amsterdam, NL; Berlin, DE; United Kingdom",
+   "location": "Cambridge, UK; Amsterdam, NL; London, UK; Berlin, DE; United Kingdom",
    "cities": [
+    "london",
     "cambridge"
    ],
    "url": "https://jobs.ashbyhq.com/cuspai/db0dfa5a-1556-4c60-bc94-ab41a087ab69",
@@ -1033,7 +1291,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-14T10:21:23+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1055,7 +1313,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-22T06:09:50+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1078,7 +1336,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1101,7 +1359,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1124,7 +1382,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1147,7 +1405,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1172,7 +1430,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1195,7 +1453,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1219,7 +1477,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1241,7 +1499,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1265,7 +1523,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1289,7 +1547,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1313,7 +1571,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1337,7 +1595,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1361,7 +1619,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-22T06:09:50+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1383,7 +1641,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1407,7 +1665,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1431,7 +1689,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1455,7 +1713,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1479,7 +1737,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1503,7 +1761,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1527,7 +1785,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1551,7 +1809,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1575,7 +1833,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1597,7 +1855,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1621,7 +1879,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1645,7 +1903,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1669,7 +1927,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1693,7 +1951,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1717,7 +1975,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1741,7 +1999,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1765,7 +2023,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1789,7 +2047,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1813,7 +2071,225 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-chcomvacanciesaiengineer",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Applied AI Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/ai-engineer/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-anciessoftwareengineerai",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Core AI Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/software-engineer-ai/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-emachinelearningengineer",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Graduate Machine Learning Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/graduate-machine-learning-engineer/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-machinelearningengineer2",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/machine-learning-engineer-2/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-smachinelearningengineer",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/machine-learning-engineer/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "hn-49966427-machinelearningengin",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer: https://www.gresearch.com/vacancies/machine-learning-engineer-2/",
+   "location": "London, UK",
+   "cities": [
+    "london"
+   ],
+   "url": "https://news.ycombinator.com/item?id=49966427",
+   "posted": "2026-10-05",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Posted in HN \"Ask HN: Who is hiring? (October 2026)\".",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "hackernews",
+   "firstSeen": "2026-10-13T22:54:59+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-acanciesresearchengineer",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Research Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/research-engineer/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-gigaton-53ce7fe3-b52",
+   "company": "Gigaton",
+   "companyType": "startup",
+   "title": "Machine Learning Engineer",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/gigaton/53ce7fe3-b521-4ba0-ab1a-927525345754",
+   "posted": "2026-09-11",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-gigaton-f4e56f06-08b",
+   "company": "Gigaton",
+   "companyType": "startup",
+   "title": "Research Scientist - Control & Machine Learning",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/gigaton/f4e56f06-08bf-4a26-bf8a-2256cb1361a9",
+   "posted": "2026-10-20",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1838,7 +2314,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1863,7 +2339,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1887,7 +2363,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1911,7 +2387,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1936,7 +2412,32 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-humanoid-122185dd-16f",
+   "company": "Humanoid",
+   "companyType": "startup",
+   "title": "Robotics Applied Research Lead",
+   "location": "UK, London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/humanoid/122185dd-16f2-4051-9e23-cd9339bfc30c",
+   "posted": "2026-10-29",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Matches your autonomy and robotics background; employer close to your interests.",
+   "level": "senior",
+   "tags": [
+    "research",
+    "autonomy"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1960,7 +2461,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -1985,7 +2486,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2010,7 +2511,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2035,7 +2536,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2059,7 +2560,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2084,7 +2585,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2108,7 +2609,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-20T06:06:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2133,7 +2634,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2159,7 +2660,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2184,7 +2685,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2208,7 +2709,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2233,7 +2734,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-24T05:58:47+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2257,7 +2758,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2281,7 +2782,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2305,7 +2806,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2329,7 +2830,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2354,7 +2855,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2379,7 +2880,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2404,7 +2905,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2429,7 +2930,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2454,7 +2955,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2478,7 +2979,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2500,7 +3001,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2524,7 +3025,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2548,7 +3049,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2574,7 +3075,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2598,7 +3099,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2622,7 +3123,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2646,7 +3147,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2670,7 +3171,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2694,7 +3195,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2718,7 +3219,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2743,7 +3244,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-21T06:06:29+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2767,7 +3268,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2792,7 +3293,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2817,7 +3318,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2842,7 +3343,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2867,7 +3368,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2892,7 +3393,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-21T06:06:29+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2917,7 +3418,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2942,7 +3443,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2967,7 +3468,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -2992,7 +3493,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3016,7 +3517,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3041,7 +3542,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3065,7 +3566,32 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-orbitalindustries-0405b3d7-c13",
+   "company": "Orbital Industries",
+   "companyType": "startup",
+   "title": "Machine Learning Research Engineer",
+   "location": "London, UK; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/orbitalindustries/0405b3d7-c134-43e4-a7af-a9763a5bf3d9",
+   "posted": "2026-02-16",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3090,7 +3616,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-29T07:11:23+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3115,7 +3641,30 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-29T07:11:23+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "wk-oxford-quantum-circuits-8-13C46FB545",
+   "company": "Oxford Quantum Circuits",
+   "companyType": "startup",
+   "title": "Applied Scientist (Computer Vision)",
+   "location": "Reading, England, United Kingdom; Reading, United Kingdom",
+   "cities": [],
+   "url": "https://apply.workable.com/j/13C46FB545",
+   "posted": "2026-09-25",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; matches your computer vision and perception background.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "vision"
+   ],
+   "source": "workable",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3139,7 +3688,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3163,7 +3712,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3188,7 +3737,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3213,7 +3762,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3237,7 +3786,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3262,7 +3811,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3312,7 +3861,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3338,7 +3887,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3390,7 +3939,300 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0047014amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Computational Imaging Engineer",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0047014&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Matches your computer vision and perception background; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "vision"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0045907amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Computer Vision Engineer, Data Capture",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0045907&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Matches your computer vision and perception background; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "vision"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0047006amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0047006&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046616amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer, Causal Inference, Level 5",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046616&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-idH226SWEGML3amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer, Generative ML, Level 4",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=H226SWEGML3&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-bidQ426SWEML3amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer, Level 4",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=Q426SWEML3&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-bidQ426SWEML5amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer, Level 5",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=Q426SWEML5&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0047092amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer, Revenue+, Level 5",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0047092&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046981amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Research Engineer",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046981&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0044935amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Research Scientist, Research",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0044935&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-ac3e0ce1-eba",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Engineer - Graphics",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/ac3e0ce1-ebaf-4ce4-b753-7661368996fe",
+   "posted": "2026-02-05",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-2dcd754e-7e0",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Research Scientist - World Models",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/2dcd754e-7e0f-4355-b315-30897079cdc5",
+   "posted": "2026-02-05",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3414,7 +4256,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3438,7 +4280,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3486,7 +4328,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3510,7 +4352,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3532,7 +4374,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3557,7 +4399,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3581,7 +4423,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3605,7 +4447,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3654,7 +4496,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3679,7 +4521,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3703,7 +4545,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3727,7 +4569,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3752,7 +4594,31 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-digilab-4982995101",
+   "company": "digiLab",
+   "companyType": "startup",
+   "title": "AI Scientist",
+   "location": "Bristol, Exeter, London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.eu.greenhouse.io/digilab/jobs/4982995101",
+   "posted": "2026-09-22",
+   "closes": null,
+   "salary": null,
+   "score": 4,
+   "why": "Core research or ML engineering role; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3776,7 +4642,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3800,7 +4666,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-29T07:11:23+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3824,7 +4690,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-24T05:58:47+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3848,7 +4714,175 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000157484",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Applied Scientist",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000157484844",
+   "posted": "2026-10-23",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000158353",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000158353559",
+   "posted": "2026-10-28",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000152723",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior AI Engineer (AI Platform)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000152723669",
+   "posted": "2026-09-30",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000157097",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior Machine Learning Engineer (MLOps)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000157097789",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000157095",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior Machine Learning Engineer (Personalisation)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000157095804",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000157096",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior Machine Learning Engineer (Recommendations/Search)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000157096405",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000127827",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior Machine Learning Scientist (Personalisation)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000127827561",
+   "posted": "2026-05-22",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "research"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3870,7 +4904,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-28T06:53:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3894,7 +4928,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3943,7 +4977,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-29T07:11:23+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3965,7 +4999,7 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -3987,7 +5021,7 @@
    "tags": [],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4011,7 +5045,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4035,7 +5069,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4059,7 +5093,7 @@
    ],
    "source": "lever",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4084,7 +5118,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4109,7 +5143,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4134,7 +5168,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4156,7 +5190,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4179,7 +5213,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4203,7 +5237,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4228,7 +5262,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4252,7 +5286,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4276,7 +5310,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4300,7 +5334,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4325,7 +5359,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4349,7 +5383,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4374,7 +5408,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4399,7 +5433,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4423,7 +5457,105 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4983437101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "Agentic AI Engineer (Defence & Security)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/agentic-ai-engineer-defence-security/?gh_jid=4983437101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4995814101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "Graduate AI Engineer (2027 start)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/graduate-ai-engineer-2027-start/?gh_jid=4995814101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4971959101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "Graduate Human-Centric AI Engineer (2027 start)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/graduate-human-centric-ai-engineer-2027-start/?gh_jid=4971959101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4995382101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "Graduate Mechanical/Biomedical Engineer (2027 start)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/graduate-mechanical-biomedical-engineer-2027-start/?gh_jid=4995382101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Matches your medical and healthcare AI background. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering",
+    "health"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4447,7 +5579,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-28T06:53:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4471,7 +5603,59 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-circuithub-9f5af2f6-369",
+   "company": "CircuitHub",
+   "companyType": "startup",
+   "title": "Software Engineer, Computer Vision",
+   "location": "Remote; London, UK; Cambridge, UK",
+   "cities": [
+    "london",
+    "cambridge"
+   ],
+   "url": "https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14",
+   "posted": "2026-10-19",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Matches your computer vision and perception background.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "vision"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-circuithub-e398bbfc-428",
+   "company": "CircuitHub",
+   "companyType": "startup",
+   "title": "Software Engineer, Robotics",
+   "location": "Remote; London, UK; Cambridge, UK",
+   "cities": [
+    "london",
+    "cambridge"
+   ],
+   "url": "https://jobs.ashbyhq.com/circuithub/e398bbfc-4286-466e-a621-235cdb60a0bd",
+   "posted": "2026-10-19",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Matches your autonomy and robotics background.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "autonomy"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4495,7 +5679,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4519,7 +5703,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4565,7 +5749,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4589,7 +5773,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4638,7 +5822,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4663,7 +5847,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4688,7 +5872,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4713,7 +5897,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-22T06:09:50+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4738,7 +5922,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4763,7 +5947,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4788,7 +5972,55 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-flohealth-8039864003",
+   "company": "Flo Health",
+   "companyType": "startup",
+   "title": "Machine Learning Engineer",
+   "location": "London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/flohealth/jobs/8039864003",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-flohealth-7573482003",
+   "company": "Flo Health",
+   "companyType": "startup",
+   "title": "Senior AI/ML engineer",
+   "location": "London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/flohealth/jobs/7573482003",
+   "posted": "2025-12-29",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4813,7 +6045,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4862,7 +6094,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4887,14 +6119,111 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
-   "id": "hn-49966427-machinelearningengin",
+   "id": "pg-wwwgresearchcomvacancies-nelearningengineerintern",
    "company": "G-Research",
-   "companyType": "startup",
-   "title": "Machine Learning Engineer: https://www.gresearch.com/vacancies/machine-learning-engineer-2/",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer Internship London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/machine-learning-engineer-intern/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role; internship; employer close to your interests. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-achinelearningresearcher",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Machine Learning Researcher London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/machine-learning-researcher/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-learningworkflowengineer",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Machine Learning Workflow Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/machine-learning-workflow-engineer/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-esnlpperformanceengineer",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "NLP Performance Engineer London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/nlp-performance-engineer/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "hn-49966427-nlpperformanceengine",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "NLP Performance Engineer: https://www.gresearch.com/vacancies/nlp-performance-engineer/",
    "location": "London, UK",
    "cities": [
     "london"
@@ -4904,15 +6233,116 @@
    "closes": null,
    "salary": null,
    "score": 3,
-   "why": "Core research or ML engineering role. Posted in HN \"Ask HN: Who is hiring? (October 2026)\".",
+   "why": "Employer close to your interests. Posted in HN \"Ask HN: Who is hiring? (October 2026)\".",
    "level": "mid",
    "tags": [
     "research",
-    "engineering"
+    "engineering",
+    "llm"
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-uageprocessingresearcher",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Natural Language Processing Researcher London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/natural-language-processing-researcher/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "llm"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-iveresearcherexperienced",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Quantitative Researcher – Experienced London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/quantitative-researcher-experienced/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-undamentalequityresearch",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Quantitative Researcher – Fundamental Equity Research London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/quantitative-researcher-fundamental-equity-research/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-veresearcherpostgraduate",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Quantitative Researcher – Postgraduate London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4936,7 +6366,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4961,7 +6391,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -4985,7 +6415,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5009,7 +6439,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5031,7 +6461,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5053,7 +6483,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5077,7 +6507,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5102,7 +6532,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5126,7 +6556,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5150,7 +6580,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5174,7 +6604,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-15T10:07:10+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5198,7 +6628,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5222,7 +6652,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5246,7 +6676,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5270,7 +6700,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5294,7 +6724,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5318,7 +6748,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5342,7 +6772,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5366,7 +6796,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5390,7 +6820,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-24T05:58:47+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5414,7 +6844,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5465,7 +6895,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5489,7 +6919,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5514,7 +6944,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5536,7 +6966,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5558,7 +6988,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5582,7 +7012,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5607,7 +7037,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5631,7 +7061,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5655,7 +7085,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5677,7 +7107,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5699,7 +7129,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5721,7 +7151,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-26T06:21:20+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5745,7 +7175,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5769,7 +7199,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5793,7 +7223,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5817,7 +7247,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5841,7 +7271,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5863,7 +7293,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5940,7 +7370,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -5990,7 +7420,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-26T11:56:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6015,7 +7445,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-26T11:56:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6039,7 +7469,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-26T11:56:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6066,6 +7496,150 @@
    "lastSeen": "2026-10-27T06:21:53+00:00",
    "active": false,
    "closedSeen": "2026-10-28T06:53:53+00:00"
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidQ426DSA4amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Data Scientist, Level 4",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=Q426DSA4&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Data science role; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046848amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Lead Data Scientist, Core, Level 6",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046848&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Data science role; employer close to your interests. Found on the company's careers page.",
+   "level": "senior",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwsolvoaicareers-ehtmlidappliedmlengineer",
+   "company": "Solvo.ai",
+   "companyType": "startup",
+   "title": "Applied ML Engineer Engineering London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.solvo.ai/role.html?id=applied-ml-engineer",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-8194e234-dbd",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Go-to-Market Associate (Enterprise AI)",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/8194e234-dbde-42f9-835b-c1ade94d6359",
+   "posted": "2026-10-23",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests.",
+   "level": "mid",
+   "tags": [],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-40802930-88d",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "ML Inference Engineer",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/40802930-88dd-4922-a9ef-2549f241e71a",
+   "posted": "2026-10-05",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-1cf5f91a-9f6",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Machine Learning & Cloud Infra Engineer",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/1cf5f91a-9f66-48a8-aaee-18a18349785d",
+   "posted": "2026-04-14",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
   },
   {
    "id": "gh-speechmatics-4990874101",
@@ -6114,6 +7688,129 @@
    "closedSeen": "2026-10-29T07:11:23+00:00"
   },
   {
+   "id": "pg-tryterracocareers-8b484d68b0f8a6940778fa59",
+   "company": "Terra API",
+   "companyType": "startup",
+   "title": "AI Engineer London or San Francisco · On-site Apply",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://revolutpeople.com/terraapi/public/careers/position/ai-engineer-3697daad-8b48-4d68-b0f8-a6940778fa59",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-tryterracocareers-193e42028e3caa7f9193aa59",
+   "company": "Terra API",
+   "companyType": "startup",
+   "title": "AI and Health Researcher Data Science · London · On-site Apply",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://revolutpeople.com/terraapi/public/careers/position/ai-and-health-researcher-18edb6b3-193e-4202-8e3c-aa7f9193aa59",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Matches your medical and healthcare AI background; data science role. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science",
+    "health"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ps-thermoteknix-2858614",
+   "company": "Thermoteknix",
+   "companyType": "startup",
+   "title": "AI & Image Processing Scientist",
+   "location": "Cambridge (UK)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://thermoteknix.jobs.personio.de/job/2858614",
+   "posted": "2026-10-23",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Matches your computer vision and perception background.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "vision"
+   ],
+   "source": "personio",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-tripadvisor-8208373",
+   "company": "Tripadvisor (London)",
+   "companyType": "lab",
+   "title": "Machine Learning Scientist",
+   "location": "London, United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8208373",
+   "posted": "2026-09-16",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-tripadvisor-7966680",
+   "company": "Tripadvisor (London)",
+   "companyType": "lab",
+   "title": "Senior Machine Learning Scientist (Experiences)",
+   "location": "London, United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7966680",
+   "posted": "2026-05-29",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "senior",
+   "tags": [
+    "research"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
    "id": "jacuk-DTJ272",
    "company": "University of Oxford",
    "companyType": "academic",
@@ -6134,7 +7831,7 @@
    ],
    "source": "jobs.ac.uk",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6159,7 +7856,7 @@
    ],
    "source": "jobs.ac.uk",
    "firstSeen": "2026-10-22T06:09:50+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6209,7 +7906,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6234,7 +7931,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-24T05:58:47+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6259,7 +7956,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6283,7 +7980,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-27T06:21:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6307,7 +8004,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6331,7 +8028,55 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pp-xantura-565121",
+   "company": "Xantura",
+   "companyType": "startup",
+   "title": "Machine Learning Engineer",
+   "location": "London, Southwark, London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://xantura.pinpointhq.com/en/postings/fdfd6308-0a6a-48d7-b780-7e7d83070d85",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "pinpoint",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "wd-zebrawd501Zebracareers-JR103025",
+   "company": "Zebra Technologies (London)",
+   "companyType": "lab",
+   "title": "AI Research Scientist",
+   "location": "London, United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/London-United-Kingdom/AI-Research-Scientist_JR103025",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "workday",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6355,7 +8100,102 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-digilab-4960883101",
+   "company": "digiLab",
+   "companyType": "startup",
+   "title": "Senior Software Engineer (Machine Learning)",
+   "location": "Exeter, Bristol",
+   "cities": [],
+   "url": "https://job-boards.eu.greenhouse.io/digilab/jobs/4960883101",
+   "posted": "2026-08-26",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Employer close to your interests.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-ef47521d-08d",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Applied AI Engineer - Direct Acquisition",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/ef47521d-08d9-40a1-9b2f-dde50c6b0344",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 3,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000157124",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior AI / LLM Engineer",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000157124664",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "senior",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "sr-asos-744000157490",
+   "company": "ASOS",
+   "companyType": "lab",
+   "title": "Senior Engineering Lead (FinTech AI)",
+   "location": "London, gb",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.smartrecruiters.com/asos/744000157490209",
+   "posted": "2026-10-23",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "smartrecruiters",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6380,7 +8220,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6405,7 +8245,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-27T06:21:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6430,7 +8270,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-28T06:53:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6454,7 +8294,7 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-21T06:06:29+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6476,7 +8316,7 @@
    "tags": [],
    "source": "amazon",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6498,7 +8338,31 @@
    "tags": [],
    "source": "amazon",
    "firstSeen": "2026-10-29T07:11:23+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "wd-travelhrportalwd1Jobs-J-85419",
+   "company": "American Express Global Business Travel",
+   "companyType": "lab",
+   "title": "Machine Learning Engineer I",
+   "location": "London, United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/London-United-Kingdom/Machine-Learning-Engineer-I_J-85419",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Core research or ML engineering role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "workday",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6518,7 +8382,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6542,7 +8406,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6564,7 +8428,80 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4937034101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "AI & Algorithms Engineer (Defence & Security)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/senior-ai-algorithms-engineer-defence-security/?gh_jid=4937034101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4889141101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "Graduate AI and Secure Technologies Engineer (2026 start)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/graduate-ai-and-secure-technologies-engineer-2026-start/?gh_jid=4889141101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4995743101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "Mechanical/Biomedical Engineering Internship (2027 start)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/medical-biomedical-engineering-internship-2027-start/?gh_jid=4995743101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Matches your medical and healthcare AI background; internship. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "engineering",
+    "health"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6586,7 +8523,32 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-circuithub-52a918be-07d",
+   "company": "CircuitHub",
+   "companyType": "startup",
+   "title": "Software Engineer, Applied AI",
+   "location": "Remote; London, UK; Cambridge, UK",
+   "cities": [
+    "london",
+    "cambridge"
+   ],
+   "url": "https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5",
+   "posted": "2026-10-19",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6606,7 +8568,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6630,7 +8592,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6654,7 +8616,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-23T06:05:13+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6676,7 +8638,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6750,7 +8712,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6772,7 +8734,7 @@
    "tags": [],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6796,7 +8758,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6820,7 +8782,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6845,33 +8807,79 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
-   "id": "hn-49966427-nlpperformanceengine",
+   "id": "pg-wwwgresearchcomvacancies-iesdatascienceinternship",
    "company": "G-Research",
-   "companyType": "startup",
-   "title": "NLP Performance Engineer: https://www.gresearch.com/vacancies/nlp-performance-engineer/",
-   "location": "London, UK",
+   "companyType": "lab",
+   "title": "Data Science Internship London",
+   "location": "London (assumed)",
    "cities": [
     "london"
    ],
-   "url": "https://news.ycombinator.com/item?id=49966427",
-   "posted": "2026-10-05",
+   "url": "https://www.gresearch.com/vacancies/data-science-internship/",
+   "posted": null,
    "closes": null,
    "salary": null,
    "score": 2,
-   "why": "Relevant ML or data role. Posted in HN \"Ask HN: Who is hiring? (October 2026)\".",
-   "level": "mid",
+   "why": "Internship; data science role; employer close to your interests. Found on the company's careers page.",
+   "level": "early",
    "tags": [
-    "research",
-    "engineering",
+    "data science"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-arningresearchinternship",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Machine Learning Research Internship London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/machine-learning-research-internship/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Internship; employer close to your interests. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "research"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwgresearchcomvacancies-uageprocessinginternship",
+   "company": "G-Research",
+   "companyType": "lab",
+   "title": "Natural Language Processing Internship London",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://www.gresearch.com/vacancies/natural-language-processing-internship/",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Internship; employer close to your interests. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
     "llm"
    ],
-   "source": "hackernews",
-   "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6895,7 +8903,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6919,7 +8927,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6943,7 +8951,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6966,7 +8974,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -6989,7 +8997,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7011,7 +9019,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7035,7 +9043,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7059,7 +9067,7 @@
    ],
    "source": "workable",
    "firstSeen": "2026-10-13T19:25:40+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7083,7 +9091,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7105,7 +9113,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7151,7 +9159,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7174,7 +9182,32 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "wk-oxford-quantum-circuits-8-7DE0F3BEB7",
+   "company": "Oxford Quantum Circuits",
+   "companyType": "startup",
+   "title": "Quantum Algorithm Engineer - Generative Models",
+   "location": "London, England, United Kingdom; London, United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://apply.workable.com/j/7DE0F3BEB7",
+   "posted": "2026-09-24",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "workable",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7196,7 +9229,7 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7218,7 +9251,128 @@
    "tags": [],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0047179amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "2027 Generative Media Research Intern",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0047179&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Internship; employer close to your interests. Found on the company's careers page.",
+   "level": "early",
+   "tags": [
+    "research",
+    "llm"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0046870amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Software Engineer, ML Infrastructure, Level 5",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0046870&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "More infrastructure than modelling; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0047200amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Software Engineer, ML Infrastructure, ML Platform Level 5",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0047200&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "More infrastructure than modelling; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-careerssnapcomjobslangen-jobidR0047198amplangenUS",
+   "company": "Snap Inc. (London)",
+   "companyType": "lab",
+   "title": "Software Engineer, ML infrastructure, Core Inference, Level 4",
+   "location": "London (assumed)",
+   "cities": [
+    "london"
+   ],
+   "url": "https://careers.snap.com/job?id=R0047198&amp;lang=en-US",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "More infrastructure than modelling; employer close to your interests. Found on the company's careers page.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-spaitial-3ba04d10-309",
+   "company": "SpAItial",
+   "companyType": "startup",
+   "title": "Machine Learning Systems & Infrastructure Engineer",
+   "location": "London; Munich; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/spaitial/3ba04d10-3097-44f3-9058-003a747944d8",
+   "posted": "2026-05-06",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "More infrastructure than modelling; employer close to your interests.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7242,7 +9396,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7266,7 +9420,150 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-tripadvisor-8222892",
+   "company": "Tripadvisor (London)",
+   "companyType": "lab",
+   "title": "London - ML Ops Engineer II (Experiences)",
+   "location": "UK",
+   "cities": [],
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8222892",
+   "posted": "2026-09-22",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-tripadvisor-8220096",
+   "company": "Tripadvisor (London)",
+   "companyType": "lab",
+   "title": "London - Senior ML Ops Engineer (Experiences)",
+   "location": "UK",
+   "cities": [],
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8220096",
+   "posted": "2026-09-21",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-tripadvisor-8230405",
+   "company": "Tripadvisor (London)",
+   "companyType": "lab",
+   "title": "Senior Data Scientist, Experimentation",
+   "location": "London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8230405",
+   "posted": "2026-09-24",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "senior",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-tripadvisor-7946763",
+   "company": "Tripadvisor (London)",
+   "companyType": "lab",
+   "title": "Senior Product Data Scientist",
+   "location": "London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7946763",
+   "posted": "2026-05-20",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "senior",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-ultralytics-82aa5083-925",
+   "company": "Ultralytics",
+   "companyType": "startup",
+   "title": "LLM Engineer",
+   "location": "London; Madrid; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/ultralytics/82aa5083-9256-4441-890f-f4a1bfbc257e",
+   "posted": "2026-06-10",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "engineering",
+    "llm"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "gh-via-8772567002",
+   "company": "Via (London)",
+   "companyType": "lab",
+   "title": "Algorithm Researcher",
+   "location": "London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://job-boards.greenhouse.io/via/jobs/8772567002",
+   "posted": "2026-09-02",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "research"
+   ],
+   "source": "greenhouse",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7290,7 +9587,205 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pp-xantura-525769",
+   "company": "Xantura",
+   "companyType": "startup",
+   "title": "Senior ML Ops Engineer",
+   "location": "London, Southwark, London",
+   "cities": [
+    "london"
+   ],
+   "url": "https://xantura.pinpointhq.com/en/postings/5f9c89f3-1b88-4231-81c4-f1f6fdfa42b1",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "senior",
+   "tags": [
+    "engineering"
+   ],
+   "source": "pinpoint",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "wd-zebrawd501Zebracareers-JR103024",
+   "company": "Zebra Technologies (London)",
+   "companyType": "lab",
+   "title": "AI Software Engineer",
+   "location": "London, United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/London-United-Kingdom/AI-Software-Engineer_JR103024",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Relevant ML or data role.",
+   "level": "mid",
+   "tags": [
+    "engineering"
+   ],
+   "source": "workday",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-dc2fdef7-d5b",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Data Scientist - Broker Flow",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/dc2fdef7-d5b1-486d-ba77-044f7c44f980",
+   "posted": "2026-10-13",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-c097d2a9-aa1",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Data Scientist - Broker Terms",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/c097d2a9-aa18-4e49-85ba-70a5b9f2b3bb",
+   "posted": "2026-10-23",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-6d4ca2ff-b27",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Data Scientist - Credit Cards",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/6d4ca2ff-b279-4500-9695-cabff46653a1",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-d6239e27-9b0",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Data Scientist - Partner Flow Team",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/d6239e27-9b0c-4792-9322-3f58cd1d1ee2",
+   "posted": "2026-10-07",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-e1a3995c-a4b",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Data Scientist - Third-Party Acquisition",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/e1a3995c-a4bc-4498-a7e9-6c84f94396cf",
+   "posted": "2026-10-22",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "ashby-iwoca.co.uk-92dc2370-c6f",
+   "company": "iwoca",
+   "companyType": "startup",
+   "title": "Data Scientist - iwocaPay Credit Risk Modelling",
+   "location": "London; United Kingdom",
+   "cities": [
+    "london"
+   ],
+   "url": "https://jobs.ashbyhq.com/iwoca.co.uk/92dc2370-c6fd-48c2-b2f6-6feeb68f8af1",
+   "posted": "2026-10-21",
+   "closes": null,
+   "salary": null,
+   "score": 2,
+   "why": "Data science role.",
+   "level": "mid",
+   "tags": [
+    "research",
+    "data science"
+   ],
+   "source": "ashby",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7314,7 +9809,7 @@
    ],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7338,7 +9833,49 @@
    ],
    "source": "amazon",
    "firstSeen": "2026-10-27T06:21:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "wd-travelhrportalwd1Jobs-J-84293",
+   "company": "American Express Global Business Travel",
+   "companyType": "lab",
+   "title": "Sr. Application Security Architect (AI & API)",
+   "location": "United Kingdom",
+   "cities": [],
+   "url": "https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/United-Kingdom/Sr-Application-Security-Architect--AI---API-_J-84293",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 1,
+   "why": "Relevant ML or data role.",
+   "level": "senior",
+   "tags": [],
+   "source": "workday",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
+   "active": true
+  },
+  {
+   "id": "pg-wwwcambridgeconsultantsc-ghjid4700351101",
+   "company": "Cambridge Consultants",
+   "companyType": "lab",
+   "title": "PhD AI Internship – 6 or 12 months (2026 or 2027 start)",
+   "location": "Cambridge (assumed)",
+   "cities": [
+    "cambridge"
+   ],
+   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/phd-ai-internship-6-or-12-months/?gh_jid=4700351101",
+   "posted": null,
+   "closes": null,
+   "salary": null,
+   "score": 1,
+   "why": "Internship. Found on the company's careers page.",
+   "level": "early",
+   "tags": [],
+   "source": "page",
+   "firstSeen": "2026-10-29T19:23:01+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7362,7 +9899,7 @@
    ],
    "source": "page",
    "firstSeen": "2026-10-14T12:55:49+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7384,7 +9921,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-16T22:18:00+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7408,7 +9945,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7457,7 +9994,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-28T06:53:53+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7481,7 +10018,7 @@
    ],
    "source": "greenhouse",
    "firstSeen": "2026-10-13T18:38:44+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7504,7 +10041,8 @@
    "source": "ashby",
    "firstSeen": "2026-10-13T18:38:44+00:00",
    "lastSeen": "2026-10-29T07:11:23+00:00",
-   "active": true
+   "active": false,
+   "closedSeen": "2026-10-29T19:23:01+00:00"
   },
   {
    "id": "ashby-sona-548c4d2b-ad4",
@@ -7525,7 +10063,7 @@
    "tags": [],
    "source": "ashby",
    "firstSeen": "2026-10-13T18:41:35+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7574,7 +10112,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   },
   {
@@ -7598,7 +10136,7 @@
    ],
    "source": "hackernews",
    "firstSeen": "2026-10-13T22:54:59+00:00",
-   "lastSeen": "2026-10-29T07:11:23+00:00",
+   "lastSeen": "2026-10-29T19:23:01+00:00",
    "active": true
   }
  ]
