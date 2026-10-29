@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-29",
  "companies": [
   {
    "name": "Google DeepMind",
@@ -2040,6 +2040,341 @@
    "source": "Added on request",
    "sourceUrl": "https://jobs.gem.com/boltz",
    "website": "https://boltz.bio"
+  },
+  {
+   "name": "Gigaton",
+   "city": "London",
+   "focus": "Machine learning",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null
+  },
+  {
+   "name": "OmniBuds",
+   "city": "Cambridge",
+   "focus": "Health-sensing earbuds with applied ML",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null
+  },
+  {
+   "name": "digiLab",
+   "city": "London",
+   "focus": "Machine learning for engineering and safety-critical industries",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.digilab.co.uk"
+  },
+  {
+   "name": "SpAItial",
+   "city": "London",
+   "focus": "3D world models / generative AI",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.spaitial.ai"
+  },
+  {
+   "name": "SPAICE",
+   "city": "London",
+   "focus": "Computer vision for space and autonomy",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Archer",
+   "city": "London",
+   "focus": "AI engineering",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Orbital Industries",
+   "city": "London",
+   "focus": "ML research",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Terra API",
+   "city": "London",
+   "focus": "Health and wearables data API with AI",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://tryterra.co"
+  },
+  {
+   "name": "CircuitHub",
+   "city": "London",
+   "focus": "Electronics manufacturing with computer vision",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://circuithub.com"
+  },
+  {
+   "name": "Solvo.ai",
+   "city": "London",
+   "focus": "Machine learning",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null
+  },
+  {
+   "name": "Ultralytics",
+   "city": "London",
+   "focus": "YOLO computer vision models",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.ultralytics.com"
+  },
+  {
+   "name": "Perspectum",
+   "city": "Oxford",
+   "focus": "Medical imaging and data science",
+   "funding": "",
+   "type": "startup",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.perspectum.com"
+  },
+  {
+   "name": "Xantura",
+   "city": "London",
+   "focus": "Data science for public services",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.xantura.com"
+  },
+  {
+   "name": "Oxford Quantum Circuits",
+   "city": "South East England",
+   "focus": "Quantum computing (applied science, computer vision)",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://oqc.tech"
+  },
+  {
+   "name": "Thermoteknix",
+   "city": "Cambridge area",
+   "focus": "Thermal imaging and AI image processing",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.thermoteknix.com"
+  },
+  {
+   "name": "G-Research",
+   "city": "London",
+   "focus": "Quantitative research and machine learning",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.gresearch.com"
+  },
+  {
+   "name": "Snap Inc. (London)",
+   "city": "London",
+   "focus": "Computer vision and ML research",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://snap.com"
+  },
+  {
+   "name": "Autodesk (London)",
+   "city": "London",
+   "focus": "ML for 3D geometry and multimodal design",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.autodesk.com"
+  },
+  {
+   "name": "Zebra Technologies (London)",
+   "city": "London",
+   "focus": "AI research",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.zebra.com"
+  },
+  {
+   "name": "Tripadvisor (London)",
+   "city": "London",
+   "focus": "Machine learning science",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.tripadvisor.com"
+  },
+  {
+   "name": "Entrust (London)",
+   "city": "London",
+   "focus": "Computer vision for identity verification",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.entrust.com"
+  },
+  {
+   "name": "Via (London)",
+   "city": "London",
+   "focus": "Algorithms and optimisation research",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://ridewithvia.com"
+  },
+  {
+   "name": "ASOS",
+   "city": "London",
+   "focus": "Applied science for e-commerce",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.asos.com"
+  },
+  {
+   "name": "Flo Health",
+   "city": "London",
+   "focus": "Machine learning for women's health app",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://flo.health"
+  },
+  {
+   "name": "iwoca",
+   "city": "London",
+   "focus": "Applied AI for SME lending",
+   "funding": "",
+   "type": "startup",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.iwoca.co.uk"
+  },
+  {
+   "name": "Compare the Market",
+   "city": "London",
+   "focus": "Machine learning engineering",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.comparethemarket.com"
+  },
+  {
+   "name": "American Express Global Business Travel",
+   "city": "London",
+   "focus": "Machine learning engineering",
+   "funding": "",
+   "type": "lab",
+   "fit": "L",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.amexglobalbusinesstravel.com"
+  },
+  {
+   "name": "MediaTek (Cambridge)",
+   "city": "Cambridge area",
+   "focus": "Research engineering (on-device AI, wireless)",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.mediatek.com"
+  },
+  {
+   "name": "Cambridge Consultants",
+   "city": "Cambridge",
+   "focus": "AI engineering and R&D consultancy",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.cambridgeconsultants.com"
+  },
+  {
+   "name": "The Alan Turing Institute",
+   "city": "London",
+   "focus": "National institute for data science and AI",
+   "funding": "",
+   "type": "lab",
+   "fit": "H",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.turing.ac.uk"
+  },
+  {
+   "name": "Siemens Digital Industries Software (Cambridge)",
+   "city": "Cambridge",
+   "focus": "AI software engineering",
+   "funding": "",
+   "type": "lab",
+   "fit": "M",
+   "source": "Added on request (seen on LinkedIn, 2026-10-29)",
+   "sourceUrl": null,
+   "website": "https://www.sw.siemens.com"
   }
  ]
 }
