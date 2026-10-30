@@ -1,15 +1,15 @@
 {
- "lastRun": "2026-10-29T19:23:01+00:00",
+ "lastRun": "2026-10-30T07:14:32+00:00",
  "boardsTotal": 150,
  "boardsOk": 149,
  "boardsFailed": [
   "Fractile"
  ],
- "jobsActive": 394,
- "newThisRun": 104,
+ "jobsActive": 393,
+ "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 303 results scanned",
-  "cam.ac.uk: 64 vacancies scanned",
+  "jobs.ac.uk: 299 results scanned",
+  "cam.ac.uk: 62 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
   "Amazon: 48 scanned, 9 kept"
@@ -37,7 +37,7 @@
    "company": "American Express Global Business Travel",
    "ats": "workday",
    "slug": "travelhrportal|wd1|Jobs",
-   "status": "ok: 400 jobs, 2 kept"
+   "status": "ok: 219 jobs, 2 kept"
   },
   {
    "company": "Antare",
@@ -49,7 +49,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 671 jobs, 14 kept"
+   "status": "ok: 669 jobs, 14 kept"
   },
   {
    "company": "Apollo Research",
@@ -145,7 +145,7 @@
    "company": "Cohere",
    "ats": "ashby",
    "slug": "cohere",
-   "status": "ok: 121 jobs, 17 kept"
+   "status": "ok: 122 jobs, 17 kept"
   },
   {
    "company": "Condukt",
@@ -205,13 +205,13 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 157 jobs, 6 kept"
+   "status": "ok: 150 jobs, 6 kept"
   },
   {
    "company": "Encord",
    "ats": "ashby",
    "slug": "encord",
-   "status": "ok: 36 jobs, 3 kept"
+   "status": "ok: 35 jobs, 2 kept"
   },
   {
    "company": "Faculty",
@@ -397,7 +397,7 @@
    "company": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "status": "ok: 230 jobs, 21 kept"
+   "status": "ok: 229 jobs, 21 kept"
   },
   {
    "company": "Multiverse",
@@ -439,13 +439,13 @@
    "company": "Olix",
    "ats": "ashby",
    "slug": "olix",
-   "status": "ok: 20 jobs, 0 kept"
+   "status": "ok: 21 jobs, 0 kept"
   },
   {
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 812 jobs, 11 kept"
+   "status": "ok: 814 jobs, 11 kept"
   },
   {
    "company": "Orbital Industries",
@@ -637,7 +637,7 @@
    "company": "Tripadvisor (London)",
    "ats": "greenhouse",
    "slug": "tripadvisor",
-   "status": "ok: 81 jobs, 6 kept"
+   "status": "ok: 80 jobs, 6 kept"
   },
   {
    "company": "UK AI Security Institute",
@@ -667,7 +667,7 @@
    "company": "Via (London)",
    "ats": "greenhouse",
    "slug": "via",
-   "status": "ok: 181 jobs, 1 kept"
+   "status": "ok: 179 jobs, 1 kept"
   },
   {
    "company": "Wayve",
@@ -685,7 +685,7 @@
    "company": "Zebra Technologies (London)",
    "ats": "workday",
    "slug": "zebra|wd501|Zebra_careers",
-   "status": "ok: 251 jobs, 2 kept"
+   "status": "ok: 247 jobs, 2 kept"
   },
   {
    "company": "44pixels",
@@ -871,7 +871,7 @@
    "company": "Snap Inc. (London)",
    "ats": "page",
    "slug": "https://careers.snap.com/jobs?lang=en-US",
-   "status": "ok: 120 jobs, 19 kept"
+   "status": "ok: 119 jobs, 19 kept"
   },
   {
    "company": "Solvo.ai",
