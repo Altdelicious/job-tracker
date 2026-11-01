@@ -1,19 +1,18 @@
 {
- "lastRun": "2026-10-31T07:03:21+00:00",
+ "lastRun": "2026-11-01T07:37:22+00:00",
  "boardsTotal": 150,
- "boardsOk": 148,
+ "boardsOk": 149,
  "boardsFailed": [
-  "American Express Global Business Travel",
   "Fractile"
  ],
- "jobsActive": 395,
- "newThisRun": 7,
+ "jobsActive": 393,
+ "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 304 results scanned",
-  "cam.ac.uk: 59 vacancies scanned",
+  "jobs.ac.uk: 300 results scanned",
+  "cam.ac.uk: 58 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
-  "Amazon: 50 scanned, 10 kept"
+  "Amazon: 49 scanned, 9 kept"
  ],
  "boards": [
   {
@@ -38,7 +37,7 @@
    "company": "American Express Global Business Travel",
    "ats": "workday",
    "slug": "travelhrportal|wd1|Jobs",
-   "status": "error: JSONDecodeError"
+   "status": "ok: 219 jobs, 2 kept"
   },
   {
    "company": "Antare",
@@ -206,7 +205,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 145 jobs, 6 kept"
+   "status": "ok: 138 jobs, 6 kept"
   },
   {
    "company": "Encord",
@@ -446,7 +445,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 813 jobs, 12 kept"
+   "status": "ok: 810 jobs, 12 kept"
   },
   {
    "company": "Orbital Industries",
@@ -656,7 +655,7 @@
    "company": "Unitary",
    "ats": "workable",
    "slug": "unitary",
-   "status": "ok: 5 jobs, 1 kept"
+   "status": "ok: 1 jobs, 0 kept"
   },
   {
    "company": "V7",
@@ -674,7 +673,7 @@
    "company": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
-   "status": "ok: 174 jobs, 14 kept"
+   "status": "ok: 175 jobs, 14 kept"
   },
   {
    "company": "Xantura",
@@ -872,7 +871,7 @@
    "company": "Snap Inc. (London)",
    "ats": "page",
    "slug": "https://careers.snap.com/jobs?lang=en-US",
-   "status": "ok: 118 jobs, 20 kept"
+   "status": "ok: 119 jobs, 20 kept"
   },
   {
    "company": "Solvo.ai",
