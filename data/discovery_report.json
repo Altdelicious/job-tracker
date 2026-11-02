@@ -1,7 +1,7 @@
 {
- "ranAt": "2026-10-29T19:16:57+00:00",
- "probed": 31,
- "found": 13,
+ "ranAt": "2026-11-02T13:51:43+00:00",
+ "probed": 48,
+ "found": 2,
  "notFound": [
   "44pixels",
   "AI Pathfinder",
@@ -43,7 +43,6 @@
   "Element Human",
   "Entrust (London)",
   "Etcembly",
-  "Ethos",
   "FintechOS",
   "Fyma",
   "G-Research",
@@ -54,7 +53,6 @@
   "Huma",
   "Inforcer",
   "Intellegens",
-  "Isembard",
   "Kheiron Medical",
   "KisanHub",
   "Kraken",
@@ -115,8 +113,5 @@
   "iProov",
   "iwoca"
  ],
- "lowConfidence": [
-  "Terra API → ashby:terra (10 jobs, 0 UK)",
-  "The Alan Turing Institute → ashby:alan (133 jobs, 0 UK)"
- ]
+ "lowConfidence": []
 }

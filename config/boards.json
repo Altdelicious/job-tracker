@@ -324,14 +324,14 @@
   {
    "company": "Cera",
    "ats": "page",
-   "slug": "https://ceracare.co.uk/jobs",
+   "slug": "https://homehealthcareconnected.co.uk/jobs",
    "type": "startup",
    "fit": "H",
    "city": "London",
    "confidence": "high",
    "enabled": true,
    "source": "site",
-   "via": "https://ceracare.co.uk/jobs"
+   "via": "https://homehealthcareconnected.co.uk/jobs"
   },
   {
    "company": "Chemify",
@@ -568,6 +568,18 @@
    "source": "discovered",
    "jobsAtDiscovery": 39,
    "ukJobsAtDiscovery": 32
+  },
+  {
+   "company": "Ethos",
+   "ats": "greenhouse",
+   "slug": "ethos",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 1,
+   "ukJobsAtDiscovery": 0
   },
   {
    "company": "Evident Insights",
@@ -829,6 +841,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://www.iproov.com/careers"
+  },
+  {
+   "company": "Isembard",
+   "ats": "ashby",
+   "slug": "isembard",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "high",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 35,
+   "ukJobsAtDiscovery": 21
   },
   {
    "company": "Isomorphic Labs",
