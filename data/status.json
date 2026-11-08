@@ -1,19 +1,18 @@
 {
- "lastRun": "2026-11-07T07:15:32+00:00",
+ "lastRun": "2026-11-08T07:27:13+00:00",
  "boardsTotal": 152,
- "boardsOk": 150,
+ "boardsOk": 151,
  "boardsFailed": [
-  "American Express Global Business Travel",
   "Fractile"
  ],
  "jobsActive": 393,
- "newThisRun": 11,
+ "newThisRun": 0,
  "notes": [
   "jobs.ac.uk: 307 results scanned",
   "cam.ac.uk: 63 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
-  "Amazon: 55 scanned, 9 kept"
+  "Amazon: 53 scanned, 9 kept"
  ],
  "boards": [
   {
@@ -38,7 +37,7 @@
    "company": "American Express Global Business Travel",
    "ats": "workday",
    "slug": "travelhrportal|wd1|Jobs",
-   "status": "error: JSONDecodeError"
+   "status": "ok: 227 jobs, 2 kept"
   },
   {
    "company": "Antare",
@@ -62,7 +61,7 @@
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 326 jobs, 3 kept"
+   "status": "ok: 322 jobs, 3 kept"
   },
   {
    "company": "Archer",
@@ -74,7 +73,7 @@
    "company": "ARIA",
    "ats": "pinpoint",
    "slug": "aria",
-   "status": "ok: 4 jobs, 0 kept"
+   "status": "ok: 3 jobs, 0 kept"
   },
   {
    "company": "ASOS",
@@ -206,7 +205,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 139 jobs, 5 kept"
+   "status": "ok: 137 jobs, 5 kept"
   },
   {
    "company": "Encord",
@@ -458,7 +457,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 820 jobs, 12 kept"
+   "status": "ok: 818 jobs, 12 kept"
   },
   {
    "company": "Orbital Industries",
@@ -686,7 +685,7 @@
    "company": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
-   "status": "ok: 172 jobs, 14 kept"
+   "status": "ok: 173 jobs, 14 kept"
   },
   {
    "company": "Xantura",
@@ -698,7 +697,7 @@
    "company": "Zebra Technologies (London)",
    "ats": "workday",
    "slug": "zebra|wd501|Zebra_careers",
-   "status": "ok: 242 jobs, 2 kept"
+   "status": "ok: 400 jobs, 2 kept"
   },
   {
    "company": "44pixels",
