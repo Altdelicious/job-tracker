@@ -1,18 +1,18 @@
 {
- "lastRun": "2026-11-08T07:27:13+00:00",
+ "lastRun": "2026-11-09T08:02:32+00:00",
  "boardsTotal": 152,
  "boardsOk": 151,
  "boardsFailed": [
   "Fractile"
  ],
- "jobsActive": 393,
- "newThisRun": 0,
+ "jobsActive": 394,
+ "newThisRun": 1,
  "notes": [
-  "jobs.ac.uk: 307 results scanned",
-  "cam.ac.uk: 63 vacancies scanned",
+  "jobs.ac.uk: 297 results scanned",
+  "cam.ac.uk: 53 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 24 UK roles kept",
-  "Amazon: 53 scanned, 9 kept"
+  "Amazon: 54 scanned, 9 kept"
  ],
  "boards": [
   {
@@ -37,7 +37,7 @@
    "company": "American Express Global Business Travel",
    "ats": "workday",
    "slug": "travelhrportal|wd1|Jobs",
-   "status": "ok: 227 jobs, 2 kept"
+   "status": "ok: 226 jobs, 2 kept"
   },
   {
    "company": "Antare",
@@ -49,7 +49,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 675 jobs, 14 kept"
+   "status": "ok: 677 jobs, 14 kept"
   },
   {
    "company": "Apollo Research",
@@ -205,13 +205,13 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 137 jobs, 5 kept"
+   "status": "ok: 136 jobs, 5 kept"
   },
   {
    "company": "Encord",
    "ats": "ashby",
    "slug": "encord",
-   "status": "ok: 38 jobs, 3 kept"
+   "status": "ok: 40 jobs, 3 kept"
   },
   {
    "company": "Ethos",
@@ -223,7 +223,7 @@
    "company": "Faculty",
    "ats": "ashby",
    "slug": "faculty",
-   "status": "ok: 87 jobs, 35 kept"
+   "status": "ok: 93 jobs, 35 kept"
   },
   {
    "company": "Flo Health",
@@ -235,7 +235,7 @@
    "company": "FluidStack",
    "ats": "ashby",
    "slug": "fluidstack",
-   "status": "ok: 252 jobs, 0 kept"
+   "status": "ok: 251 jobs, 0 kept"
   },
   {
    "company": "Fractile",
@@ -247,7 +247,7 @@
    "company": "Fuse Energy",
    "ats": "workable",
    "slug": "fuseenergy",
-   "status": "ok: 100 jobs, 7 kept"
+   "status": "ok: 101 jobs, 7 kept"
   },
   {
    "company": "Gigaton",
@@ -277,7 +277,7 @@
    "company": "Helsing",
    "ats": "greenhouse",
    "slug": "helsing",
-   "status": "ok: 160 jobs, 7 kept"
+   "status": "ok: 159 jobs, 7 kept"
   },
   {
    "company": "Hiverge",
@@ -457,7 +457,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 818 jobs, 12 kept"
+   "status": "ok: 813 jobs, 12 kept"
   },
   {
    "company": "Orbital Industries",
@@ -481,7 +481,7 @@
    "company": "PhysicsX",
    "ats": "greenhouse",
    "slug": "physicsx",
-   "status": "ok: 40 jobs, 3 kept"
+   "status": "ok: 41 jobs, 4 kept"
   },
   {
    "company": "Plumerai",
@@ -535,7 +535,7 @@
    "company": "Riverlane",
    "ats": "greenhouse",
    "slug": "riverlane",
-   "status": "ok: 37 jobs, 3 kept"
+   "status": "ok: 31 jobs, 3 kept"
   },
   {
    "company": "SalesAPE.ai",
@@ -697,7 +697,7 @@
    "company": "Zebra Technologies (London)",
    "ats": "workday",
    "slug": "zebra|wd501|Zebra_careers",
-   "status": "ok: 400 jobs, 2 kept"
+   "status": "ok: 238 jobs, 2 kept"
   },
   {
    "company": "44pixels",
