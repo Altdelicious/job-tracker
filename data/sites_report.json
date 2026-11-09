@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-11-02T14:47:44+00:00",
+ "ranAt": "2026-11-09T14:48:03+00:00",
  "results": [
   {
    "company": "Google DeepMind",
@@ -387,13 +387,7 @@
   {
    "company": "PharmEnable",
    "website": "https://pharmenable.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://pharmenabletx.com/careers/",
-   "via": "https://pharmenabletx.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "website not reachable"
   },
   {
    "company": "Trismik",
@@ -437,8 +431,8 @@
    "ats": "page",
    "slug": "https://us.cmrsurgical.com/careers",
    "via": "https://us.cmrsurgical.com/careers",
-   "jobs": 1,
-   "ukJobs": 1
+   "jobs": 2,
+   "ukJobs": 2
   },
   {
    "company": "Automata",
@@ -460,14 +454,7 @@
   },
   {
    "company": "Stateful Robotics",
-   "website": "https://statefulrobotics.com/",
-   "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "via": "https://statefulrobotics.com/careers-research-engineer-oct26/",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no website found"
   },
   {
    "company": "Optellum",
@@ -499,8 +486,8 @@
    "ats": "page",
    "slug": "https://www.chemify.io/careers",
    "via": "https://www.chemify.io/careers",
-   "jobs": 16,
-   "ukJobs": 16
+   "jobs": 17,
+   "ukJobs": 17
   },
   {
    "company": "Evident Insights",
@@ -515,14 +502,25 @@
   },
   {
    "company": "Zenithon",
-   "website": "https://zenithon.io/",
+   "website": "https://zenithon.ai/",
    "guessed": true,
-   "result": "no careers page found"
+   "result": "page",
+   "ats": "page",
+   "slug": "https://zenithon.ai/careers",
+   "via": "https://zenithon.ai/careers",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Kheiron Medical",
    "website": "https://kheironmed.com",
-   "result": "website not reachable"
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://deephealth.com/careers/",
+   "via": "https://deephealth.com/careers/",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Huma",
@@ -590,8 +588,8 @@
    "ats": "page",
    "slug": "https://www.governance.ai/opportunities",
    "via": "https://www.governance.ai/opportunities",
-   "jobs": 4,
-   "ukJobs": 4
+   "jobs": 3,
+   "ukJobs": 3
   },
   {
    "company": "Leap Labs",
@@ -640,14 +638,9 @@
   },
   {
    "company": "Solvo.ai",
-   "website": "https://www.solvo.ai/",
+   "website": "https://solvoai.ai/",
    "guessed": true,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.solvo.ai/careers",
-   "via": "https://www.solvo.ai/careers",
-   "jobs": 2,
-   "ukJobs": 2
+   "result": "no careers page found"
   },
   {
    "company": "Perspectum",
@@ -663,8 +656,8 @@
    "ats": "page",
    "slug": "https://www.gresearch.com/vacancies/",
    "via": "https://www.gresearch.com/vacancies/",
-   "jobs": 58,
-   "ukJobs": 58
+   "jobs": 53,
+   "ukJobs": 53
   },
   {
    "company": "Snap Inc. (London)",
@@ -706,8 +699,8 @@
    "ats": "page",
    "slug": "https://www.cambridgeconsultants.com/careers/",
    "via": "https://www.cambridgeconsultants.com/careers/",
-   "jobs": 43,
-   "ukJobs": 43
+   "jobs": 41,
+   "ukJobs": 41
   },
   {
    "company": "The Alan Turing Institute",
