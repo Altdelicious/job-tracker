@@ -1,15 +1,14 @@
 {
- "lastRun": "2026-11-14T07:38:34+00:00",
+ "lastRun": "2026-11-15T07:54:49+00:00",
  "boardsTotal": 152,
- "boardsOk": 150,
+ "boardsOk": 151,
  "boardsFailed": [
-  "American Express Global Business Travel",
   "Fractile"
  ],
  "jobsActive": 385,
- "newThisRun": 6,
+ "newThisRun": 0,
  "notes": [
-  "jobs.ac.uk: 315 results scanned",
+  "jobs.ac.uk: 311 results scanned",
   "cam.ac.uk: 62 vacancies scanned",
   "Adzuna: skipped (no API key set)",
   "Hacker News: 25 UK roles kept",
@@ -38,7 +37,7 @@
    "company": "American Express Global Business Travel",
    "ats": "workday",
    "slug": "travelhrportal|wd1|Jobs",
-   "status": "board not reachable {}"
+   "status": "ok: 223 jobs, 2 kept"
   },
   {
    "company": "Antare",
@@ -50,7 +49,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 670 jobs, 12 kept"
+   "status": "ok: 669 jobs, 12 kept"
   },
   {
    "company": "Apollo Research",
@@ -236,7 +235,7 @@
    "company": "FluidStack",
    "ats": "ashby",
    "slug": "fluidstack",
-   "status": "ok: 254 jobs, 0 kept"
+   "status": "ok: 252 jobs, 0 kept"
   },
   {
    "company": "Fractile",
@@ -458,7 +457,7 @@
    "company": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "status": "ok: 838 jobs, 10 kept"
+   "status": "ok: 840 jobs, 10 kept"
   },
   {
    "company": "Orbital Industries",
@@ -680,7 +679,7 @@
    "company": "Via (London)",
    "ats": "greenhouse",
    "slug": "via",
-   "status": "ok: 179 jobs, 1 kept"
+   "status": "ok: 177 jobs, 1 kept"
   },
   {
    "company": "Wayve",
