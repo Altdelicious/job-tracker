@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-11-09T14:48:03+00:00",
+ "ranAt": "2026-11-16T14:24:36+00:00",
  "results": [
   {
    "company": "Google DeepMind",
@@ -37,11 +37,12 @@
    "company": "RHAELM",
    "website": "https://rhaelm.com/",
    "guessed": true,
-   "result": "platform (feed did not answer)",
-   "ats": "teamtailor",
-   "slug": "https://rhaelm.com",
+   "result": "page",
+   "ats": "page",
+   "slug": "https://rhaelm.com/careers",
    "via": "https://rhaelm.com/careers",
-   "jobs": null
+   "jobs": 2,
+   "ukJobs": 2
   },
   {
    "company": "Jack & Jill",
@@ -63,7 +64,12 @@
    "company": "Paid",
    "website": "https://paid.ai/",
    "guessed": true,
-   "result": "no careers page found"
+   "result": "platform",
+   "ats": "ashby",
+   "slug": "paid",
+   "via": "https://jobs.ashbyhq.com/paid",
+   "jobs": 2,
+   "ukJobs": 2
   },
   {
    "company": "Mosaic Therapeutics",
@@ -199,8 +205,8 @@
    "ats": "page",
    "slug": "https://www.iproov.com/careers",
    "via": "https://www.iproov.com/careers",
-   "jobs": 6,
-   "ukJobs": 6
+   "jobs": 5,
+   "ukJobs": 5
   },
   {
    "company": "Partly",
@@ -387,7 +393,13 @@
   {
    "company": "PharmEnable",
    "website": "https://pharmenable.com",
-   "result": "website not reachable"
+   "guessed": false,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://pharmenabletx.com/careers/",
+   "via": "https://pharmenabletx.com/careers/",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Trismik",
@@ -409,13 +421,14 @@
   {
    "company": "TidalSense",
    "website": "https://tidalsense.com",
-   "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://tidalsense.com/careers/",
+   "result": "platform",
+   "ats": "workable",
+   "slug": "659534",
    "via": "https://tidalsense.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
+   "rendered": true,
+   "guessed": false,
+   "jobs": 1,
+   "ukJobs": 1
   },
   {
    "company": "Decorte Future Industries",
@@ -454,7 +467,14 @@
   },
   {
    "company": "Stateful Robotics",
-   "result": "no website found"
+   "website": "https://statefulrobotics.com/",
+   "guessed": true,
+   "result": "page",
+   "ats": "page",
+   "slug": "https://statefulrobotics.com/careers-research-engineer-oct26/",
+   "via": "https://statefulrobotics.com/careers-research-engineer-oct26/",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Optellum",
@@ -464,8 +484,8 @@
    "ats": "page",
    "slug": "https://optellum.com/careers",
    "via": "https://optellum.com/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "jobs": 2,
+   "ukJobs": 2
   },
   {
    "company": "Ultromics",
@@ -486,8 +506,8 @@
    "ats": "page",
    "slug": "https://www.chemify.io/careers",
    "via": "https://www.chemify.io/careers",
-   "jobs": 17,
-   "ukJobs": 17
+   "jobs": 11,
+   "ukJobs": 11
   },
   {
    "company": "Evident Insights",
@@ -656,8 +676,8 @@
    "ats": "page",
    "slug": "https://www.gresearch.com/vacancies/",
    "via": "https://www.gresearch.com/vacancies/",
-   "jobs": 53,
-   "ukJobs": 53
+   "jobs": 63,
+   "ukJobs": 63
   },
   {
    "company": "Snap Inc. (London)",
@@ -667,8 +687,8 @@
    "ats": "page",
    "slug": "https://careers.snap.com/jobs?lang=en-US",
    "via": "https://careers.snap.com/jobs?lang=en-US",
-   "jobs": 118,
-   "ukJobs": 118
+   "jobs": 121,
+   "ukJobs": 121
   },
   {
    "company": "Autodesk (London)",
@@ -699,8 +719,8 @@
    "ats": "page",
    "slug": "https://www.cambridgeconsultants.com/careers/",
    "via": "https://www.cambridgeconsultants.com/careers/",
-   "jobs": 41,
-   "ukJobs": 41
+   "jobs": 40,
+   "ukJobs": 40
   },
   {
    "company": "The Alan Turing Institute",

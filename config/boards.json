@@ -1310,11 +1310,11 @@
    "slug": "paid",
    "type": "startup",
    "fit": "L",
-   "confidence": "low",
-   "enabled": false,
-   "source": "discovered",
-   "jobsAtDiscovery": 2,
-   "ukJobsAtDiscovery": 0
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://jobs.ashbyhq.com/paid"
   },
   {
    "company": "Partly",
@@ -1457,6 +1457,18 @@
    "enabled": true,
    "source": "site",
    "via": "https://www.relationrx.com/careers"
+  },
+  {
+   "company": "RHAELM",
+   "ats": "page",
+   "slug": "https://rhaelm.com/careers",
+   "type": "startup",
+   "fit": "M",
+   "city": "London",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://rhaelm.com/careers"
   },
   {
    "company": "Riverlane",
@@ -1744,8 +1756,8 @@
   },
   {
    "company": "TidalSense",
-   "ats": "page",
-   "slug": "https://tidalsense.com/careers/",
+   "ats": "workable",
+   "slug": "659534",
    "type": "startup",
    "fit": "H",
    "city": "Cambridge",
