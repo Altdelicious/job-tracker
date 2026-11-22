@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-11-21T08:20:03+00:00",
+ "lastRun": "2026-11-22T08:03:54+00:00",
  "boardsTotal": 154,
  "boardsOk": 150,
  "boardsFailed": [
@@ -8,8 +8,8 @@
   "Zebra Technologies (London)",
   "LASR Labs (Arcadia Impact)"
  ],
- "jobsActive": 378,
- "newThisRun": 7,
+ "jobsActive": 375,
+ "newThisRun": 1,
  "notes": [
   "jobs.ac.uk: 325 results scanned",
   "cam.ac.uk: 61 vacancies scanned",
@@ -52,7 +52,7 @@
    "company": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "status": "ok: 633 jobs, 13 kept"
+   "status": "ok: 635 jobs, 13 kept"
   },
   {
    "company": "Apollo Research",
@@ -64,7 +64,7 @@
    "company": "Applied AGI",
    "ats": "ashby",
    "slug": "applied",
-   "status": "ok: 336 jobs, 3 kept"
+   "status": "ok: 333 jobs, 3 kept"
   },
   {
    "company": "Archer",
@@ -118,7 +118,7 @@
    "company": "Callosum",
    "ats": "ashby",
    "slug": "callosum",
-   "status": "ok: 14 jobs, 12 kept"
+   "status": "ok: 12 jobs, 10 kept"
   },
   {
    "company": "capsa.ai",
@@ -208,7 +208,7 @@
    "company": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "status": "ok: 122 jobs, 6 kept"
+   "status": "ok: 121 jobs, 5 kept"
   },
   {
    "company": "Encord",
