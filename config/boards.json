@@ -37,6 +37,18 @@
    "ukJobsAtDiscovery": 1
   },
   {
+   "company": "Agon",
+   "ats": "ashby",
+   "slug": "agon",
+   "type": "startup",
+   "fit": "M",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "discovered",
+   "jobsAtDiscovery": 5,
+   "ukJobsAtDiscovery": 5
+  },
+  {
    "company": "algo1",
    "ats": "ashby",
    "slug": "algo1",
@@ -144,15 +156,15 @@
   },
   {
    "company": "Arrakis",
-   "ats": "ashby",
-   "slug": "arrakis",
+   "ats": "page",
+   "slug": "https://arrakis.security/careers",
    "type": "startup",
    "fit": "M",
-   "confidence": "low",
-   "enabled": false,
-   "source": "discovered",
-   "jobsAtDiscovery": 3,
-   "ukJobsAtDiscovery": 0
+   "city": "South West England",
+   "confidence": "medium",
+   "enabled": true,
+   "source": "site",
+   "via": "https://arrakis.security/careers"
   },
   {
    "company": "Arthos",
@@ -502,14 +514,14 @@
   {
    "company": "Doubleword",
    "ats": "page",
-   "slug": "https://doubleword.ai/careers",
+   "slug": "https://doubleword.ai/careers/",
    "type": "startup",
    "fit": "M",
    "city": "London",
    "confidence": "high",
    "enabled": true,
    "source": "site",
-   "via": "https://doubleword.ai/careers"
+   "via": "https://doubleword.ai/careers/"
   },
   {
    "company": "Dwelly",

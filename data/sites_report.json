@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-11-16T14:24:36+00:00",
+ "ranAt": "2026-11-23T16:55:37+00:00",
  "results": [
   {
    "company": "Google DeepMind",
@@ -56,27 +56,17 @@
   },
   {
    "company": "Arrakis",
-   "website": "https://www.arrakis.tech/",
+   "website": "https://arrakis.security/",
    "guessed": true,
-   "result": "no careers page found"
-  },
-  {
-   "company": "Paid",
-   "website": "https://paid.ai/",
-   "guessed": true,
-   "result": "platform",
-   "ats": "ashby",
-   "slug": "paid",
-   "via": "https://jobs.ashbyhq.com/paid",
-   "jobs": 2,
-   "ukJobs": 2
+   "result": "page",
+   "ats": "page",
+   "slug": "https://arrakis.security/careers",
+   "via": "https://arrakis.security/careers",
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Mosaic Therapeutics",
-   "result": "no website found"
-  },
-  {
-   "company": "Agon",
    "result": "no website found"
   },
   {
@@ -236,8 +226,8 @@
    "guessed": false,
    "result": "page",
    "ats": "page",
-   "slug": "https://doubleword.ai/careers",
-   "via": "https://doubleword.ai/careers",
+   "slug": "https://doubleword.ai/careers/",
+   "via": "https://doubleword.ai/careers/",
    "jobs": 0,
    "ukJobs": 0
   },
@@ -419,18 +409,6 @@
    "result": "no careers page found"
   },
   {
-   "company": "TidalSense",
-   "website": "https://tidalsense.com",
-   "result": "platform",
-   "ats": "workable",
-   "slug": "659534",
-   "via": "https://tidalsense.com/careers/",
-   "rendered": true,
-   "guessed": false,
-   "jobs": 1,
-   "ukJobs": 1
-  },
-  {
    "company": "Decorte Future Industries",
    "website": "https://decorte.co.uk/",
    "guessed": true,
@@ -444,8 +422,8 @@
    "ats": "page",
    "slug": "https://us.cmrsurgical.com/careers",
    "via": "https://us.cmrsurgical.com/careers",
-   "jobs": 2,
-   "ukJobs": 2
+   "jobs": 3,
+   "ukJobs": 3
   },
   {
    "company": "Automata",
@@ -517,8 +495,8 @@
    "ats": "page",
    "slug": "https://evidentinsights.com/careers",
    "via": "https://evidentinsights.com/careers",
-   "jobs": 1,
-   "ukJobs": 1
+   "jobs": 0,
+   "ukJobs": 0
   },
   {
    "company": "Zenithon",
@@ -535,12 +513,11 @@
    "company": "Kheiron Medical",
    "website": "https://kheironmed.com",
    "guessed": false,
-   "result": "page",
+   "result": "page (feed did not answer)",
    "ats": "page",
    "slug": "https://deephealth.com/careers/",
    "via": "https://deephealth.com/careers/",
-   "jobs": 0,
-   "ukJobs": 0
+   "jobs": null
   },
   {
    "company": "Huma",
@@ -571,23 +548,13 @@
   {
    "company": "Robin AI",
    "website": "https://robinai.com",
-   "guessed": false,
-   "result": "platform (feed did not answer)",
-   "ats": "ashby",
-   "slug": "robin-ai",
-   "via": "https://robinai.com/company",
-   "jobs": null
+   "result": "website not reachable"
   },
   {
    "company": "LASR Labs (Arcadia Impact)",
    "website": "https://lasrlabs.org",
    "guessed": false,
-   "result": "page",
-   "ats": "page",
-   "slug": "https://www.lasrlabs.org/careers",
-   "via": "https://www.lasrlabs.org/careers",
-   "jobs": 0,
-   "ukJobs": 0
+   "result": "no careers page found"
   },
   {
    "company": "Cooperative AI Foundation",
@@ -676,8 +643,8 @@
    "ats": "page",
    "slug": "https://www.gresearch.com/vacancies/",
    "via": "https://www.gresearch.com/vacancies/",
-   "jobs": 63,
-   "ukJobs": 63
+   "jobs": 59,
+   "ukJobs": 59
   },
   {
    "company": "Snap Inc. (London)",
@@ -687,8 +654,8 @@
    "ats": "page",
    "slug": "https://careers.snap.com/jobs?lang=en-US",
    "via": "https://careers.snap.com/jobs?lang=en-US",
-   "jobs": 121,
-   "ukJobs": 121
+   "jobs": 115,
+   "ukJobs": 115
   },
   {
    "company": "Autodesk (London)",
@@ -719,8 +686,8 @@
    "ats": "page",
    "slug": "https://www.cambridgeconsultants.com/careers/",
    "via": "https://www.cambridgeconsultants.com/careers/",
-   "jobs": 40,
-   "ukJobs": 40
+   "jobs": 43,
+   "ukJobs": 43
   },
   {
    "company": "The Alan Turing Institute",
